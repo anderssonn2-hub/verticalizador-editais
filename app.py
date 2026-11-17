@@ -17,7 +17,7 @@ st.markdown('''<style>
 [data-testid="stDownloadButton"] button{border-radius:10px;background:#217346;color:white;border:1px solid #217346;font-weight:600}
 [data-testid="stDownloadButton"] button:hover{background:#175a36;color:white;border-color:#175a36}
 @media(max-width:600px){.hero{padding:23px}.steps{gap:5px}.step{padding:8px;font-size:.72rem}}
-</style><div class="hero"><small>PLANEJAMENTO DE ESTUDOS · V2.0.1 BETA</small><h1>Verticalizador de Editais</h1><p>Do edital à planilha de estudos. Organize, confira e exporte em Excel.</p></div>
+</style><div class="hero"><small>PLANEJAMENTO DE ESTUDOS · V2.0.2 BETA</small><h1>Verticalizador de Editais</h1><p>Do edital à planilha de estudos. Organize, confira e exporte em Excel.</p></div>
 <div class="steps"><div class="step"><span>01</span>Enviar arquivos</div><div class="step"><span>02</span>Conferir conteúdo</div><div class="step"><span>03</span>Exportar Excel</div></div>''',unsafe_allow_html=True)
 st.subheader('01 · Arquivos de entrada')
 st.caption('Selecione o edital em PDF e o modelo de planilha utilizado no seu planejamento.')
@@ -70,16 +70,18 @@ try:
         c2.metric('Assuntos na revisão',len(valid))
         c3.metric('Páginas selecionadas',scope[1]-scope[0]+1)
         st.caption('Os números acima refletem a tabela de revisão, não necessariamente o total final do Excel.')
-        confirmed=st.checkbox('Conferi os assuntos e a correspondência com este cargo',key=f'c{key}{cargo}{scope}')
-        if confirmed:
-            result=montar(base,edited); _,wb=preparar_modelo(modelo.getvalue(),modelo.name); output=excel(result,wb)
+        if valid:
+            result=montar(base,valid); _,wb=preparar_modelo(modelo.getvalue(),modelo.name); output=excel(result,wb)
             name=f'{i+1}_'+re.sub(r'[^\w-]+','_',cargo)+'.xlsx';files[name]=output
-            st.success('Planilha Excel disponível para download.')
-            st.download_button('Baixar Excel (.xlsx)',output,name,'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet',key=f'd{key}{cargo}')
+            st.markdown('#### Sua planilha está pronta')
+            st.caption('O arquivo incorpora os assuntos da tabela de revisão. Confira o conteúdo antes de utilizar.')
+            st.download_button('⬇ Baixar planilha Excel (.xlsx)',output,name,'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet',key=f'd{key}{cargo}',use_container_width=True)
+        else:
+            st.warning('Inclua pelo menos um assunto válido para disponibilizar o Excel.')
     if len(files)>1:
         buf=io.BytesIO()
         with zipfile.ZipFile(buf,'w',zipfile.ZIP_DEFLATED) as z:
             for name,data in files.items(): z.writestr(name,data)
         st.download_button('Baixar todos os cargos (ZIP)',buf.getvalue(),'editais.zip','application/zip')
 except Exception as e: st.error(f'Não foi possível processar: {e}')
-st.caption('V2.0.1 beta · Extração genérica por padrões, com revisão obrigatória.')
+st.caption('V2.0.2 beta · Extração genérica por padrões, confira o conteúdo antes de utilizar.')
