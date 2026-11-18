@@ -3,7 +3,7 @@ import io, zipfile, re, hashlib
 from universal import paginas, localizar, cargos, extrair, montar
 from verticalizar import gerar
 from exportar import preparar_modelo, excel, ler_csv
-st.set_page_config(page_title='Verticalizador de Editais',page_icon='📄',layout='wide')
+st.set_page_config(page_title='Edital Inteligente',page_icon='📄',layout='wide')
 st.markdown('''<style>
 .block-container{max-width:1120px;padding-top:2.5rem;padding-bottom:3rem}
 .hero{background:linear-gradient(115deg,#102b46,#17635e);color:white;padding:36px;border-radius:18px;margin-bottom:24px}
@@ -17,8 +17,14 @@ st.markdown('''<style>
 [data-testid="stDownloadButton"] button{border-radius:10px;background:#217346;color:white;border:1px solid #217346;font-weight:600}
 [data-testid="stDownloadButton"] button:hover{background:#175a36;color:white;border-color:#175a36}
 @media(max-width:600px){.hero{padding:23px}.steps{gap:5px}.step{padding:8px;font-size:.72rem}}
-</style><div class="hero"><small>PLANEJAMENTO DE ESTUDOS · V2.0.2 BETA</small><h1>Verticalizador de Editais</h1><p>Do edital à planilha de estudos. Organize, confira e exporte em Excel.</p></div>
-<div class="steps"><div class="step"><span>01</span>Enviar arquivos</div><div class="step"><span>02</span>Conferir conteúdo</div><div class="step"><span>03</span>Exportar Excel</div></div>''',unsafe_allow_html=True)
+</style><div class="hero"><small>INTELIGÊNCIA PARA CONCURSOS · V3.0.10 DEV</small><h1>Edital Inteligente</h1><p>Sua estratégia começa pelo edital.</p></div>
+''',unsafe_allow_html=True)
+from raio_x import mostrar_raio_x
+modo = st.radio('Escolha o modo de operação', ['Raio-X do edital', 'Edital verticalizado'], horizontal=True)
+if modo == 'Raio-X do edital':
+    mostrar_raio_x()
+    st.stop()
+st.markdown("""<div class="steps"><div class="step"><span>01</span>Enviar arquivos</div><div class="step"><span>02</span>Conferir conteúdo</div><div class="step"><span>03</span>Exportar Excel</div></div>""", unsafe_allow_html=True)
 st.subheader('01 · Arquivos de entrada')
 st.caption('Selecione o edital em PDF e o modelo de planilha utilizado no seu planejamento.')
 a,b=st.columns(2)
@@ -54,14 +60,14 @@ try:
     for i,cargo in enumerate(chosen):
         st.divider()
         st.subheader(f'{i+1:02d} · {cargo}')
-        st.caption('Ajuste o intervalo, confira o texto e revise os assuntos antes de exportar.')
+        st.caption('Confira o texto e revise os assuntos antes de exportar. Para cargos estruturados, a seleção é automática.')
         scope=st.slider('Páginas do conteúdo programático (inclua conhecimentos comuns)',1,n,(start,end),key=f'p{key}{cargo}') if n>1 else (1,1)
         with st.expander('Conferir texto original das páginas escolhidas'):
             st.text('\n'.join(pgs[scope[0]-1:scope[1]]))
         legacy=known and cargo=='Investigador de Polícia I' and scope==(start,end)
         if legacy:
             data,_=gerar(pdf.getvalue(),base); rows=ler_csv(data); original=ler_csv(base); preserved={tuple(r[:2]) for r in original[1:] if r[0].startswith('LÍNGUA PORTUGUESA')}; items=[dict(zip(rows[0][:2],r[:2])) for r in rows[1:] if tuple(r[:2]) not in preserved]
-        else: items=extrair(pgs,*scope)
+        else: items=extrair(pgs,*scope,cargo=cargo)
         if not items: items=[{'Disciplina':'','Assunto':''}];st.warning('Nenhum padrão identificado. Informe os assuntos manualmente ou ajuste as páginas.')
         edited=st.data_editor(items,num_rows='dynamic',hide_index=True,key=f'e{key}{cargo}{scope}')
         valid=[r for r in edited if str(r.get('Disciplina') or '').strip() and str(r.get('Assunto') or '').strip()]
@@ -84,4 +90,4 @@ try:
             for name,data in files.items(): z.writestr(name,data)
         st.download_button('Baixar todos os cargos (ZIP)',buf.getvalue(),'editais.zip','application/zip')
 except Exception as e: st.error(f'Não foi possível processar: {e}')
-st.caption('V2.0.2 beta · Extração genérica por padrões, confira o conteúdo antes de utilizar.')
+st.caption('V3.0.10 DEV · Extração genérica por padrões, confira o conteúdo antes de utilizar.')

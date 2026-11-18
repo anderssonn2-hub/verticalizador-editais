@@ -10,6 +10,9 @@ def paginas(pdf):
         return [p.get_text(sort=True) for p in doc]
 
 def localizar(pgs):
+    from estrutura import limites
+    lim=limites(pgs)
+    if lim: return lim
     hits=[i+1 for i,p in enumerate(pgs) if re.search(r'CONTEUDOS? PROGRAMATICOS?|PROGRAMA DE PROVAS|OBJETOS DE AVALIACAO',norm(p))]
     if not hits: return 1,len(pgs)
     start=next((i for i in hits if re.search(r'CONHECIMENTOS (BASICOS|GERAIS|ESPECIFICOS)|LINGUA PORTUGUESA',norm(pgs[i-1]))),hits[-1])
@@ -17,6 +20,9 @@ def localizar(pgs):
     return start,max(start,end)
 
 def cargos(pgs):
+    from estrutura import opcoes
+    opts=opcoes(pgs)
+    if opts:return opts
     out=[]
     for p in pgs:
         for line in p.splitlines():
@@ -26,7 +32,9 @@ def cargos(pgs):
                 if name not in out: out.append(name)
     return out
 
-def extrair(pgs,start,end):
+def extrair(pgs,start,end,cargo=None):
+    from estrutura import opcoes,itens
+    if cargo in opcoes(pgs):return itens(pgs,cargo)
     raw='\n'.join(re.sub(r'^\s*\d+\s*$','',p,flags=re.M) for p in pgs[start-1:end])
     heads=list(re.finditer(r'^\s*(?:(\d+)\.[ \t]+)?([A-ZÁÉÍÓÚÂÊÔÃÕÇÜ][A-ZÁÉÍÓÚÂÊÔÃÕÇÜ /(),-]{3,100})\s*:?\s*$',raw,re.M))
     out=[]; discipline=None
