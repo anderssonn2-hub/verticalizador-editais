@@ -1,0 +1,54 @@
+Equipotencialização; Modelagem do solo (estratificação) e dimensionamento de malhas de terra. Proteção
+contra Descargas Atmosféricas conforme NBR 5419;  Avaliação e gerenciamento de  risco;  Projeto e
+dimensionamento dos subsistemas de  captação, descida e aterramento. INSTALAÇÕES DE GERAÇÃO
+DISTRIBUÍDA: Projeto de sistemas de geração solar fotovoltaica conectados à rede (On-Grid). Arquitetura de
+instalação, dimensionamento de condutores de corrente contínua e alternada, especificação de inversores e
+quadros de proteção (string box). Resoluções Normativas da ANEEL Vigentes: regras de micro e minigeração
+distribuída; Normas NBR 16690 e NBR 16149. Infraestrutura de rede lógica e cabeamento estruturado: Projeto,
+dimensionamento e certificação dos meios físicos de transmissão metálicos e ópticos (categorias Cat6 a Cat8,
+fibras monomodo/multimodo e redes POL/GPON) conforme as normas NBR 14565, TIA-568 e TIA-569.
+Especificação dos subsistemas de distribuição, espaços técnicos, infraestruturas de passagem (eletrocalhas e
+leitos) e acomodação (racks e DIOs), garantindo a segregação e imunidade eletromagnética em relação às
+instalações elétricas. Ensaios de certificação de links por meio de parâmetros elétricos e reflectometria óptica
+(OTDR). Sistemas de energia de emergência e controle: Sistemas de Alimentação Ininterrupta (UPS): Operação
+e manutenção de sistemas no-break estático e dinâmico; Princípio de funcionamento, topologias (off-line, line-
+interactive, on-line) e testes periódicos. Bancos de baterias: Tipos, características, dimensionamento, instalação
+e manutenção de sistemas de bancos de baterias industriais. 10.3 Eficiência Energética. Noções da NBR 16819.
+Qualidade da energia elétrica: Conceitos fundamentais de Qualidade da Energia Elétrica no Sistema Elétrico
+Nacional; Regulamentação técnica e econômica da Agência Nacional de Energia Elétrica (ANEEL). Procedimentos
+de Distribuição de Energia Elétrica no Sistema Elétrico Nacional (PRODIST), com ênfase no Módulo 8 – Qualidade
+do Fornecimento de Energia Elétrica. Gestão da manutenção e dos ativos: Estratégias e Planejamento de
+Manutenção: Conceitos e fundamentos aplicados à manutenção de instalações industriais (preventiva,
+preditiva, corretiva). Planejamento e controle da manutenção. Organização da manutenção em sistemas de
+operação contínua (H-24), incluindo planejamento de paradas. Gestão de Materiais e Ativos: Administração de
+materiais técnicos de consumo: especificação, compras, estoque e curva ABC. Gestão da manutenção e dos
+ativos das organizações. Gestão de Contratos: Administração de contratos de serviços técnicos e fornecimento:
+elaboração de termos de referência, acompanhamento técnico, fiscalização e medição. Interface com a Lei de
+Licitações e contratos administrativos (Lei nº 14.133/2021). Segurança no trabalho: Normas de Saúde e
+Segurança no Trabalho: Aplicação integral das normas aplicáveis à saúde e Segurança no Trabalho, com ênfase
+especial na NR-10 (Segurança em Instalações e Serviços em Eletricidade) e NBR 16384. Procedimentos de
+trabalho seguro, análise de risco e permissão de trabalho. Cálculos de energia incidente e arc-flash conforme
+IEEE 1584 e NBR 17227. Gerenciamento de  projetos: Conceito e Objetivos da gestão de  projetos;
+Gerenciamento do ciclo de vida do projeto; Planejamento de um projeto; Estrutura analítica do Projeto,
+Cronograma, Diagrama de Rede, Diagrama de Gantt, Caminho Crítico e Folgas; Execução, acompanhamento e
+controle de um projeto; Modelos da informação da construção e objetos BIM; Processos, tecnologias e políticas;
+Interoperabilidade IFC; Revit; Níveis de desenvolvimento (LOD) do projeto para obras de construção civil e de
+infraestrutura. Fluxos de trabalho aplicados ao trabalho colaborativo. Metodologias, técnicas e ferramentas da
+gestão de projetos; PMBOK: Conceitos básicos, estrutura e objetivos. Representação gráfica de projetos:
+Metodologia BIM e do desenho assistido por computador (CAD). Elaboração e interpretação de plantas baixas,
+esquemas unifilares, multifilares, trifilares e diagramas de comando. Softwares da indústria (como AutoCAD,
+Autodesk Revit e plataformas de cálculo/dimensionamento integrado). Uso e criação de famílias paramétricas
+de dispositivos elétricos, níveis de desenvolvimento de componentes (LOD 100 a 400). Compatibilização
+tridimensional e detecção de interferências (clash detection) com demais disciplinas (Sistemas MEP, Arquitetura
+e  Estrutura).  Gerenciamento  de  dados  do  modelo em  Ambientes  Comuns  de  Dados  (CDE),
+exportação/importação de arquivos abertos e interoperáveis no padrão IFC.
+
+                                  Conhecimentos Específicos
+08 – Analista Judiciário – Área Apoio Especializado –  Especialidade Engenharia (Segurança do Trabalho)
+Fundamentos e Administração da Saúde e Segurança no Trabalho: Conceitos e causas dos Acidentes do
+Trabalho, norma ABNT NBR 14280:2001 – Procedimento e  Classificação: procedimentos de  registro,
+comunicação, estatística e análise. Portarias e instruções normativas do Ministério do Trabalho e Emprego. Lei
+nº 8.213/1991: proteção ao trabalhador, auxílio por incapacidade temporária e amparo acidentário. Perfil
+Profissiográfico Previdenciário-PPP, Laudo Técnico das Condições do Ambiente de Trabalho-LTCAT, Perícias,
+tipos de aposentadoria), Gestão: CIPA e EPIs, Nexo Técnico Epidemiológico Previdenciário (NTEP), Fator
+                                                                                 77

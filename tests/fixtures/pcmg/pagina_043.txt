@@ -1,0 +1,57 @@
+                             ANEXO I
+                      CONTEÚDO PROGRAMÁTICO
+                         INVESTIGADOR DE POLÍCIA I
+
+
+
+CONHECIMENTOS BÁSICOS
+1. LÍNGUA PORTUGUESA
+1.1 Interpretação e compreensão de textos: 1.1.1 Identificação de tipos textuais: narrativo,
+descritivo e dissertativo; 1.1.2 Critérios de textualidade: coerência e coesão; 1.1.3 Recursos de
+construção textual: fonológicos, morfológicos, sintáticos e semânticos; 1.1.4 Gêneros textuais
+da Redação Oficial; 1.1.4.1 Princípios gerais; 1.1.4.2 Uso dos pronomes de tratamento; 1.1.4.3
+Estrutura interna dos gêneros:  ofício, memorando, requerimento, relatório, parecer. 1.2
+Conhecimentos linguísticos: 1.2.1 Conhecimentos gramaticais conforme padrão formal da
+língua; 1.2.2 Princípios gerais de leitura e produção de texto. Intertextualidade. Tipos de
+discurso. Vozes discursivas: citação, paródia, alusão, paráfrase, epígrafe; 1.2.3 Semântica:
+construção de sentido; sinonímia, antonímia, homonímia, paronímia, polissemia; denotação e
+conotação; figuras de linguagem; 1.2.4 Pontuação e efeitos de sentido; 1.2.5 Sintaxe: oração,
+período, termos  das  orações;  articulação  das  orações:  coordenação e  subordinação;
+concordância verbal e nominal; regência verbal e nominal.
+
+2. RACIOCÍNIO LÓGICO-MATEMÁTICO
+2.1. Lógica: proposições, conectivos, equivalências lógicas, quantificadores e predicados. 2.2.
+Conjuntos e suas operações, diagramas. 2.3. Números inteiros, racionais e reais e suas
+operações, porcentagem e juros. 2.4. Proporcionalidade direta e inversa. 2.5. Medidas de
+comprimento, área, volume, massa e tempo. 2.6. Estrutura lógica de relações arbitrárias entre
+pessoas, lugares, objetos ou eventos fictícios; dedução de novas informações das relações
+fornecidas e avaliação das condições usadas para estabelecer a estrutura daquelas relações. 2.7.
+Compreensão e análise da lógica de uma situação, utilizando as funções intelectuais: raciocínio
+verbal, raciocínio matemático, raciocínio sequencial, orientação espacial e temporal, formação
+de conceitos, discriminação de elementos. 2.8. Compreensão de dados apresentados em
+gráficos e tabelas. 2.9. Raciocínio lógico envolvendo problemas aritméticos, geométricos e
+matriciais. 2.10. Problemas de contagem e noções de probabilidade. 2.11. Geometria básica:
+ângulos, triângulos, polígonos, distâncias, proporcionalidade, perímetro e área. 2.12. Noções de
+estatística: média, moda, mediana e desvio padrão. 2.13. Plano cartesiano: sistema de
+coordenadas, distância. 2.14. Problemas de lógica e raciocínio.
+
+3. INFORMÁTICA BÁSICA
+3.1. Equipamentos e Sistemas Operacionais Windows 10 e Linux. 3.1.1. Arquitetura básica de
+computadores. 3.1.2. Principais periféricos. 3.1.3. Mídias para armazenamento de dados. 3.1.4.
+Conceitos gerais de sistemas operacionais. 3.2. Manipulação de arquivos em sistemas Windows
+10 e Linux. 3.2.1. Arquivos: conceito, tipos, nomes e extensões mais comuns. 3.2.2. Estrutura de
+diretórios e rotas. 3.2.3. Cópia e movimentação de arquivos. 3.2.4. Atalhos. 3.2.5. Permissões
+de  arquivos e  diretórios.  3.3.  Conceitos  básicos de  redes de  computadores.  3.3.1.
+Endereçamento TCP/IP, IPv4, IPv6 3.3.2. Tecnologias de redes com  fio e sem  fio 3.3.3.
+Topologias, protocolos, máscaras de rede, gateway, DNS, DHCP. 3.3.4. Hubs, repetidores,
+bridges e comutadores (switches) 3.3.5. Gerenciamento de redes (SNMP). 3.3.6. Contas, grupos
+de usuários, compartilhamento de recursos e permissões de arquivos em ambiente Windows 10
+e Linux. 3.4. Conceitos básicos e modos de utilização de tecnologias, ferramentas, aplicativos e
+procedimentos associados à internet e intranet. 3.4.1. Tipos de URL. 3.4.2. Tipos de domínio.
+3.4.3. Navegador Google Chrome 93.x ou superior. 3.4.4. Protocolos da camada de aplicação.
+3.4.5. Cookies. 3.4.6. Privacidade e segurança. 3.4.7. Configuração de proxy. 3.4.8. Marco civil
+da internet 3.5. Correio eletrônico. 3.5.1. Endereços de e-mail. 3.5.2. Campos de uma
+
+
+
+                                                                           4343

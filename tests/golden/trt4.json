@@ -1,0 +1,2387 @@
+{
+  "blocos": [
+    {
+      "Disciplina": "Língua Portuguesa",
+      "Grupo": "Conhecimentos gerais",
+      "n_partes": 8,
+      "paginas": [
+        60
+      ],
+      "scope": [],
+      "scope_codes": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06",
+        "07",
+        "08",
+        "09",
+        "10",
+        "11",
+        "12",
+        "13",
+        "15",
+        "16",
+        "17",
+        "18"
+      ],
+      "sha1_texto": "bda04bd87dd830192442e334020decb83442d7cc"
+    },
+    {
+      "Disciplina": "Matemática e Raciocínio lógico",
+      "Grupo": "Conhecimentos gerais",
+      "n_partes": 12,
+      "paginas": [
+        60
+      ],
+      "scope": [],
+      "scope_codes": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06",
+        "07",
+        "08",
+        "09",
+        "10",
+        "11",
+        "12",
+        "13",
+        "15",
+        "16",
+        "17",
+        "18"
+      ],
+      "sha1_texto": "f0d5936a8eca2876cd3f5d65d1e68b9f47316c42"
+    },
+    {
+      "Disciplina": "Noções de Legislação",
+      "Grupo": "Conhecimentos gerais",
+      "n_partes": 11,
+      "paginas": [
+        60,
+        61
+      ],
+      "scope": [],
+      "scope_codes": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06",
+        "07",
+        "08",
+        "09",
+        "10",
+        "11",
+        "12",
+        "13",
+        "15",
+        "16",
+        "17",
+        "18"
+      ],
+      "sha1_texto": "2ad11e43c30c6e854c85e3af5020e12aeeaed015"
+    },
+    {
+      "Disciplina": "Noções de Direitos Humanos",
+      "Grupo": "Conhecimentos gerais",
+      "n_partes": 27,
+      "paginas": [
+        61
+      ],
+      "scope": [],
+      "scope_codes": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06",
+        "07",
+        "08",
+        "09",
+        "10",
+        "11",
+        "12",
+        "13",
+        "15",
+        "16",
+        "17",
+        "18"
+      ],
+      "sha1_texto": "19ce9bcce948cecb982e1f6ec4e62b9dc661fe92"
+    },
+    {
+      "Disciplina": "Noções de Informática",
+      "Grupo": "Conhecimentos gerais",
+      "n_partes": 18,
+      "paginas": [
+        61
+      ],
+      "scope": [],
+      "scope_codes": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06",
+        "07",
+        "08",
+        "09",
+        "10",
+        "11",
+        "12",
+        "13",
+        "15",
+        "16",
+        "17",
+        "18"
+      ],
+      "sha1_texto": "dd03c449732f4c6703d8d36b7b79edcfb802cf1d"
+    },
+    {
+      "Disciplina": "Língua Portuguesa",
+      "Grupo": "Conhecimentos gerais",
+      "n_partes": 9,
+      "paginas": [
+        61
+      ],
+      "scope": [],
+      "scope_codes": [
+        "14"
+      ],
+      "sha1_texto": "1ea4f96c2d08bc04fa7c6a101b7fb9697508f1e0"
+    },
+    {
+      "Disciplina": "Matemática e Raciocínio lógico",
+      "Grupo": "Conhecimentos gerais",
+      "n_partes": 12,
+      "paginas": [
+        62
+      ],
+      "scope": [],
+      "scope_codes": [
+        "14"
+      ],
+      "sha1_texto": "999667cbdd2b76ada72f698404e939b3eec936b7"
+    },
+    {
+      "Disciplina": "Noções de Legislação",
+      "Grupo": "Conhecimentos gerais",
+      "n_partes": 10,
+      "paginas": [
+        62
+      ],
+      "scope": [],
+      "scope_codes": [
+        "14"
+      ],
+      "sha1_texto": "25102b84205761e42e82085ae7efd62dfa92cdbc"
+    },
+    {
+      "Disciplina": "Noções de Direitos Humanos",
+      "Grupo": "Conhecimentos gerais",
+      "n_partes": 26,
+      "paginas": [
+        62
+      ],
+      "scope": [],
+      "scope_codes": [
+        "14"
+      ],
+      "sha1_texto": "d1277e365226fc923bf8aa50ee7f3b7aa45e287f"
+    },
+    {
+      "Disciplina": "Língua Portuguesa",
+      "Grupo": "Conhecimentos gerais",
+      "n_partes": 9,
+      "paginas": [
+        62,
+        63
+      ],
+      "scope": [],
+      "scope_codes": [
+        "19",
+        "20",
+        "21",
+        "23"
+      ],
+      "sha1_texto": "2980b227513e5b6b53cc65bf6a6c354093a4e1fe"
+    },
+    {
+      "Disciplina": "Matemática e Raciocínio lógico",
+      "Grupo": "Conhecimentos gerais",
+      "n_partes": 12,
+      "paginas": [
+        63
+      ],
+      "scope": [],
+      "scope_codes": [
+        "19",
+        "20",
+        "21",
+        "23"
+      ],
+      "sha1_texto": "eac892ac1c934f1c34de755837c2ff1fc53f996f"
+    },
+    {
+      "Disciplina": "Noções de Legislação",
+      "Grupo": "Conhecimentos gerais",
+      "n_partes": 10,
+      "paginas": [
+        63
+      ],
+      "scope": [],
+      "scope_codes": [
+        "19",
+        "20",
+        "21",
+        "23"
+      ],
+      "sha1_texto": "e231971a01bf77514574ad4d27393cb67bd21b2c"
+    },
+    {
+      "Disciplina": "Noções de Direitos Humanos",
+      "Grupo": "Conhecimentos gerais",
+      "n_partes": 28,
+      "paginas": [
+        63
+      ],
+      "scope": [],
+      "scope_codes": [
+        "19",
+        "20",
+        "21",
+        "23"
+      ],
+      "sha1_texto": "376e9de7043046e7892e256e42c25c33ad82bd48"
+    },
+    {
+      "Disciplina": "Noções de Informática",
+      "Grupo": "Conhecimentos gerais",
+      "n_partes": 18,
+      "paginas": [
+        64
+      ],
+      "scope": [],
+      "scope_codes": [
+        "19",
+        "20",
+        "21",
+        "23"
+      ],
+      "sha1_texto": "efe9c6a70efd1fc6db8d845bd5ee40c6c03ebe18"
+    },
+    {
+      "Disciplina": "Língua Portuguesa",
+      "Grupo": "Conhecimentos gerais",
+      "n_partes": 8,
+      "paginas": [
+        64
+      ],
+      "scope": [],
+      "scope_codes": [
+        "22"
+      ],
+      "sha1_texto": "ba6c08fd1b314fc105a931a5eed64f712b061456"
+    },
+    {
+      "Disciplina": "Matemática e Raciocínio lógico",
+      "Grupo": "Conhecimentos gerais",
+      "n_partes": 12,
+      "paginas": [
+        64
+      ],
+      "scope": [],
+      "scope_codes": [
+        "22"
+      ],
+      "sha1_texto": "1be431ff55c9c3c6be679d6f84a36e5cb0d8c336"
+    },
+    {
+      "Disciplina": "Noções de Legislação",
+      "Grupo": "Conhecimentos gerais",
+      "n_partes": 10,
+      "paginas": [
+        64
+      ],
+      "scope": [],
+      "scope_codes": [
+        "22"
+      ],
+      "sha1_texto": "ef973f0bee7ae0f649ce8fe6323d5460718319c1"
+    },
+    {
+      "Disciplina": "Noções de Direitos Humanos",
+      "Grupo": "Conhecimentos gerais",
+      "n_partes": 27,
+      "paginas": [
+        64,
+        65
+      ],
+      "scope": [],
+      "scope_codes": [
+        "22"
+      ],
+      "sha1_texto": "51864f059905d762e9edd7d7201f0a74f1057381"
+    },
+    {
+      "Disciplina": "Direito Constitucional",
+      "Grupo": "Conhecimentos específicos",
+      "n_partes": 15,
+      "paginas": [
+        65
+      ],
+      "scope": [
+        "01 – Analista Judiciário – Área Judiciária"
+      ],
+      "scope_codes": null,
+      "sha1_texto": "34b11d20e2f16dfadb3efebb6e1fda3cd17b5295"
+    },
+    {
+      "Disciplina": "Direito Administrativo",
+      "Grupo": "Conhecimentos específicos",
+      "n_partes": 30,
+      "paginas": [
+        65,
+        66
+      ],
+      "scope": [
+        "01 – Analista Judiciário – Área Judiciária"
+      ],
+      "scope_codes": null,
+      "sha1_texto": "f934c2accd28f4ad3add7f3316ef1c5e8362b232"
+    },
+    {
+      "Disciplina": "Direito do Trabalho",
+      "Grupo": "Conhecimentos específicos",
+      "n_partes": 29,
+      "paginas": [
+        66
+      ],
+      "scope": [
+        "01 – Analista Judiciário – Área Judiciária"
+      ],
+      "scope_codes": null,
+      "sha1_texto": "a9ee09f0be7dcd5345f181397d1019331adc329f"
+    },
+    {
+      "Disciplina": "Direito Processual do Trabalho",
+      "Grupo": "Conhecimentos específicos",
+      "n_partes": 29,
+      "paginas": [
+        66,
+        67
+      ],
+      "scope": [
+        "01 – Analista Judiciário – Área Judiciária"
+      ],
+      "scope_codes": null,
+      "sha1_texto": "811e0ce24c172c5780c7da0e35fcbf998311d416"
+    },
+    {
+      "Disciplina": "Direito Civil",
+      "Grupo": "Conhecimentos específicos",
+      "n_partes": 24,
+      "paginas": [
+        67
+      ],
+      "scope": [
+        "01 – Analista Judiciário – Área Judiciária"
+      ],
+      "scope_codes": null,
+      "sha1_texto": "e35f31ef188f645da0b3e98b5a4b0d23f30322b7"
+    },
+    {
+      "Disciplina": "Direito Processual Civil",
+      "Grupo": "Conhecimentos específicos",
+      "n_partes": 18,
+      "paginas": [
+        67,
+        68
+      ],
+      "scope": [
+        "01 – Analista Judiciário – Área Judiciária"
+      ],
+      "scope_codes": null,
+      "sha1_texto": "230337888a4e08325cb552154aec214d2f05839a"
+    },
+    {
+      "Disciplina": "Direito Constitucional",
+      "Grupo": "Conhecimentos específicos",
+      "n_partes": 15,
+      "paginas": [
+        68
+      ],
+      "scope": [
+        "02 – Analista Judiciário – Área Judiciária – Especialidade Oficial de Justiça Avaliador Federal"
+      ],
+      "scope_codes": null,
+      "sha1_texto": "773f0bc61777fa9e496fa961ffe9ee0f74df3aaf"
+    },
+    {
+      "Disciplina": "Direito Administrativo",
+      "Grupo": "Conhecimentos específicos",
+      "n_partes": 30,
+      "paginas": [
+        68
+      ],
+      "scope": [
+        "02 – Analista Judiciário – Área Judiciária – Especialidade Oficial de Justiça Avaliador Federal"
+      ],
+      "scope_codes": null,
+      "sha1_texto": "ad5e1ef1d84640b3c77e5ef40fa9f64f7d7330c2"
+    },
+    {
+      "Disciplina": "Direito do Trabalho",
+      "Grupo": "Conhecimentos específicos",
+      "n_partes": 29,
+      "paginas": [
+        68,
+        69
+      ],
+      "scope": [
+        "02 – Analista Judiciário – Área Judiciária – Especialidade Oficial de Justiça Avaliador Federal"
+      ],
+      "scope_codes": null,
+      "sha1_texto": "6012e47df84260053d4e41733c047987f358e1f4"
+    },
+    {
+      "Disciplina": "Direito Processual do Trabalho",
+      "Grupo": "Conhecimentos específicos",
+      "n_partes": 29,
+      "paginas": [
+        69,
+        70
+      ],
+      "scope": [
+        "02 – Analista Judiciário – Área Judiciária – Especialidade Oficial de Justiça Avaliador Federal"
+      ],
+      "scope_codes": null,
+      "sha1_texto": "cab84d874755812e6c33ab5f54a6134bdc1f0236"
+    },
+    {
+      "Disciplina": "Direito Civil",
+      "Grupo": "Conhecimentos específicos",
+      "n_partes": 24,
+      "paginas": [
+        70
+      ],
+      "scope": [
+        "02 – Analista Judiciário – Área Judiciária – Especialidade Oficial de Justiça Avaliador Federal"
+      ],
+      "scope_codes": null,
+      "sha1_texto": "fbab64761577f1b3344328637ea4b6e3a3e26c89"
+    },
+    {
+      "Disciplina": "Direito Processual Civil",
+      "Grupo": "Conhecimentos específicos",
+      "n_partes": 17,
+      "paginas": [
+        70
+      ],
+      "scope": [
+        "02 – Analista Judiciário – Área Judiciária – Especialidade Oficial de Justiça Avaliador Federal"
+      ],
+      "scope_codes": null,
+      "sha1_texto": "17d5c141834e05ac76fda1f265d94fb01b72790b"
+    },
+    {
+      "Disciplina": "Noções de Direito Constitucional",
+      "Grupo": "Conhecimentos específicos",
+      "n_partes": 54,
+      "paginas": [
+        70,
+        71
+      ],
+      "scope": [
+        "03 – Analista Judiciário – Área Administrativa"
+      ],
+      "scope_codes": null,
+      "sha1_texto": "93efa2b3c48c00bc6c0d29461c2edb4106791ed0"
+    },
+    {
+      "Disciplina": "Direito Administrativo e de Administração Pública",
+      "Grupo": "Conhecimentos específicos",
+      "n_partes": 32,
+      "paginas": [
+        71,
+        72
+      ],
+      "scope": [
+        "04 – Analista Judiciário – Área Administrativa – Especialidade Contabilidade"
+      ],
+      "scope_codes": null,
+      "sha1_texto": "87de6715d52ccc33e780b6f9953c80b09bc855e0"
+    },
+    {
+      "Disciplina": "Orçamento Público",
+      "Grupo": "Conhecimentos específicos",
+      "n_partes": 13,
+      "paginas": [
+        72
+      ],
+      "scope": [
+        "04 – Analista Judiciário – Área Administrativa – Especialidade Contabilidade"
+      ],
+      "scope_codes": null,
+      "sha1_texto": "7b7873f629c83aeb26120394eb1a4b8140b75e6f"
+    },
+    {
+      "Disciplina": "Administração Financeira e Orçamentária",
+      "Grupo": "Conhecimentos específicos",
+      "n_partes": 10,
+      "paginas": [
+        72,
+        73
+      ],
+      "scope": [
+        "04 – Analista Judiciário – Área Administrativa – Especialidade Contabilidade"
+      ],
+      "scope_codes": null,
+      "sha1_texto": "babd15001d024aeabdf80fbf9ad38b78c4219b93"
+    },
+    {
+      "Disciplina": "Contabilidade Geral",
+      "Grupo": "Conhecimentos específicos",
+      "n_partes": 17,
+      "paginas": [
+        73
+      ],
+      "scope": [
+        "04 – Analista Judiciário – Área Administrativa – Especialidade Contabilidade"
+      ],
+      "scope_codes": null,
+      "sha1_texto": "197abbed3b0cb668722bb7aea3eb1a0f5fe61560"
+    },
+    {
+      "Disciplina": "Disciplina não identificada",
+      "Grupo": "Conhecimentos específicos",
+      "n_partes": 31,
+      "paginas": [
+        73
+      ],
+      "scope": [
+        "05 – Analista Judiciário – Área Apoio Especializado – Especialidade Arquitetura"
+      ],
+      "scope_codes": null,
+      "sha1_texto": "f645254977e1491fbf988183a64082385da9f544"
+    },
+    {
+      "Disciplina": "Georreferenciamento e Coordenadas Compartilhadas",
+      "Grupo": "Conhecimentos específicos",
+      "n_partes": 50,
+      "paginas": [
+        74
+      ],
+      "scope": [
+        "05 – Analista Judiciário – Área Apoio Especializado – Especialidade Arquitetura"
+      ],
+      "scope_codes": null,
+      "sha1_texto": "9eaff731bd7a656b69e786951a5daf5f4a2efb88"
+    },
+    {
+      "Disciplina": "Planejamento, Orçamento e Gestão de Obras",
+      "Grupo": "Conhecimentos específicos",
+      "n_partes": 68,
+      "paginas": [
+        75,
+        76
+      ],
+      "scope": [
+        "06 – Analista Judiciário – Área Apoio Especializado – Especialidade Engenharia (Civil)"
+      ],
+      "scope_codes": null,
+      "sha1_texto": "0491cf6f0a34755ead958f8aade904d7ef91b688"
+    },
+    {
+      "Disciplina": "Circuitos elétricos",
+      "Grupo": "Conhecimentos específicos",
+      "n_partes": 80,
+      "paginas": [
+        76,
+        77
+      ],
+      "scope": [
+        "07 – Analista Judiciário – Área Apoio Especializado – Especialidade Engenharia (Elétrica)"
+      ],
+      "scope_codes": null,
+      "sha1_texto": "c50c66432d0e6879ab3389cca614806b9d2d780f"
+    },
+    {
+      "Disciplina": "Fundamentos e Administração da Saúde e Segurança no Trabalho",
+      "Grupo": "Conhecimentos específicos",
+      "n_partes": 118,
+      "paginas": [
+        77,
+        78,
+        79,
+        80
+      ],
+      "scope": [
+        "08 – Analista Judiciário – Área Apoio Especializado –  Especialidade Engenharia (Segurança do Trabalho)"
+      ],
+      "scope_codes": null,
+      "sha1_texto": "684dc30de24250fa90b5c4320f1320d8fefe7f43"
+    },
+    {
+      "Disciplina": "Estatística descritiva e análise exploratória de dados",
+      "Grupo": "Conhecimentos específicos",
+      "n_partes": 23,
+      "paginas": [
+        80
+      ],
+      "scope": [
+        "09 – Analista Judiciário – Área Apoio Especializado – Especialidade Estatística"
+      ],
+      "scope_codes": null,
+      "sha1_texto": "ee10703b1df10bd3df8dd6f2b6311c24a4b8ea09"
+    },
+    {
+      "Disciplina": "Disciplina não identificada",
+      "Grupo": "Conhecimentos específicos",
+      "n_partes": 56,
+      "paginas": [
+        80,
+        81
+      ],
+      "scope": [
+        "10 – Analista Judiciário – Área Apoio Especializado –  Especialidade Medicina (Clínico Geral)"
+      ],
+      "scope_codes": null,
+      "sha1_texto": "d72144a4c5a0376c3506feac7a333933e4b71256"
+    },
+    {
+      "Disciplina": "Disciplina não identificada",
+      "Grupo": "Conhecimentos específicos",
+      "n_partes": 24,
+      "paginas": [
+        81,
+        82
+      ],
+      "scope": [
+        "11 – Analista Judiciário – Área Apoio Especializado –  Especialidade Medicina (Cardiologia)"
+      ],
+      "scope_codes": null,
+      "sha1_texto": "92775f01c4afa427c25eb322566e1da6b9c784a3"
+    },
+    {
+      "Disciplina": "Disciplina não identificada",
+      "Grupo": "Conhecimentos específicos",
+      "n_partes": 18,
+      "paginas": [
+        82
+      ],
+      "scope": [
+        "12 – Analista Judiciário – Área Apoio Especializado –  Especialidade Medicina (do Trabalho)"
+      ],
+      "scope_codes": null,
+      "sha1_texto": "8b6a77b415b3659a03b5c9dac26a005523450279"
+    },
+    {
+      "Disciplina": "Classificação e diagnóstico em psiquiatria",
+      "Grupo": "Conhecimentos específicos",
+      "n_partes": 41,
+      "paginas": [
+        82,
+        83
+      ],
+      "scope": [
+        "13 – Analista Judiciário – Área Apoio Especializado –  Especialidade Medicina (Psiquiatria)"
+      ],
+      "scope_codes": null,
+      "sha1_texto": "37e72a74180ee0df188867f9b07a2deb4fe5d383"
+    },
+    {
+      "Disciplina": "Processo de desenvolvimento de software",
+      "Grupo": "Conhecimentos específicos",
+      "n_partes": 89,
+      "paginas": [
+        83,
+        84,
+        85
+      ],
+      "scope": [
+        "14 – Analista Judiciário – Área Apoio Especializado – Especialidade Tecnologia da Informação"
+      ],
+      "scope_codes": null,
+      "sha1_texto": "09c3571a78f1162a0f6f8a7b78afd583e88b89f8"
+    },
+    {
+      "Disciplina": "Biblioteconomia, documentação e ciência da informação",
+      "Grupo": "Conhecimentos específicos",
+      "n_partes": 64,
+      "paginas": [
+        85,
+        86
+      ],
+      "scope": [
+        "15 – Analista Judiciário – Área Apoio Especializado – Especialidade Biblioteconomia"
+      ],
+      "scope_codes": null,
+      "sha1_texto": "ee5e9325744a32e5bbdf791ce8cc8a19fd54ee6d"
+    },
+    {
+      "Disciplina": "Teorias da comunicação",
+      "Grupo": "Conhecimentos específicos",
+      "n_partes": 25,
+      "paginas": [
+        86,
+        87
+      ],
+      "scope": [
+        "16 – Analista Judiciário – Área Apoio Especializado – Especialidade Comunicação Social"
+      ],
+      "scope_codes": null,
+      "sha1_texto": "777476720ca601d953d18cf0d1eeb0b2762ed2d6"
+    },
+    {
+      "Disciplina": "Disciplina não identificada",
+      "Grupo": "Conhecimentos específicos",
+      "n_partes": 20,
+      "paginas": [
+        87
+      ],
+      "scope": [
+        "17 – Analista Judiciário – Área Apoio Especializado – Especialidade Serviço Social"
+      ],
+      "scope_codes": null,
+      "sha1_texto": "36a6aaca598adecf32903572541c924592d50d74"
+    },
+    {
+      "Disciplina": "Avaliação psicológica e psicodiagnóstico",
+      "Grupo": "Conhecimentos específicos",
+      "n_partes": 49,
+      "paginas": [
+        87,
+        88
+      ],
+      "scope": [
+        "18 – Analista Judiciário – Área Apoio Especializado – Especialidade Psicologia"
+      ],
+      "scope_codes": null,
+      "sha1_texto": "881db433775a1f5af4ecf2b0f608c4a4e5efade6"
+    },
+    {
+      "Disciplina": "Noções de Direito Constitucional",
+      "Grupo": "Conhecimentos específicos",
+      "n_partes": 79,
+      "paginas": [
+        88,
+        89
+      ],
+      "scope": [
+        "19 – Técnico Judiciário – Área Administrativa"
+      ],
+      "scope_codes": null,
+      "sha1_texto": "cd43848c57613ab27862648b7e63e33796136728"
+    },
+    {
+      "Disciplina": "Ética e legislação",
+      "Grupo": "Conhecimentos específicos",
+      "n_partes": 16,
+      "paginas": [
+        90
+      ],
+      "scope": [
+        "20 – Técnico Judiciário – Área Apoio Especializado – Especialidade Enfermagem"
+      ],
+      "scope_codes": null,
+      "sha1_texto": "000b290577ffa2eea754149c28a6f07147fa8995"
+    },
+    {
+      "Disciplina": "Ética e legislação",
+      "Grupo": "Conhecimentos específicos",
+      "n_partes": 21,
+      "paginas": [
+        90
+      ],
+      "scope": [
+        "21 – Técnico Judiciário – Área Apoio Especializado – Especialidade Enfermagem do Trabalho"
+      ],
+      "scope_codes": null,
+      "sha1_texto": "3aab4bde4d8fcd2dfc4483e57c68795b6ff13744"
+    },
+    {
+      "Disciplina": "DevOps e DevSecOps",
+      "Grupo": "Conhecimentos específicos",
+      "n_partes": 87,
+      "paginas": [
+        90,
+        91,
+        92
+      ],
+      "scope": [
+        "22 – Técnico Judiciário – Área Apoio Especializado – Especialidade Tecnologia da Informação"
+      ],
+      "scope_codes": null,
+      "sha1_texto": "08d2acf5125bcc92a93e46142aed1d02c96fbd7b"
+    },
+    {
+      "Disciplina": "Segurança de Dignitários",
+      "Grupo": "Conhecimentos específicos",
+      "n_partes": 44,
+      "paginas": [
+        92,
+        93
+      ],
+      "scope": [
+        "23 – Técnico Judiciário – Área Administrativa – Especialidade Agente de Polícia Judicial"
+      ],
+      "scope_codes": null,
+      "sha1_texto": "1d862eee3d6fd7be55cd8279879a53e049323e5f"
+    }
+  ],
+  "cargos": [
+    "01 – Analista Judiciário – Área Judiciária",
+    "02 – Analista Judiciário – Área Judiciária – Especialidade Oficial de Justiça Avaliador Federal",
+    "03 – Analista Judiciário – Área Administrativa",
+    "04 – Analista Judiciário – Área Administrativa – Especialidade Contabilidade",
+    "05 – Analista Judiciário – Área Apoio Especializado – Especialidade Arquitetura",
+    "06 – Analista Judiciário – Área Apoio Especializado – Especialidade Engenharia (Civil)",
+    "07 – Analista Judiciário – Área Apoio Especializado – Especialidade Engenharia (Elétrica)",
+    "08 – Analista Judiciário – Área Apoio Especializado –  Especialidade Engenharia (Segurança do Trabalho)",
+    "09 – Analista Judiciário – Área Apoio Especializado – Especialidade Estatística",
+    "10 – Analista Judiciário – Área Apoio Especializado –  Especialidade Medicina (Clínico Geral)",
+    "11 – Analista Judiciário – Área Apoio Especializado –  Especialidade Medicina (Cardiologia)",
+    "12 – Analista Judiciário – Área Apoio Especializado –  Especialidade Medicina (do Trabalho)",
+    "13 – Analista Judiciário – Área Apoio Especializado –  Especialidade Medicina (Psiquiatria)",
+    "14 – Analista Judiciário – Área Apoio Especializado – Especialidade Tecnologia da Informação",
+    "15 – Analista Judiciário – Área Apoio Especializado – Especialidade Biblioteconomia",
+    "16 – Analista Judiciário – Área Apoio Especializado – Especialidade Comunicação Social",
+    "17 – Analista Judiciário – Área Apoio Especializado – Especialidade Serviço Social",
+    "18 – Analista Judiciário – Área Apoio Especializado – Especialidade Psicologia",
+    "19 – Técnico Judiciário – Área Administrativa",
+    "20 – Técnico Judiciário – Área Apoio Especializado – Especialidade Enfermagem",
+    "21 – Técnico Judiciário – Área Apoio Especializado – Especialidade Enfermagem do Trabalho",
+    "22 – Técnico Judiciário – Área Apoio Especializado – Especialidade Tecnologia da Informação",
+    "23 – Técnico Judiciário – Área Administrativa – Especialidade Agente de Polícia Judicial"
+  ],
+  "cobertura_linhas": {
+    "linhas_em_blocos": 1685,
+    "linhas_limpas_secao": 1737
+  },
+  "conteudo": {
+    "01 – Analista Judiciário – Área Judiciária": [
+      {
+        "Disciplina": "Direito Constitucional",
+        "Grupo": "Conhecimentos específicos",
+        "n_assuntos": 1,
+        "paginas": "65",
+        "sha1_assuntos": "62fdfb28f011b74dcdefb766bed0f6eaa6324f05"
+      },
+      {
+        "Disciplina": "Direito Administrativo",
+        "Grupo": "Conhecimentos específicos",
+        "n_assuntos": 1,
+        "paginas": "65, 66",
+        "sha1_assuntos": "54068298077da094ad5e1f97df80f720c75db22e"
+      },
+      {
+        "Disciplina": "Direito do Trabalho",
+        "Grupo": "Conhecimentos específicos",
+        "n_assuntos": 1,
+        "paginas": "66",
+        "sha1_assuntos": "7b289f3963a84114aa452c20ab3783c098c77ff8"
+      },
+      {
+        "Disciplina": "Direito Processual do Trabalho",
+        "Grupo": "Conhecimentos específicos",
+        "n_assuntos": 1,
+        "paginas": "66, 67",
+        "sha1_assuntos": "776e48ba7c90c8f56db928967bec23330ab348cd"
+      },
+      {
+        "Disciplina": "Direito Civil",
+        "Grupo": "Conhecimentos específicos",
+        "n_assuntos": 1,
+        "paginas": "67",
+        "sha1_assuntos": "24ca1bfde75d1225b3c3b27d5f10529829a8d33b"
+      },
+      {
+        "Disciplina": "Direito Processual Civil",
+        "Grupo": "Conhecimentos específicos",
+        "n_assuntos": 1,
+        "paginas": "67, 68",
+        "sha1_assuntos": "8ba4afc93a2a85518ca6d6d64ac87023018cbb4c"
+      },
+      {
+        "Disciplina": "Língua Portuguesa",
+        "Grupo": "Conhecimentos gerais",
+        "n_assuntos": 1,
+        "paginas": "60",
+        "sha1_assuntos": "e4376693795c24caeff8652632464f1250e14b8b"
+      },
+      {
+        "Disciplina": "Matemática e Raciocínio lógico",
+        "Grupo": "Conhecimentos gerais",
+        "n_assuntos": 1,
+        "paginas": "60",
+        "sha1_assuntos": "861e29a6a385b383481739800a3ee96618cb9373"
+      },
+      {
+        "Disciplina": "Noções de Legislação",
+        "Grupo": "Conhecimentos gerais",
+        "n_assuntos": 1,
+        "paginas": "60, 61",
+        "sha1_assuntos": "2873cb7a330b3194360925acdaf9ff346865c2f6"
+      },
+      {
+        "Disciplina": "Noções de Direitos Humanos",
+        "Grupo": "Conhecimentos gerais",
+        "n_assuntos": 1,
+        "paginas": "61",
+        "sha1_assuntos": "038d848f40879ef8713e4766b05352acecd03eaf"
+      },
+      {
+        "Disciplina": "Noções de Informática",
+        "Grupo": "Conhecimentos gerais",
+        "n_assuntos": 1,
+        "paginas": "61",
+        "sha1_assuntos": "c1fed711caa7339c6bb08f097bc30d7d8fadef0f"
+      }
+    ],
+    "02 – Analista Judiciário – Área Judiciária – Especialidade Oficial de Justiça Avaliador Federal": [
+      {
+        "Disciplina": "Direito Constitucional",
+        "Grupo": "Conhecimentos específicos",
+        "n_assuntos": 1,
+        "paginas": "68",
+        "sha1_assuntos": "62fdfb28f011b74dcdefb766bed0f6eaa6324f05"
+      },
+      {
+        "Disciplina": "Direito Administrativo",
+        "Grupo": "Conhecimentos específicos",
+        "n_assuntos": 1,
+        "paginas": "68",
+        "sha1_assuntos": "29e10b2825485dc1d9dffee4e6f4c29365914880"
+      },
+      {
+        "Disciplina": "Direito do Trabalho",
+        "Grupo": "Conhecimentos específicos",
+        "n_assuntos": 1,
+        "paginas": "68, 69",
+        "sha1_assuntos": "7b289f3963a84114aa452c20ab3783c098c77ff8"
+      },
+      {
+        "Disciplina": "Direito Processual do Trabalho",
+        "Grupo": "Conhecimentos específicos",
+        "n_assuntos": 1,
+        "paginas": "69, 70",
+        "sha1_assuntos": "d5fbd407054744a9cc992b0f58f41aed739a1a18"
+      },
+      {
+        "Disciplina": "Direito Civil",
+        "Grupo": "Conhecimentos específicos",
+        "n_assuntos": 1,
+        "paginas": "70",
+        "sha1_assuntos": "26a0093251d34eae8f5a046dc4c84c545d0bbf79"
+      },
+      {
+        "Disciplina": "Direito Processual Civil",
+        "Grupo": "Conhecimentos específicos",
+        "n_assuntos": 1,
+        "paginas": "70",
+        "sha1_assuntos": "8ba4afc93a2a85518ca6d6d64ac87023018cbb4c"
+      },
+      {
+        "Disciplina": "Língua Portuguesa",
+        "Grupo": "Conhecimentos gerais",
+        "n_assuntos": 1,
+        "paginas": "60",
+        "sha1_assuntos": "e4376693795c24caeff8652632464f1250e14b8b"
+      },
+      {
+        "Disciplina": "Matemática e Raciocínio lógico",
+        "Grupo": "Conhecimentos gerais",
+        "n_assuntos": 1,
+        "paginas": "60",
+        "sha1_assuntos": "861e29a6a385b383481739800a3ee96618cb9373"
+      },
+      {
+        "Disciplina": "Noções de Legislação",
+        "Grupo": "Conhecimentos gerais",
+        "n_assuntos": 1,
+        "paginas": "60, 61",
+        "sha1_assuntos": "2873cb7a330b3194360925acdaf9ff346865c2f6"
+      },
+      {
+        "Disciplina": "Noções de Direitos Humanos",
+        "Grupo": "Conhecimentos gerais",
+        "n_assuntos": 1,
+        "paginas": "61",
+        "sha1_assuntos": "038d848f40879ef8713e4766b05352acecd03eaf"
+      },
+      {
+        "Disciplina": "Noções de Informática",
+        "Grupo": "Conhecimentos gerais",
+        "n_assuntos": 1,
+        "paginas": "61",
+        "sha1_assuntos": "c1fed711caa7339c6bb08f097bc30d7d8fadef0f"
+      }
+    ],
+    "03 – Analista Judiciário – Área Administrativa": [
+      {
+        "Disciplina": "Noções de Direito Constitucional",
+        "Grupo": "Conhecimentos específicos",
+        "n_assuntos": 1,
+        "paginas": "70, 71",
+        "sha1_assuntos": "0142cf765a1b2a32c282612d5d7c225bc85bf1de"
+      },
+      {
+        "Disciplina": "Língua Portuguesa",
+        "Grupo": "Conhecimentos gerais",
+        "n_assuntos": 1,
+        "paginas": "60",
+        "sha1_assuntos": "e4376693795c24caeff8652632464f1250e14b8b"
+      },
+      {
+        "Disciplina": "Matemática e Raciocínio lógico",
+        "Grupo": "Conhecimentos gerais",
+        "n_assuntos": 1,
+        "paginas": "60",
+        "sha1_assuntos": "861e29a6a385b383481739800a3ee96618cb9373"
+      },
+      {
+        "Disciplina": "Noções de Legislação",
+        "Grupo": "Conhecimentos gerais",
+        "n_assuntos": 1,
+        "paginas": "60, 61",
+        "sha1_assuntos": "2873cb7a330b3194360925acdaf9ff346865c2f6"
+      },
+      {
+        "Disciplina": "Noções de Direitos Humanos",
+        "Grupo": "Conhecimentos gerais",
+        "n_assuntos": 1,
+        "paginas": "61",
+        "sha1_assuntos": "038d848f40879ef8713e4766b05352acecd03eaf"
+      },
+      {
+        "Disciplina": "Noções de Informática",
+        "Grupo": "Conhecimentos gerais",
+        "n_assuntos": 1,
+        "paginas": "61",
+        "sha1_assuntos": "c1fed711caa7339c6bb08f097bc30d7d8fadef0f"
+      }
+    ],
+    "04 – Analista Judiciário – Área Administrativa – Especialidade Contabilidade": [
+      {
+        "Disciplina": "Direito Administrativo e de Administração Pública",
+        "Grupo": "Conhecimentos específicos",
+        "n_assuntos": 1,
+        "paginas": "71, 72",
+        "sha1_assuntos": "32e862d45ab9dfd92ccddbff27f543ddef3ff4f6"
+      },
+      {
+        "Disciplina": "Orçamento Público",
+        "Grupo": "Conhecimentos específicos",
+        "n_assuntos": 1,
+        "paginas": "72",
+        "sha1_assuntos": "5cdc6c52deb42e46f90c70628853568f1e0fcbe8"
+      },
+      {
+        "Disciplina": "Administração Financeira e Orçamentária",
+        "Grupo": "Conhecimentos específicos",
+        "n_assuntos": 1,
+        "paginas": "72, 73",
+        "sha1_assuntos": "29fc7de18968e4f5d33a7a6a63851d015df3cf0b"
+      },
+      {
+        "Disciplina": "Contabilidade Geral",
+        "Grupo": "Conhecimentos específicos",
+        "n_assuntos": 1,
+        "paginas": "73",
+        "sha1_assuntos": "1e814cf6d82d8415d69a884459274d29c1bbdd8d"
+      },
+      {
+        "Disciplina": "Língua Portuguesa",
+        "Grupo": "Conhecimentos gerais",
+        "n_assuntos": 1,
+        "paginas": "60",
+        "sha1_assuntos": "e4376693795c24caeff8652632464f1250e14b8b"
+      },
+      {
+        "Disciplina": "Matemática e Raciocínio lógico",
+        "Grupo": "Conhecimentos gerais",
+        "n_assuntos": 1,
+        "paginas": "60",
+        "sha1_assuntos": "861e29a6a385b383481739800a3ee96618cb9373"
+      },
+      {
+        "Disciplina": "Noções de Legislação",
+        "Grupo": "Conhecimentos gerais",
+        "n_assuntos": 1,
+        "paginas": "60, 61",
+        "sha1_assuntos": "2873cb7a330b3194360925acdaf9ff346865c2f6"
+      },
+      {
+        "Disciplina": "Noções de Direitos Humanos",
+        "Grupo": "Conhecimentos gerais",
+        "n_assuntos": 1,
+        "paginas": "61",
+        "sha1_assuntos": "038d848f40879ef8713e4766b05352acecd03eaf"
+      },
+      {
+        "Disciplina": "Noções de Informática",
+        "Grupo": "Conhecimentos gerais",
+        "n_assuntos": 1,
+        "paginas": "61",
+        "sha1_assuntos": "c1fed711caa7339c6bb08f097bc30d7d8fadef0f"
+      }
+    ],
+    "05 – Analista Judiciário – Área Apoio Especializado – Especialidade Arquitetura": [
+      {
+        "Disciplina": "Disciplina não identificada",
+        "Grupo": "Conhecimentos específicos",
+        "n_assuntos": 1,
+        "paginas": "73",
+        "sha1_assuntos": "b942d69468f6e8d3b219dbbbd3313a28a57f088c"
+      },
+      {
+        "Disciplina": "Georreferenciamento e Coordenadas Compartilhadas",
+        "Grupo": "Conhecimentos específicos",
+        "n_assuntos": 1,
+        "paginas": "74",
+        "sha1_assuntos": "8b2c2267f7ec23d25ffc6e287f2ec1b207ed459c"
+      },
+      {
+        "Disciplina": "Língua Portuguesa",
+        "Grupo": "Conhecimentos gerais",
+        "n_assuntos": 1,
+        "paginas": "60",
+        "sha1_assuntos": "e4376693795c24caeff8652632464f1250e14b8b"
+      },
+      {
+        "Disciplina": "Matemática e Raciocínio lógico",
+        "Grupo": "Conhecimentos gerais",
+        "n_assuntos": 1,
+        "paginas": "60",
+        "sha1_assuntos": "861e29a6a385b383481739800a3ee96618cb9373"
+      },
+      {
+        "Disciplina": "Noções de Legislação",
+        "Grupo": "Conhecimentos gerais",
+        "n_assuntos": 1,
+        "paginas": "60, 61",
+        "sha1_assuntos": "2873cb7a330b3194360925acdaf9ff346865c2f6"
+      },
+      {
+        "Disciplina": "Noções de Direitos Humanos",
+        "Grupo": "Conhecimentos gerais",
+        "n_assuntos": 1,
+        "paginas": "61",
+        "sha1_assuntos": "038d848f40879ef8713e4766b05352acecd03eaf"
+      },
+      {
+        "Disciplina": "Noções de Informática",
+        "Grupo": "Conhecimentos gerais",
+        "n_assuntos": 1,
+        "paginas": "61",
+        "sha1_assuntos": "c1fed711caa7339c6bb08f097bc30d7d8fadef0f"
+      }
+    ],
+    "06 – Analista Judiciário – Área Apoio Especializado – Especialidade Engenharia (Civil)": [
+      {
+        "Disciplina": "Planejamento, Orçamento e Gestão de Obras",
+        "Grupo": "Conhecimentos específicos",
+        "n_assuntos": 1,
+        "paginas": "75, 76",
+        "sha1_assuntos": "0a44fd52172f7c1ca0a57880b50759636b1641ef"
+      },
+      {
+        "Disciplina": "Língua Portuguesa",
+        "Grupo": "Conhecimentos gerais",
+        "n_assuntos": 1,
+        "paginas": "60",
+        "sha1_assuntos": "e4376693795c24caeff8652632464f1250e14b8b"
+      },
+      {
+        "Disciplina": "Matemática e Raciocínio lógico",
+        "Grupo": "Conhecimentos gerais",
+        "n_assuntos": 1,
+        "paginas": "60",
+        "sha1_assuntos": "861e29a6a385b383481739800a3ee96618cb9373"
+      },
+      {
+        "Disciplina": "Noções de Legislação",
+        "Grupo": "Conhecimentos gerais",
+        "n_assuntos": 1,
+        "paginas": "60, 61",
+        "sha1_assuntos": "2873cb7a330b3194360925acdaf9ff346865c2f6"
+      },
+      {
+        "Disciplina": "Noções de Direitos Humanos",
+        "Grupo": "Conhecimentos gerais",
+        "n_assuntos": 1,
+        "paginas": "61",
+        "sha1_assuntos": "038d848f40879ef8713e4766b05352acecd03eaf"
+      },
+      {
+        "Disciplina": "Noções de Informática",
+        "Grupo": "Conhecimentos gerais",
+        "n_assuntos": 1,
+        "paginas": "61",
+        "sha1_assuntos": "c1fed711caa7339c6bb08f097bc30d7d8fadef0f"
+      }
+    ],
+    "07 – Analista Judiciário – Área Apoio Especializado – Especialidade Engenharia (Elétrica)": [
+      {
+        "Disciplina": "Circuitos elétricos",
+        "Grupo": "Conhecimentos específicos",
+        "n_assuntos": 1,
+        "paginas": "76, 77",
+        "sha1_assuntos": "ab4f128575c1294841a474ab433092413cf8fe1b"
+      },
+      {
+        "Disciplina": "Língua Portuguesa",
+        "Grupo": "Conhecimentos gerais",
+        "n_assuntos": 1,
+        "paginas": "60",
+        "sha1_assuntos": "e4376693795c24caeff8652632464f1250e14b8b"
+      },
+      {
+        "Disciplina": "Matemática e Raciocínio lógico",
+        "Grupo": "Conhecimentos gerais",
+        "n_assuntos": 1,
+        "paginas": "60",
+        "sha1_assuntos": "861e29a6a385b383481739800a3ee96618cb9373"
+      },
+      {
+        "Disciplina": "Noções de Legislação",
+        "Grupo": "Conhecimentos gerais",
+        "n_assuntos": 1,
+        "paginas": "60, 61",
+        "sha1_assuntos": "2873cb7a330b3194360925acdaf9ff346865c2f6"
+      },
+      {
+        "Disciplina": "Noções de Direitos Humanos",
+        "Grupo": "Conhecimentos gerais",
+        "n_assuntos": 1,
+        "paginas": "61",
+        "sha1_assuntos": "038d848f40879ef8713e4766b05352acecd03eaf"
+      },
+      {
+        "Disciplina": "Noções de Informática",
+        "Grupo": "Conhecimentos gerais",
+        "n_assuntos": 1,
+        "paginas": "61",
+        "sha1_assuntos": "c1fed711caa7339c6bb08f097bc30d7d8fadef0f"
+      }
+    ],
+    "08 – Analista Judiciário – Área Apoio Especializado –  Especialidade Engenharia (Segurança do Trabalho)": [
+      {
+        "Disciplina": "Fundamentos e Administração da Saúde e Segurança no Trabalho",
+        "Grupo": "Conhecimentos específicos",
+        "n_assuntos": 1,
+        "paginas": "77, 78, 79, 80",
+        "sha1_assuntos": "f8932e2e9cbea2452bc4529056b5230ba0526c6b"
+      },
+      {
+        "Disciplina": "Língua Portuguesa",
+        "Grupo": "Conhecimentos gerais",
+        "n_assuntos": 1,
+        "paginas": "60",
+        "sha1_assuntos": "e4376693795c24caeff8652632464f1250e14b8b"
+      },
+      {
+        "Disciplina": "Matemática e Raciocínio lógico",
+        "Grupo": "Conhecimentos gerais",
+        "n_assuntos": 1,
+        "paginas": "60",
+        "sha1_assuntos": "861e29a6a385b383481739800a3ee96618cb9373"
+      },
+      {
+        "Disciplina": "Noções de Legislação",
+        "Grupo": "Conhecimentos gerais",
+        "n_assuntos": 1,
+        "paginas": "60, 61",
+        "sha1_assuntos": "2873cb7a330b3194360925acdaf9ff346865c2f6"
+      },
+      {
+        "Disciplina": "Noções de Direitos Humanos",
+        "Grupo": "Conhecimentos gerais",
+        "n_assuntos": 1,
+        "paginas": "61",
+        "sha1_assuntos": "038d848f40879ef8713e4766b05352acecd03eaf"
+      },
+      {
+        "Disciplina": "Noções de Informática",
+        "Grupo": "Conhecimentos gerais",
+        "n_assuntos": 1,
+        "paginas": "61",
+        "sha1_assuntos": "c1fed711caa7339c6bb08f097bc30d7d8fadef0f"
+      }
+    ],
+    "09 – Analista Judiciário – Área Apoio Especializado – Especialidade Estatística": [
+      {
+        "Disciplina": "Estatística descritiva e análise exploratória de dados",
+        "Grupo": "Conhecimentos específicos",
+        "n_assuntos": 1,
+        "paginas": "80",
+        "sha1_assuntos": "ee6f4ffcbc7a6f587c450b5738a7eb462192be71"
+      },
+      {
+        "Disciplina": "Língua Portuguesa",
+        "Grupo": "Conhecimentos gerais",
+        "n_assuntos": 1,
+        "paginas": "60",
+        "sha1_assuntos": "e4376693795c24caeff8652632464f1250e14b8b"
+      },
+      {
+        "Disciplina": "Matemática e Raciocínio lógico",
+        "Grupo": "Conhecimentos gerais",
+        "n_assuntos": 1,
+        "paginas": "60",
+        "sha1_assuntos": "861e29a6a385b383481739800a3ee96618cb9373"
+      },
+      {
+        "Disciplina": "Noções de Legislação",
+        "Grupo": "Conhecimentos gerais",
+        "n_assuntos": 1,
+        "paginas": "60, 61",
+        "sha1_assuntos": "2873cb7a330b3194360925acdaf9ff346865c2f6"
+      },
+      {
+        "Disciplina": "Noções de Direitos Humanos",
+        "Grupo": "Conhecimentos gerais",
+        "n_assuntos": 1,
+        "paginas": "61",
+        "sha1_assuntos": "038d848f40879ef8713e4766b05352acecd03eaf"
+      },
+      {
+        "Disciplina": "Noções de Informática",
+        "Grupo": "Conhecimentos gerais",
+        "n_assuntos": 1,
+        "paginas": "61",
+        "sha1_assuntos": "c1fed711caa7339c6bb08f097bc30d7d8fadef0f"
+      }
+    ],
+    "10 – Analista Judiciário – Área Apoio Especializado –  Especialidade Medicina (Clínico Geral)": [
+      {
+        "Disciplina": "Disciplina não identificada",
+        "Grupo": "Conhecimentos específicos",
+        "n_assuntos": 1,
+        "paginas": "80, 81",
+        "sha1_assuntos": "3eecc3e5b200156aa8893853277433e0a2c00fec"
+      },
+      {
+        "Disciplina": "Língua Portuguesa",
+        "Grupo": "Conhecimentos gerais",
+        "n_assuntos": 1,
+        "paginas": "60",
+        "sha1_assuntos": "e4376693795c24caeff8652632464f1250e14b8b"
+      },
+      {
+        "Disciplina": "Matemática e Raciocínio lógico",
+        "Grupo": "Conhecimentos gerais",
+        "n_assuntos": 1,
+        "paginas": "60",
+        "sha1_assuntos": "861e29a6a385b383481739800a3ee96618cb9373"
+      },
+      {
+        "Disciplina": "Noções de Legislação",
+        "Grupo": "Conhecimentos gerais",
+        "n_assuntos": 1,
+        "paginas": "60, 61",
+        "sha1_assuntos": "2873cb7a330b3194360925acdaf9ff346865c2f6"
+      },
+      {
+        "Disciplina": "Noções de Direitos Humanos",
+        "Grupo": "Conhecimentos gerais",
+        "n_assuntos": 1,
+        "paginas": "61",
+        "sha1_assuntos": "038d848f40879ef8713e4766b05352acecd03eaf"
+      },
+      {
+        "Disciplina": "Noções de Informática",
+        "Grupo": "Conhecimentos gerais",
+        "n_assuntos": 1,
+        "paginas": "61",
+        "sha1_assuntos": "c1fed711caa7339c6bb08f097bc30d7d8fadef0f"
+      }
+    ],
+    "11 – Analista Judiciário – Área Apoio Especializado –  Especialidade Medicina (Cardiologia)": [
+      {
+        "Disciplina": "Disciplina não identificada",
+        "Grupo": "Conhecimentos específicos",
+        "n_assuntos": 1,
+        "paginas": "81, 82",
+        "sha1_assuntos": "0c922296c6dcb533c163d2da71695818a17dc3f2"
+      },
+      {
+        "Disciplina": "Língua Portuguesa",
+        "Grupo": "Conhecimentos gerais",
+        "n_assuntos": 1,
+        "paginas": "60",
+        "sha1_assuntos": "e4376693795c24caeff8652632464f1250e14b8b"
+      },
+      {
+        "Disciplina": "Matemática e Raciocínio lógico",
+        "Grupo": "Conhecimentos gerais",
+        "n_assuntos": 1,
+        "paginas": "60",
+        "sha1_assuntos": "861e29a6a385b383481739800a3ee96618cb9373"
+      },
+      {
+        "Disciplina": "Noções de Legislação",
+        "Grupo": "Conhecimentos gerais",
+        "n_assuntos": 1,
+        "paginas": "60, 61",
+        "sha1_assuntos": "2873cb7a330b3194360925acdaf9ff346865c2f6"
+      },
+      {
+        "Disciplina": "Noções de Direitos Humanos",
+        "Grupo": "Conhecimentos gerais",
+        "n_assuntos": 1,
+        "paginas": "61",
+        "sha1_assuntos": "038d848f40879ef8713e4766b05352acecd03eaf"
+      },
+      {
+        "Disciplina": "Noções de Informática",
+        "Grupo": "Conhecimentos gerais",
+        "n_assuntos": 1,
+        "paginas": "61",
+        "sha1_assuntos": "c1fed711caa7339c6bb08f097bc30d7d8fadef0f"
+      }
+    ],
+    "12 – Analista Judiciário – Área Apoio Especializado –  Especialidade Medicina (do Trabalho)": [
+      {
+        "Disciplina": "Disciplina não identificada",
+        "Grupo": "Conhecimentos específicos",
+        "n_assuntos": 1,
+        "paginas": "82",
+        "sha1_assuntos": "df1b14c7200b0642433e4a5a6250b0c9c42dcdb0"
+      },
+      {
+        "Disciplina": "Língua Portuguesa",
+        "Grupo": "Conhecimentos gerais",
+        "n_assuntos": 1,
+        "paginas": "60",
+        "sha1_assuntos": "e4376693795c24caeff8652632464f1250e14b8b"
+      },
+      {
+        "Disciplina": "Matemática e Raciocínio lógico",
+        "Grupo": "Conhecimentos gerais",
+        "n_assuntos": 1,
+        "paginas": "60",
+        "sha1_assuntos": "861e29a6a385b383481739800a3ee96618cb9373"
+      },
+      {
+        "Disciplina": "Noções de Legislação",
+        "Grupo": "Conhecimentos gerais",
+        "n_assuntos": 1,
+        "paginas": "60, 61",
+        "sha1_assuntos": "2873cb7a330b3194360925acdaf9ff346865c2f6"
+      },
+      {
+        "Disciplina": "Noções de Direitos Humanos",
+        "Grupo": "Conhecimentos gerais",
+        "n_assuntos": 1,
+        "paginas": "61",
+        "sha1_assuntos": "038d848f40879ef8713e4766b05352acecd03eaf"
+      },
+      {
+        "Disciplina": "Noções de Informática",
+        "Grupo": "Conhecimentos gerais",
+        "n_assuntos": 1,
+        "paginas": "61",
+        "sha1_assuntos": "c1fed711caa7339c6bb08f097bc30d7d8fadef0f"
+      }
+    ],
+    "13 – Analista Judiciário – Área Apoio Especializado –  Especialidade Medicina (Psiquiatria)": [
+      {
+        "Disciplina": "Classificação e diagnóstico em psiquiatria",
+        "Grupo": "Conhecimentos específicos",
+        "n_assuntos": 1,
+        "paginas": "82, 83",
+        "sha1_assuntos": "05cf73ac5cbed75fb7dcc9fea4749c7274f91691"
+      },
+      {
+        "Disciplina": "Língua Portuguesa",
+        "Grupo": "Conhecimentos gerais",
+        "n_assuntos": 1,
+        "paginas": "60",
+        "sha1_assuntos": "e4376693795c24caeff8652632464f1250e14b8b"
+      },
+      {
+        "Disciplina": "Matemática e Raciocínio lógico",
+        "Grupo": "Conhecimentos gerais",
+        "n_assuntos": 1,
+        "paginas": "60",
+        "sha1_assuntos": "861e29a6a385b383481739800a3ee96618cb9373"
+      },
+      {
+        "Disciplina": "Noções de Legislação",
+        "Grupo": "Conhecimentos gerais",
+        "n_assuntos": 1,
+        "paginas": "60, 61",
+        "sha1_assuntos": "2873cb7a330b3194360925acdaf9ff346865c2f6"
+      },
+      {
+        "Disciplina": "Noções de Direitos Humanos",
+        "Grupo": "Conhecimentos gerais",
+        "n_assuntos": 1,
+        "paginas": "61",
+        "sha1_assuntos": "038d848f40879ef8713e4766b05352acecd03eaf"
+      },
+      {
+        "Disciplina": "Noções de Informática",
+        "Grupo": "Conhecimentos gerais",
+        "n_assuntos": 1,
+        "paginas": "61",
+        "sha1_assuntos": "c1fed711caa7339c6bb08f097bc30d7d8fadef0f"
+      }
+    ],
+    "14 – Analista Judiciário – Área Apoio Especializado – Especialidade Tecnologia da Informação": [
+      {
+        "Disciplina": "Processo de desenvolvimento de software",
+        "Grupo": "Conhecimentos específicos",
+        "n_assuntos": 3,
+        "paginas": "83, 84, 85",
+        "sha1_assuntos": "522e91b182a097218582b76bc64a8075b6bf9d02"
+      },
+      {
+        "Disciplina": "Língua Portuguesa",
+        "Grupo": "Conhecimentos gerais",
+        "n_assuntos": 1,
+        "paginas": "61",
+        "sha1_assuntos": "f9582c910b553f2af28597da4b64439668a0d5b2"
+      },
+      {
+        "Disciplina": "Matemática e Raciocínio lógico",
+        "Grupo": "Conhecimentos gerais",
+        "n_assuntos": 1,
+        "paginas": "62",
+        "sha1_assuntos": "861e29a6a385b383481739800a3ee96618cb9373"
+      },
+      {
+        "Disciplina": "Noções de Legislação",
+        "Grupo": "Conhecimentos gerais",
+        "n_assuntos": 1,
+        "paginas": "62",
+        "sha1_assuntos": "7bcc5a24de2acd01835f38abd917418684ea070a"
+      },
+      {
+        "Disciplina": "Noções de Direitos Humanos",
+        "Grupo": "Conhecimentos gerais",
+        "n_assuntos": 1,
+        "paginas": "62",
+        "sha1_assuntos": "c2230c4ab38c2251a2674a3c7bc3e4bdafcfe283"
+      }
+    ],
+    "15 – Analista Judiciário – Área Apoio Especializado – Especialidade Biblioteconomia": [
+      {
+        "Disciplina": "Biblioteconomia, documentação e ciência da informação",
+        "Grupo": "Conhecimentos específicos",
+        "n_assuntos": 1,
+        "paginas": "85, 86",
+        "sha1_assuntos": "bc717e182c9e2d26f34d9fd48f04fb24466fbc8a"
+      },
+      {
+        "Disciplina": "Língua Portuguesa",
+        "Grupo": "Conhecimentos gerais",
+        "n_assuntos": 1,
+        "paginas": "60",
+        "sha1_assuntos": "e4376693795c24caeff8652632464f1250e14b8b"
+      },
+      {
+        "Disciplina": "Matemática e Raciocínio lógico",
+        "Grupo": "Conhecimentos gerais",
+        "n_assuntos": 1,
+        "paginas": "60",
+        "sha1_assuntos": "861e29a6a385b383481739800a3ee96618cb9373"
+      },
+      {
+        "Disciplina": "Noções de Legislação",
+        "Grupo": "Conhecimentos gerais",
+        "n_assuntos": 1,
+        "paginas": "60, 61",
+        "sha1_assuntos": "2873cb7a330b3194360925acdaf9ff346865c2f6"
+      },
+      {
+        "Disciplina": "Noções de Direitos Humanos",
+        "Grupo": "Conhecimentos gerais",
+        "n_assuntos": 1,
+        "paginas": "61",
+        "sha1_assuntos": "038d848f40879ef8713e4766b05352acecd03eaf"
+      },
+      {
+        "Disciplina": "Noções de Informática",
+        "Grupo": "Conhecimentos gerais",
+        "n_assuntos": 1,
+        "paginas": "61",
+        "sha1_assuntos": "c1fed711caa7339c6bb08f097bc30d7d8fadef0f"
+      }
+    ],
+    "16 – Analista Judiciário – Área Apoio Especializado – Especialidade Comunicação Social": [
+      {
+        "Disciplina": "Teorias da comunicação",
+        "Grupo": "Conhecimentos específicos",
+        "n_assuntos": 1,
+        "paginas": "86, 87",
+        "sha1_assuntos": "d9269d1d6acf778419a87edddd5eb1906392c916"
+      },
+      {
+        "Disciplina": "Língua Portuguesa",
+        "Grupo": "Conhecimentos gerais",
+        "n_assuntos": 1,
+        "paginas": "60",
+        "sha1_assuntos": "e4376693795c24caeff8652632464f1250e14b8b"
+      },
+      {
+        "Disciplina": "Matemática e Raciocínio lógico",
+        "Grupo": "Conhecimentos gerais",
+        "n_assuntos": 1,
+        "paginas": "60",
+        "sha1_assuntos": "861e29a6a385b383481739800a3ee96618cb9373"
+      },
+      {
+        "Disciplina": "Noções de Legislação",
+        "Grupo": "Conhecimentos gerais",
+        "n_assuntos": 1,
+        "paginas": "60, 61",
+        "sha1_assuntos": "2873cb7a330b3194360925acdaf9ff346865c2f6"
+      },
+      {
+        "Disciplina": "Noções de Direitos Humanos",
+        "Grupo": "Conhecimentos gerais",
+        "n_assuntos": 1,
+        "paginas": "61",
+        "sha1_assuntos": "038d848f40879ef8713e4766b05352acecd03eaf"
+      },
+      {
+        "Disciplina": "Noções de Informática",
+        "Grupo": "Conhecimentos gerais",
+        "n_assuntos": 1,
+        "paginas": "61",
+        "sha1_assuntos": "c1fed711caa7339c6bb08f097bc30d7d8fadef0f"
+      }
+    ],
+    "17 – Analista Judiciário – Área Apoio Especializado – Especialidade Serviço Social": [
+      {
+        "Disciplina": "Disciplina não identificada",
+        "Grupo": "Conhecimentos específicos",
+        "n_assuntos": 1,
+        "paginas": "87",
+        "sha1_assuntos": "cf7d073bbebaedc2509123bf14913b857a70f1d8"
+      },
+      {
+        "Disciplina": "Língua Portuguesa",
+        "Grupo": "Conhecimentos gerais",
+        "n_assuntos": 1,
+        "paginas": "60",
+        "sha1_assuntos": "e4376693795c24caeff8652632464f1250e14b8b"
+      },
+      {
+        "Disciplina": "Matemática e Raciocínio lógico",
+        "Grupo": "Conhecimentos gerais",
+        "n_assuntos": 1,
+        "paginas": "60",
+        "sha1_assuntos": "861e29a6a385b383481739800a3ee96618cb9373"
+      },
+      {
+        "Disciplina": "Noções de Legislação",
+        "Grupo": "Conhecimentos gerais",
+        "n_assuntos": 1,
+        "paginas": "60, 61",
+        "sha1_assuntos": "2873cb7a330b3194360925acdaf9ff346865c2f6"
+      },
+      {
+        "Disciplina": "Noções de Direitos Humanos",
+        "Grupo": "Conhecimentos gerais",
+        "n_assuntos": 1,
+        "paginas": "61",
+        "sha1_assuntos": "038d848f40879ef8713e4766b05352acecd03eaf"
+      },
+      {
+        "Disciplina": "Noções de Informática",
+        "Grupo": "Conhecimentos gerais",
+        "n_assuntos": 1,
+        "paginas": "61",
+        "sha1_assuntos": "c1fed711caa7339c6bb08f097bc30d7d8fadef0f"
+      }
+    ],
+    "18 – Analista Judiciário – Área Apoio Especializado – Especialidade Psicologia": [
+      {
+        "Disciplina": "Avaliação psicológica e psicodiagnóstico",
+        "Grupo": "Conhecimentos específicos",
+        "n_assuntos": 1,
+        "paginas": "87, 88",
+        "sha1_assuntos": "ce22b5b8ddde6ce2c68b327dfe829a89cb0a123e"
+      },
+      {
+        "Disciplina": "Língua Portuguesa",
+        "Grupo": "Conhecimentos gerais",
+        "n_assuntos": 1,
+        "paginas": "60",
+        "sha1_assuntos": "e4376693795c24caeff8652632464f1250e14b8b"
+      },
+      {
+        "Disciplina": "Matemática e Raciocínio lógico",
+        "Grupo": "Conhecimentos gerais",
+        "n_assuntos": 1,
+        "paginas": "60",
+        "sha1_assuntos": "861e29a6a385b383481739800a3ee96618cb9373"
+      },
+      {
+        "Disciplina": "Noções de Legislação",
+        "Grupo": "Conhecimentos gerais",
+        "n_assuntos": 1,
+        "paginas": "60, 61",
+        "sha1_assuntos": "2873cb7a330b3194360925acdaf9ff346865c2f6"
+      },
+      {
+        "Disciplina": "Noções de Direitos Humanos",
+        "Grupo": "Conhecimentos gerais",
+        "n_assuntos": 1,
+        "paginas": "61",
+        "sha1_assuntos": "038d848f40879ef8713e4766b05352acecd03eaf"
+      },
+      {
+        "Disciplina": "Noções de Informática",
+        "Grupo": "Conhecimentos gerais",
+        "n_assuntos": 1,
+        "paginas": "61",
+        "sha1_assuntos": "c1fed711caa7339c6bb08f097bc30d7d8fadef0f"
+      }
+    ],
+    "19 – Técnico Judiciário – Área Administrativa": [
+      {
+        "Disciplina": "Noções de Direito Constitucional",
+        "Grupo": "Conhecimentos específicos",
+        "n_assuntos": 1,
+        "paginas": "88, 89",
+        "sha1_assuntos": "021c4e1a345c582e06bdd41e842cfc932d3bbf8a"
+      },
+      {
+        "Disciplina": "Língua Portuguesa",
+        "Grupo": "Conhecimentos gerais",
+        "n_assuntos": 1,
+        "paginas": "62, 63",
+        "sha1_assuntos": "4f93465ed049c5bc1007234ec58df18de756b8af"
+      },
+      {
+        "Disciplina": "Matemática e Raciocínio lógico",
+        "Grupo": "Conhecimentos gerais",
+        "n_assuntos": 1,
+        "paginas": "63",
+        "sha1_assuntos": "861e29a6a385b383481739800a3ee96618cb9373"
+      },
+      {
+        "Disciplina": "Noções de Legislação",
+        "Grupo": "Conhecimentos gerais",
+        "n_assuntos": 1,
+        "paginas": "63",
+        "sha1_assuntos": "7bcc5a24de2acd01835f38abd917418684ea070a"
+      },
+      {
+        "Disciplina": "Noções de Direitos Humanos",
+        "Grupo": "Conhecimentos gerais",
+        "n_assuntos": 1,
+        "paginas": "63",
+        "sha1_assuntos": "3968e798c382498be04a02c4fbae5bc4577a9633"
+      },
+      {
+        "Disciplina": "Noções de Informática",
+        "Grupo": "Conhecimentos gerais",
+        "n_assuntos": 1,
+        "paginas": "64",
+        "sha1_assuntos": "c1fed711caa7339c6bb08f097bc30d7d8fadef0f"
+      }
+    ],
+    "20 – Técnico Judiciário – Área Apoio Especializado – Especialidade Enfermagem": [
+      {
+        "Disciplina": "Ética e legislação",
+        "Grupo": "Conhecimentos específicos",
+        "n_assuntos": 1,
+        "paginas": "90",
+        "sha1_assuntos": "b5feeed66eadd02e042218bb17c23416d5d5a660"
+      },
+      {
+        "Disciplina": "Língua Portuguesa",
+        "Grupo": "Conhecimentos gerais",
+        "n_assuntos": 1,
+        "paginas": "62, 63",
+        "sha1_assuntos": "4f93465ed049c5bc1007234ec58df18de756b8af"
+      },
+      {
+        "Disciplina": "Matemática e Raciocínio lógico",
+        "Grupo": "Conhecimentos gerais",
+        "n_assuntos": 1,
+        "paginas": "63",
+        "sha1_assuntos": "861e29a6a385b383481739800a3ee96618cb9373"
+      },
+      {
+        "Disciplina": "Noções de Legislação",
+        "Grupo": "Conhecimentos gerais",
+        "n_assuntos": 1,
+        "paginas": "63",
+        "sha1_assuntos": "7bcc5a24de2acd01835f38abd917418684ea070a"
+      },
+      {
+        "Disciplina": "Noções de Direitos Humanos",
+        "Grupo": "Conhecimentos gerais",
+        "n_assuntos": 1,
+        "paginas": "63",
+        "sha1_assuntos": "3968e798c382498be04a02c4fbae5bc4577a9633"
+      },
+      {
+        "Disciplina": "Noções de Informática",
+        "Grupo": "Conhecimentos gerais",
+        "n_assuntos": 1,
+        "paginas": "64",
+        "sha1_assuntos": "c1fed711caa7339c6bb08f097bc30d7d8fadef0f"
+      }
+    ],
+    "21 – Técnico Judiciário – Área Apoio Especializado – Especialidade Enfermagem do Trabalho": [
+      {
+        "Disciplina": "Ética e legislação",
+        "Grupo": "Conhecimentos específicos",
+        "n_assuntos": 1,
+        "paginas": "90",
+        "sha1_assuntos": "ce229a318054001d4a0c01cde287d1443db6f129"
+      },
+      {
+        "Disciplina": "Língua Portuguesa",
+        "Grupo": "Conhecimentos gerais",
+        "n_assuntos": 1,
+        "paginas": "62, 63",
+        "sha1_assuntos": "4f93465ed049c5bc1007234ec58df18de756b8af"
+      },
+      {
+        "Disciplina": "Matemática e Raciocínio lógico",
+        "Grupo": "Conhecimentos gerais",
+        "n_assuntos": 1,
+        "paginas": "63",
+        "sha1_assuntos": "861e29a6a385b383481739800a3ee96618cb9373"
+      },
+      {
+        "Disciplina": "Noções de Legislação",
+        "Grupo": "Conhecimentos gerais",
+        "n_assuntos": 1,
+        "paginas": "63",
+        "sha1_assuntos": "7bcc5a24de2acd01835f38abd917418684ea070a"
+      },
+      {
+        "Disciplina": "Noções de Direitos Humanos",
+        "Grupo": "Conhecimentos gerais",
+        "n_assuntos": 1,
+        "paginas": "63",
+        "sha1_assuntos": "3968e798c382498be04a02c4fbae5bc4577a9633"
+      },
+      {
+        "Disciplina": "Noções de Informática",
+        "Grupo": "Conhecimentos gerais",
+        "n_assuntos": 1,
+        "paginas": "64",
+        "sha1_assuntos": "c1fed711caa7339c6bb08f097bc30d7d8fadef0f"
+      }
+    ],
+    "22 – Técnico Judiciário – Área Apoio Especializado – Especialidade Tecnologia da Informação": [
+      {
+        "Disciplina": "DevOps e DevSecOps",
+        "Grupo": "Conhecimentos específicos",
+        "n_assuntos": 3,
+        "paginas": "90, 91, 92",
+        "sha1_assuntos": "15acf540fee27b5b41e0a03b6f70a74c6b4f5c1a"
+      },
+      {
+        "Disciplina": "Língua Portuguesa",
+        "Grupo": "Conhecimentos gerais",
+        "n_assuntos": 1,
+        "paginas": "64",
+        "sha1_assuntos": "e4376693795c24caeff8652632464f1250e14b8b"
+      },
+      {
+        "Disciplina": "Matemática e Raciocínio lógico",
+        "Grupo": "Conhecimentos gerais",
+        "n_assuntos": 1,
+        "paginas": "64",
+        "sha1_assuntos": "861e29a6a385b383481739800a3ee96618cb9373"
+      },
+      {
+        "Disciplina": "Noções de Legislação",
+        "Grupo": "Conhecimentos gerais",
+        "n_assuntos": 1,
+        "paginas": "64",
+        "sha1_assuntos": "7bcc5a24de2acd01835f38abd917418684ea070a"
+      },
+      {
+        "Disciplina": "Noções de Direitos Humanos",
+        "Grupo": "Conhecimentos gerais",
+        "n_assuntos": 1,
+        "paginas": "64, 65",
+        "sha1_assuntos": "5ce5dc268c7888f938eee26877e951a511613ffb"
+      }
+    ],
+    "23 – Técnico Judiciário – Área Administrativa – Especialidade Agente de Polícia Judicial": [
+      {
+        "Disciplina": "Segurança de Dignitários",
+        "Grupo": "Conhecimentos específicos",
+        "n_assuntos": 1,
+        "paginas": "92, 93",
+        "sha1_assuntos": "ffae35793c13ab05f1a05e6e09785b5ab2193a9b"
+      },
+      {
+        "Disciplina": "Língua Portuguesa",
+        "Grupo": "Conhecimentos gerais",
+        "n_assuntos": 1,
+        "paginas": "62, 63",
+        "sha1_assuntos": "4f93465ed049c5bc1007234ec58df18de756b8af"
+      },
+      {
+        "Disciplina": "Matemática e Raciocínio lógico",
+        "Grupo": "Conhecimentos gerais",
+        "n_assuntos": 1,
+        "paginas": "63",
+        "sha1_assuntos": "861e29a6a385b383481739800a3ee96618cb9373"
+      },
+      {
+        "Disciplina": "Noções de Legislação",
+        "Grupo": "Conhecimentos gerais",
+        "n_assuntos": 1,
+        "paginas": "63",
+        "sha1_assuntos": "7bcc5a24de2acd01835f38abd917418684ea070a"
+      },
+      {
+        "Disciplina": "Noções de Direitos Humanos",
+        "Grupo": "Conhecimentos gerais",
+        "n_assuntos": 1,
+        "paginas": "63",
+        "sha1_assuntos": "3968e798c382498be04a02c4fbae5bc4577a9633"
+      },
+      {
+        "Disciplina": "Noções de Informática",
+        "Grupo": "Conhecimentos gerais",
+        "n_assuntos": 1,
+        "paginas": "64",
+        "sha1_assuntos": "c1fed711caa7339c6bb08f097bc30d7d8fadef0f"
+      }
+    ]
+  },
+  "cronograma": [
+    {
+      "Data": "31/01/2027",
+      "Evento": "Data prevista da prova",
+      "Página": 30,
+      "Trecho": "tal e será aplicada em data posterior à data de aplicação das provas objetivas e discursivas. 11. DA PRESTAÇÃO DAS PROVAS 11.1 As Provas serão realizadas na cidade de Porto Alegre/RS no dia 31/01/2027, nos seguintes períodos: a) no período da MANHÃ: para os cargos/áreas"
+    }
+  ],
+  "dados": {
+    "01 – Analista Judiciário – Área Judiciária": {
+      "codigo": null,
+      "jornada": null,
+      "paginas": [
+        1,
+        4
+      ],
+      "salario": "r$ 16.040,88",
+      "taxa": "r$ 110,00",
+      "vagas": "CR"
+    },
+    "02 – Analista Judiciário – Área Judiciária – Especialidade Oficial de Justiça Avaliador Federal": {
+      "codigo": null,
+      "jornada": null,
+      "paginas": [
+        1,
+        4
+      ],
+      "salario": "r$ 16.040,88",
+      "taxa": "r$ 110,00",
+      "vagas": "CR"
+    },
+    "03 – Analista Judiciário – Área Administrativa": {
+      "codigo": null,
+      "jornada": null,
+      "paginas": [
+        1,
+        4
+      ],
+      "salario": "r$ 16.040,88",
+      "taxa": "r$ 110,00",
+      "vagas": "CR"
+    },
+    "04 – Analista Judiciário – Área Administrativa – Especialidade Contabilidade": {
+      "codigo": null,
+      "jornada": null,
+      "paginas": [
+        1,
+        4
+      ],
+      "salario": "r$ 16.040,88",
+      "taxa": "r$ 110,00",
+      "vagas": "CR"
+    },
+    "05 – Analista Judiciário – Área Apoio Especializado – Especialidade Arquitetura": {
+      "codigo": null,
+      "jornada": null,
+      "paginas": [
+        1,
+        4
+      ],
+      "salario": "r$ 16.040,88",
+      "taxa": "r$ 110,00",
+      "vagas": "CR"
+    },
+    "06 – Analista Judiciário – Área Apoio Especializado – Especialidade Engenharia (Civil)": {
+      "codigo": null,
+      "jornada": null,
+      "paginas": [
+        1,
+        4
+      ],
+      "salario": "r$ 16.040,88",
+      "taxa": "r$ 110,00",
+      "vagas": "CR"
+    },
+    "07 – Analista Judiciário – Área Apoio Especializado – Especialidade Engenharia (Elétrica)": {
+      "codigo": null,
+      "jornada": null,
+      "paginas": [
+        1,
+        5
+      ],
+      "salario": "r$ 16.040,88",
+      "taxa": "r$ 110,00",
+      "vagas": "CR"
+    },
+    "08 – Analista Judiciário – Área Apoio Especializado –  Especialidade Engenharia (Segurança do Trabalho)": {
+      "codigo": null,
+      "jornada": null,
+      "paginas": [
+        1,
+        5
+      ],
+      "salario": "r$ 16.040,88",
+      "taxa": "r$ 110,00",
+      "vagas": "CR"
+    },
+    "09 – Analista Judiciário – Área Apoio Especializado – Especialidade Estatística": {
+      "codigo": null,
+      "jornada": null,
+      "paginas": [
+        1,
+        5
+      ],
+      "salario": "r$ 16.040,88",
+      "taxa": "r$ 110,00",
+      "vagas": "CR"
+    },
+    "10 – Analista Judiciário – Área Apoio Especializado –  Especialidade Medicina (Clínico Geral)": {
+      "codigo": null,
+      "jornada": null,
+      "paginas": [
+        1,
+        5
+      ],
+      "salario": "r$ 16.040,88",
+      "taxa": "r$ 110,00",
+      "vagas": "CR"
+    },
+    "11 – Analista Judiciário – Área Apoio Especializado –  Especialidade Medicina (Cardiologia)": {
+      "codigo": null,
+      "jornada": null,
+      "paginas": [
+        1,
+        5
+      ],
+      "salario": "r$ 16.040,88",
+      "taxa": "r$ 110,00",
+      "vagas": "CR"
+    },
+    "12 – Analista Judiciário – Área Apoio Especializado –  Especialidade Medicina (do Trabalho)": {
+      "codigo": null,
+      "jornada": null,
+      "paginas": [
+        1,
+        5
+      ],
+      "salario": "r$ 16.040,88",
+      "taxa": "r$ 110,00",
+      "vagas": "CR"
+    },
+    "13 – Analista Judiciário – Área Apoio Especializado –  Especialidade Medicina (Psiquiatria)": {
+      "codigo": null,
+      "jornada": null,
+      "paginas": [
+        1,
+        5
+      ],
+      "salario": "r$ 16.040,88",
+      "taxa": "r$ 110,00",
+      "vagas": "CR"
+    },
+    "14 – Analista Judiciário – Área Apoio Especializado – Especialidade Tecnologia da Informação": {
+      "codigo": null,
+      "jornada": null,
+      "paginas": [
+        1,
+        5
+      ],
+      "salario": "r$ 16.040,88",
+      "taxa": "r$ 110,00",
+      "vagas": "CR"
+    },
+    "15 – Analista Judiciário – Área Apoio Especializado – Especialidade Biblioteconomia": {
+      "codigo": null,
+      "jornada": null,
+      "paginas": [
+        1,
+        5
+      ],
+      "salario": "r$ 16.040,88",
+      "taxa": "r$ 110,00",
+      "vagas": "CR"
+    },
+    "16 – Analista Judiciário – Área Apoio Especializado – Especialidade Comunicação Social": {
+      "codigo": null,
+      "jornada": null,
+      "paginas": [
+        1,
+        6
+      ],
+      "salario": "r$ 16.040,88",
+      "taxa": "r$ 110,00",
+      "vagas": "CR"
+    },
+    "17 – Analista Judiciário – Área Apoio Especializado – Especialidade Serviço Social": {
+      "codigo": null,
+      "jornada": null,
+      "paginas": [
+        1,
+        6
+      ],
+      "salario": "r$ 16.040,88",
+      "taxa": "r$ 110,00",
+      "vagas": "CR"
+    },
+    "18 – Analista Judiciário – Área Apoio Especializado – Especialidade Psicologia": {
+      "codigo": null,
+      "jornada": null,
+      "paginas": [
+        1,
+        6
+      ],
+      "salario": "r$ 16.040,88",
+      "taxa": "r$ 110,00",
+      "vagas": "CR"
+    },
+    "19 – Técnico Judiciário – Área Administrativa": {
+      "codigo": null,
+      "jornada": null,
+      "paginas": [
+        3,
+        6
+      ],
+      "salario": "r$ 9.776,71",
+      "taxa": "r$ 90,00",
+      "vagas": "CR"
+    },
+    "20 – Técnico Judiciário – Área Apoio Especializado – Especialidade Enfermagem": {
+      "codigo": null,
+      "jornada": null,
+      "paginas": [
+        3,
+        6
+      ],
+      "salario": "r$ 9.776,71",
+      "taxa": "r$ 90,00",
+      "vagas": "CR"
+    },
+    "21 – Técnico Judiciário – Área Apoio Especializado – Especialidade Enfermagem do Trabalho": {
+      "codigo": null,
+      "jornada": null,
+      "paginas": [
+        3,
+        6
+      ],
+      "salario": "r$ 9.776,71",
+      "taxa": "r$ 90,00",
+      "vagas": "CR"
+    },
+    "22 – Técnico Judiciário – Área Apoio Especializado – Especialidade Tecnologia da Informação": {
+      "codigo": null,
+      "jornada": null,
+      "paginas": [
+        3,
+        6
+      ],
+      "salario": "r$ 9.776,71",
+      "taxa": "r$ 90,00",
+      "vagas": "CR"
+    },
+    "23 – Técnico Judiciário – Área Administrativa – Especialidade Agente de Polícia Judicial": {
+      "codigo": null,
+      "jornada": null,
+      "paginas": [
+        3,
+        6
+      ],
+      "salario": "r$ 9.776,71",
+      "taxa": "r$ 90,00",
+      "vagas": "CR"
+    }
+  },
+  "identificacao": {
+    "Banca": [
+      "Fundação Carlos Chagas"
+    ],
+    "Órgão": [
+      "TRIBUNAL REGIONAL DO TRABALHO DA 4ª REGIÃO"
+    ]
+  },
+  "intervalo_conteudo": [
+    60,
+    93
+  ],
+  "n_paginas": 96,
+  "prova": {
+    "01 – Analista Judiciário – Área Judiciária": null,
+    "02 – Analista Judiciário – Área Judiciária – Especialidade Oficial de Justiça Avaliador Federal": null,
+    "03 – Analista Judiciário – Área Administrativa": null,
+    "04 – Analista Judiciário – Área Administrativa – Especialidade Contabilidade": null,
+    "05 – Analista Judiciário – Área Apoio Especializado – Especialidade Arquitetura": null,
+    "06 – Analista Judiciário – Área Apoio Especializado – Especialidade Engenharia (Civil)": null,
+    "07 – Analista Judiciário – Área Apoio Especializado – Especialidade Engenharia (Elétrica)": null,
+    "08 – Analista Judiciário – Área Apoio Especializado –  Especialidade Engenharia (Segurança do Trabalho)": null,
+    "09 – Analista Judiciário – Área Apoio Especializado – Especialidade Estatística": null,
+    "10 – Analista Judiciário – Área Apoio Especializado –  Especialidade Medicina (Clínico Geral)": null,
+    "11 – Analista Judiciário – Área Apoio Especializado –  Especialidade Medicina (Cardiologia)": null,
+    "12 – Analista Judiciário – Área Apoio Especializado –  Especialidade Medicina (do Trabalho)": null,
+    "13 – Analista Judiciário – Área Apoio Especializado –  Especialidade Medicina (Psiquiatria)": null,
+    "14 – Analista Judiciário – Área Apoio Especializado – Especialidade Tecnologia da Informação": null,
+    "15 – Analista Judiciário – Área Apoio Especializado – Especialidade Biblioteconomia": null,
+    "16 – Analista Judiciário – Área Apoio Especializado – Especialidade Comunicação Social": null,
+    "17 – Analista Judiciário – Área Apoio Especializado – Especialidade Serviço Social": null,
+    "18 – Analista Judiciário – Área Apoio Especializado – Especialidade Psicologia": null,
+    "19 – Técnico Judiciário – Área Administrativa": null,
+    "20 – Técnico Judiciário – Área Apoio Especializado – Especialidade Enfermagem": null,
+    "21 – Técnico Judiciário – Área Apoio Especializado – Especialidade Enfermagem do Trabalho": null,
+    "22 – Técnico Judiciário – Área Apoio Especializado – Especialidade Tecnologia da Informação": null,
+    "23 – Técnico Judiciário – Área Administrativa – Especialidade Agente de Polícia Judicial": null
+  },
+  "vagas_tabelas": {
+    "01": {
+      "cargo_tabela": "AnalistaJudiciário\n–Á reaJudiciária",
+      "pagina": 4,
+      "vagas": "CR"
+    },
+    "02": {
+      "cargo_tabela": "AnalistaJudiciário\n–Á reaJudiciária–\nEspecialidade\nOficialdeJustiça\nAvaliadorFederal",
+      "pagina": 4,
+      "vagas": "CR"
+    },
+    "03": {
+      "cargo_tabela": "AnalistaJudiciário\nÁ\n– rea\nAdministrativa",
+      "pagina": 4,
+      "vagas": "CR"
+    },
+    "04": {
+      "cargo_tabela": "AnalistaJudiciário\nÁ\n– rea\nAdministrativa-\nEspecialidade\nContabilidade",
+      "pagina": 4,
+      "vagas": "CR"
+    },
+    "05": {
+      "cargo_tabela": "AnalistaJudiciário\n–Á reaApoio\nEspecializado–\nEspecialidade\nArquitetura",
+      "pagina": 4,
+      "vagas": "CR"
+    },
+    "06": {
+      "cargo_tabela": "AnalistaJudiciário\n–Á reaApoio\nEspecializado–\nEspecialidade\nEngenharia(Civil)",
+      "pagina": 4,
+      "vagas": "CR"
+    },
+    "07": {
+      "cargo_tabela": "AnalistaJudiciário\n–Á reaApoio\nEspecializado–\nEspecialidade\nEngenharia\n(Elétrica)",
+      "pagina": 5,
+      "vagas": "CR"
+    },
+    "08": {
+      "cargo_tabela": "AnalistaJudiciário\n–Á reaApoio\nEspecializado–\nEspecialidade\nEngenharia\n(Segurançado\nTrabalho)",
+      "pagina": 5,
+      "vagas": "CR"
+    },
+    "09": {
+      "cargo_tabela": "AnalistaJudiciário\n–Á reaApoio\nEspecializado–\nEspecialidade\nEstatística",
+      "pagina": 5,
+      "vagas": "CR"
+    },
+    "10": {
+      "cargo_tabela": "AnalistaJudiciário\n–Á reaApoio\nEspecializado–\nEspecialidade\nMedicina(Clínico\nGeral)",
+      "pagina": 5,
+      "vagas": "CR"
+    },
+    "11": {
+      "cargo_tabela": "AnalistaJudiciário\n–Á reaApoio\nEspecializado–\nEspecialidade\nMedicina\n(Cardiologia)",
+      "pagina": 5,
+      "vagas": "CR"
+    },
+    "12": {
+      "cargo_tabela": "AnalistaJudiciário\n–Á reaApoio\nEspecializado–\nEspecialidade\nMedicina(do\nTrabalho)",
+      "pagina": 5,
+      "vagas": "CR"
+    },
+    "13": {
+      "cargo_tabela": "AnalistaJudiciário\n–Á reaApoio\nEspecializado–\nEspecialidade\nMedicina\n(Psiquiatria)",
+      "pagina": 5,
+      "vagas": "CR"
+    },
+    "14": {
+      "cargo_tabela": "AnalistaJudiciário\n–Á reaApoio\nEspecializado–\nEspecialidade\nTecnologiada\nInformação",
+      "pagina": 5,
+      "vagas": "CR"
+    },
+    "15": {
+      "cargo_tabela": "AnalistaJudiciário\n–Á reaApoio\nEspecializado–\nEspecialidade\nBiblioteconomia",
+      "pagina": 5,
+      "vagas": "CR"
+    },
+    "16": {
+      "cargo_tabela": "AnalistaJudiciário\n–Á reaApoio\nEspecializado–\nEspecialidade\nComunicação\nSocial",
+      "pagina": 6,
+      "vagas": "CR"
+    },
+    "17": {
+      "cargo_tabela": "AnalistaJudiciário\n–Á reaApoio\nEspecializado–\nEspecialidade\nServiçoSocial",
+      "pagina": 6,
+      "vagas": "CR"
+    },
+    "18": {
+      "cargo_tabela": "AnalistaJudiciário\n–Á reaApoio\nEspecializado–\nEspecialidade\nPsicologia",
+      "pagina": 6,
+      "vagas": "CR"
+    },
+    "19": {
+      "cargo_tabela": "TécnicoJudiciário\nÁ\n– rea\nAdministrativa",
+      "pagina": 6,
+      "vagas": "CR"
+    },
+    "20": {
+      "cargo_tabela": "TécnicoJudiciário\n–Á reaApoio\nEspecializado–\nEspecialidade\nEnfermagem",
+      "pagina": 6,
+      "vagas": "CR"
+    },
+    "21": {
+      "cargo_tabela": "TécnicoJudiciário\n–Á reaApoio\nEspecializado–\nEspecialidade\nEnfermagemdo\nTrabalho",
+      "pagina": 6,
+      "vagas": "CR"
+    },
+    "22": {
+      "cargo_tabela": "TécnicoJudiciário\n–Á reaApoio\nEspecializado–\nEspecialidade\nTecnologiada\nInformação",
+      "pagina": 6,
+      "vagas": "CR"
+    },
+    "23": {
+      "cargo_tabela": "TécnicoJudiciário\nÁ\n– rea\nAdministrativa–\nEspecialidade\nAgentedePolícia\nJudicial",
+      "pagina": 6,
+      "vagas": "CR"
+    }
+  }
+}

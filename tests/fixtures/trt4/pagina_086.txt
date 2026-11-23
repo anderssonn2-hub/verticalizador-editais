@@ -1,0 +1,55 @@
+instrumentos de execução; acompanhamento, controle e avaliação. Planejamento da automação de bibliotecas.
+Principais sistemas de gestão de acervos bibliográficos nacionais e internacionais. Informática: noções de
+informática, automação de  bibliotecas e  serviços de  informação;  requisitos e  escolha de  sistemas
+automatizados; preparação do documento; sistemas integrados e não-integrados; propriedades, funções e
+avaliação de sistemas para automação.  Principais sistemas de informação automatizados nacionais e
+internacionais. Formato de intercâmbio, formato Marc 21, banco de dados, base de dados. Metadados.
+Ontologias. Taxonomia. Web Semântica, Preservação  digital de documentos eletrônicos. Identificadores
+persistentes. Serviços em nuvem. Bibliotecas digitais: conceitos e definições. Requisitos para implantação de
+bibliotecas digitais. Softwares para construção de bibliotecas digitais. Dublin Core. Softwares para construção
+de bibliotecas digitais (DSpace, VuFind). Biblioteca Digital Jurídica do Superior Tribunal de Justiça (BDJur). Open
+journal systems (OJS). Sistemas de descoberta e metabuscador. Curadoria digital e mediação da informação.
+Noções  básicas de  inteligência  artificial em  bibliotecas. Segurança da informação.  Biblioteca  Híbrida.
+Planejamento da automação de bibliotecas. Principais sistemas de gestão de acervos bibliográficos nacionais e
+internacionais. Serviços ao Usuário: pressupostos básicos e diretrizes. Atendimento ao usuário. Circulação de
+recursos informacionais. Empréstimo entre bibliotecas. Serviço de referência virtual. Serviço de referência e
+informação: conceitos, estrutura e processo; modelos de fluxo e fases. Entrevista de referência: questão,
+negociação; interação bibliotecário-usuário; educação do usuário; alerta e disseminação da informação;
+Disseminação Seletiva da Informação (DSI); comunicação visual; marketing; avaliação; tendências e novas
+tecnologias aplicadas ao serviço de referência. Estudo de usuário-entrevista. Pesquisa jurídica. Treinamento e
+orientação de usuários.  Conservação, preservação e restauro de documentos. Preservação de acervos
+bibliográficos. Resolução CNJ n° 324/2020 (Gestão de Memória, Gestão Documental e Programa Nacional de
+Gestão Documental e Memória do Poder Judiciário – Proname). Manual de gestão de memória do Poder
+Judiciário - Consciência profissional: perfil da profissão, legislação, conselho, associações e sindicatos. Aspectos
+éticos e profissionais da gestão da informação. As cinco leis da biblioteconomia.
+
+
+                                  Conhecimentos Específicos
+16 – Analista Judiciário – Área Apoio Especializado – Especialidade Comunicação Social
+Teorias da comunicação: principais escolas e pensadores. Indústria cultural e a teoria crítica. Comunicação em
+empresas  públicas. Comunicação e imagem  pública. Relacionamento com a  imprensa.  Critérios de
+noticiabilidade no jornalismo. Atividades jornalísticas no âmbito da comunicação organizacional. Elementos
+básicos da linguagem jornalística. Credibilidade e reputação da marca. Comunicação e gerenciamento de crise.
+Jornalismo digital e novas tecnologias (redes sociais). Convergência de mídias. Assessoria de imprensa. Media
+training. Comunicação, responsabilidade social e sustentabilidade. Cerimonial e protocolo. Organização de
+eventos. História da Mídia. Pesquisas quantitativas e qualitativas. Teoria do Jornalismo: conceitos, paradigmas,
+principais teorias. A questão da imparcialidade e da objetividade no Jornalismo. Novas tecnologias e a
+globalização da informação. Segmentação dos públicos. Interatividade na comunicação. História da imprensa,
+do rádio e da televisão no Brasil. Opinião pública: técnicas, pesquisa, estudo e análise em busca de canais de
+interação com cada público específico e avaliação de resultados. Marketing institucional. Definição e elaboração
+de notícia. Conceitos e gêneros de redação: reportagem, produção e edição de entrevistas. Gêneros jornalísticos
+opinativos: editorial, crônica, coluna, pauta e briefing em textos e imagens. Técnicas de redação jornalística:
+lead, sublead, pirâmide invertida. Critérios de seleção, redação e edição. Linguagem e adequação: terminologia
+jornalística. Processo gráfico: conceito de editoração, preparação de originais. Projeto gráfico. Planejamento
+editorial: ilustrações, cores, técnicas de impressão, redação do texto, visual da publicação. Variações da técnica
+jornalística em veículos: televisão, rádio e internet. Assessoria de imprensa: o papel do assessor nos órgãos
+públicos: funções do assessor de imprensa, veículos de comunicação internos e externos (house organ, revista,
+newsletter), edição de jornais, boletins e revistas institucionais. Produção de releases para jornal, rádio e tevê,
+comunicados e notas oficiais. Produção de clippings e clipping eletrônico. Produção de conteúdo para redes
+sociais. Monitoramento de redes sociais. Redação SEO. Noções de propaganda e marketing. Ética e o papel social
+da comunicação. Análise e uso de recursos de inteligência artificial na comunicação. Ferramentas de inteligência
+artificial aplicadas à comunicação. Código de Ética do Jornalista. Regulamentação da profissão de jornalista,
+
+
+
+                                                                                 86

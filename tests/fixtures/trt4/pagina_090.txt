@@ -1,0 +1,53 @@
+                                  Conhecimentos Específicos
+20 – Técnico Judiciário – Área Apoio Especializado – Especialidade Enfermagem
+Ética e legislação: aspectos éticos e legais que fundamentam a prática do exercício profissional da Enfermagem.
+Sistema Único de Saúde (SUS): Princípios, diretrizes, estrutura, organização das instituições e suas relações com
+os serviços de saúde, níveis de assistência à saúde, direitos dos usuários do SUS, ações e programas do SUS,
+legislação do SUS; Humanização no cuidado. Gestão em Enfermagem. Técnicas básicas de enfermagem e
+administração de medicamentos. Biossegurança. Prevenção e controle de infecção relacionada à assistência em
+saúde. Educação em saúde com vistas ao autocuidado, promoção e prevenção na saúde. Promoção da saúde e
+prevenção de agravos; programas de saúde e vigilância sanitária. Programa Nacional de Imunizações. Assistência
+de enfermagem em doenças transmissíveis. Doenças de Notificação Compulsória. Assistência de enfermagem
+em agravos  clínicos e  cirúrgicos. Processamento de material: descontaminação, limpeza, desinfecção,
+esterilização,  controle de  qualidade,  validação do processo.  Assistência de enfermagem em exames
+diagnósticos, no transporte e remoção do paciente. Assistência de enfermagem na saúde da mulher, do adulto
+e do idoso. Assistência de enfermagem em urgência e emergência, atendimento na parada cardiorrespiratória,
+procedimentos em situações de trauma. Assistência de enfermagem em saúde mental. Segurança do Paciente;
+Saúde e segurança do trabalhador: agravos à saúde relacionados ao trabalho, políticas públicas de saúde do
+trabalhador. Noções de farmacologia: principais drogas e indicações, cuidados de enfermagem. Noções de
+toxicologia. Gerenciamento de Resíduos: tipo, coleta, segurança e tratamento, manejo ambiental de resíduos.
+
+                                  Conhecimentos Específicos
+21 – Técnico Judiciário – Área Apoio Especializado – Especialidade Enfermagem do Trabalho
+Ética e legislação: aspectos éticos e legais que fundamentam a prática do exercício profissional da Enfermagem.
+Legislação aplicada à saúde do trabalhador; Normas Regulamentadoras; Especificidades do trabalho do menor,
+da mulher e da pessoa com deficiência. Sistema Único de Saúde (SUS): Princípios, diretrizes, estrutura,
+organização das instituições e suas relações com os serviços de saúde, níveis de assistência à saúde, direitos dos
+usuários do SUS, políticas, ações e programas de saúde.; Política Nacional de Humanização – HumanizaSUS.
+Promoção da saúde e prevenção de agravos; programas de saúde, vigilância em saúde e sanitária. Programa de
+Imunização Ocupacional (PIO) e a Política Nacional de Imunização (PNI). Técnicas básicas de enfermagem.
+Processamento de material: Descontaminação, limpeza, desinfecção, esterilização, controle de qualidade,
+validação do processo, manuseio e conservação de materiais e equipamentos médicos. Noções de farmacologia,
+cálculo e administração de medicamentos. Biossegurança em saúde. Segurança do paciente e saúde laboral.
+Prevenção e controle da infecção relacionada à assistência em saúde. Educação em saúde com vistas ao
+autocuidado, promoção e prevenção na saúde. Assistência de enfermagem em doenças transmissíveis. Doenças
+de Notificação Compulsória. Assistência de enfermagem em urgência e emergência; Suporte Básico de Vida.
+Assistência de enfermagem em saúde mental. Assistência de enfermagem na saúde da mulher, do adulto e da
+pessoa idosa. Enfermagem na assistência à saúde do trabalhador: Programa de Controle Médico de Saúde
+Ocupacional – PCMSO – (NR 7 e alterações). Gerenciamento de Riscos Ocupacionais (GRO) e Programa de
+Gerenciamento de Riscos (PGR) da NR-1 atualizada pelo Ministério do Trabalho e Emprego (MTE). Política
+Nacional de Saúde do Trabalhador e da Trabalhadora; Higiene e segurança do trabalho: Acidentes do trabalho,
+doenças profissionais e do trabalho; Fisiologia do Trabalho; Ergonomia aplicada ao trabalho; Toxicologia
+ambiental e ocupacional; Campanhas de prevenção de acidentes e doenças no trabalho.  Planejamento,
+orientação e avaliação de condições de higiene, periculosidade e segurança no ambiente de trabalho.
+
+                                  Conhecimentos Específicos
+22 – Técnico Judiciário – Área Apoio Especializado – Especialidade Tecnologia da Informação
+DevOps e DevSecOps: Gestão de configuração. Modelo de versionamento, merge, branch, pipeline. Git:
+Gerenciamento de controle de versionamento de arquivos. GitLab: gerenciamento de repositório de software
+baseado em  git, com suporte a Wiki. Gitflow. Continuous Delivery e Continuous Integration (CI/CD) e
+gerenciamento de tarefas. Ambiente de clusters, Deploy de aplicações. Serviços de autenticação; SSO (Single
+Sign-On); Keycloak; Protocolo OAuth2 (RFC 6749); boas práticas de segurança para OAuth 2.0 conforme RFC
+9700. Mensageria e Webhooks; Message Broker; RabbitMQ; Evento negocial; Webhook; APIs reversas. Proxy
+reverso. SSL offloading. Balanceamento de carga. Arquitetura de desenvolvimento da Plataforma Digital do
+                                                                                 90

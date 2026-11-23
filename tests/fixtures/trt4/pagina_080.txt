@@ -1,0 +1,55 @@
+para movimentação, armazenagem e manuseio de chapas de mármore, granito e outras rochas. NR 12 –
+Máquinas e Equipamentos. NR 13 – Caldeiras e Vasos de Pressão. NR 14 – Fornos. NR 33 – Segurança e Saúde
+no Trabalho em Espaços Confinados. Equipamentos de Proteção Coletiva – tipos e usos. Gerenciamento do
+descarte de fluidos e resíduos, NR 25 – Disposição de resíduos industriais; apreciação de riscos em máquinas e
+equipamentos, sistemas de proteção fixa, móvel e intertravamentos, categorias de segurança dos sistemas de
+comando e procedimentos de bloqueio e etiquetagem de energias perigosas (LOTO).
+
+                                  Conhecimentos Específicos
+09 – Analista Judiciário – Área Apoio Especializado – Especialidade Estatística
+Estatística descritiva e análise exploratória de dados: gráficos, diagramas, tabelas, medidas descritivas (posição,
+dispersão, assimetria e curtose). Probabilidade. Definições básicas e axiomas. Probabilidade condicional e
+independência. Teorema de Bayes. Variáveis aleatórias discretas e contínuas. Função de distribuição. Função de
+probabilidade. Função de densidade de probabilidade. Esperança e momentos. Teorema de Tchebichev.
+Distribuições especiais: Distribuições de Bernoulli, binomial, multinomial, geométrica, hipergeométrica, Poisson,
+uniforme, exponencial, Beta, Gama, normal, qui-quadrado, t de Student e F. Distribuições condicionais e
+independência. Esperança condicional. Funções geradoras de momentos. Transformação de variáveis. Leis dos
+grandes números. Teorema central do limite. Amostras aleatórias. Estatísticas de ordem. Distribuições
+amostrais. Inferência estatística. Estimação pontual: métodos de estimação, propriedades dos estimadores,
+suficiência, estimadores  bayesianos. Estimação por  intervalos:  intervalos de  confiança,  intervalos de
+credibilidade. Testes de hipóteses: hipóteses simples e compostas, níveis de significância e potência, teste-t de
+Student, teste qui-quadrado. Métodos não paramétricos: testes não paramétricos e regressão não paramétrica.
+Análise de regressão linear. Critérios de mínimos quadrados e de máxima verossimilhança. Modelos de
+regressão linear. Inferências sobre os parâmetros do modelo. Análise de variância e de covariância. Análise de
+resíduos.  Técnicas de  amostragem: amostragem  aleatória  simples,  estratificada,  sistemática  e  por
+conglomerados. Tamanho amostral. Estimadores de razão e regressão. Estatística computacional. Linguagem de
+programação R. Geração de números aleatórios. Métodos para simulação de variáveis aleatórias. Estimação por
+métodos computacionais. Processos estocásticos. Cadeias de Markov em tempo discreto. Processos de Poisson.
+Teoria de renovação. Teoria de filas. Cadeias de Markov em tempo contínuo. Processos Gaussianos. Análise
+multivariada. Distribuição normal multivariada. Análise de componentes principais. Análise fatorial. Análise de
+correspondência. Análise discriminante. Análise de conglomerados. Análise de séries temporais. Análise
+descritiva de séries temporais. Estacionariedade. Modelos ARMA, ARIMA e SARIMA. Análise espectral. Conceitos
+básicos e aplicações de números índices, medidas de distribuição de renda e concentração industrial.
+
+
+                                  Conhecimentos Específicos
+10 – Analista Judiciário – Área Apoio Especializado –  Especialidade Medicina (Clínico Geral)
+Fisiopatologia, epidemiologia, fatores de risco, sinais e sintomas, exames auxiliares, diagnóstico, tratamento e
+prognóstico das doenças:  Cardiovasculares:  insuficiência  cardíaca,  insuficiência  coronariana,  arritmias
+cardíacas, doença reumática, aneurismas de aorta, insuficiência  arterial  periférica, tromboses venosas,
+hipertensão  arterial, choque,  miocardiopatias,  valvulopatias, síndromes isquêmicas  coronárias,  fatores
+predisponentes à formação e instabilização da placa aterosclerótica. Pulmonares e das vias aéreas: tosse,
+dispneia, asma, rinites, infecções de vias aéreas superiores, sinusopatias, pneumonias e nosocomiais, infecções
+por fungos, tuberculose, doença pulmonar intersticial, fibrose cística, sarcoidose, doenças da pleura, abscessos
+de pulmão, doença pulmonar obstrutiva crônica, tumores de pulmão, hipertensão  arterial pulmonar,
+insuficiência respiratória aguda, bronquite aguda e crônica, , pneumopatia, tuberculose, tromboembolismo
+pulmonar, pneumonia intersticial, neoplasias e embolia pulmonar. Gastrointestinais: esofagites, úlcera péptica,
+doença do refluxo gastroesofágico, tumores gástricos, hepatites virais, hepatopatia alcoólica e gordurosa não
+alcoólica, doença de Wilson, abscessos hepáticos, cirrose, ascite, doenças da vesícula e vias biliares, pancreatites
+e câncer de pâncreas, síndrome do intestino irritável, diarreia aguda e crônica, doenças inflamatórias intestinais,
+colite por Clostridium, tumores do cólon. Reumáticas: doenças reumáticas sistêmicas, Lúpus Eritematoso
+Sistêmico, esclerodermia, polimiosite, artrite reumatoide, artrites, artrite reativa, síndrome dos anticorpos
+antifosfolípides, fenômeno de Raynaud, artrite infecciosa, polimialgia reumática, fibromialgia, tenossinovites,
+síndrome do túnel do carpo, gota, pseudogota, osteoartrite, espondiloartropatias. Infecciosas: uso de
+antibióticos, vacinas, infecções nosocomiais, meningites virais e bacterianas, meningocócica, mononucleose
+                                                                                 80

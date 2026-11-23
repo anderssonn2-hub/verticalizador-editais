@@ -1,0 +1,55 @@
+14653 – Avaliação de bens (Parte 1: Procedimentos Gerais, Parte 2: Imóveis urbanos, Parte 5: Máquinas,
+equipamentos, instalações e bens industriais, Parte 6: Recursos naturais e ambientais, Parte 7: Patrimônios
+históricos). Legislação, Normas Técnicas e Direito Urbanístico: Licitações e Contratos Administrativos: Lei nº
+14.133/2021 e suas alterações aplicadas a obras e serviços de engenharia; Legislação Urbanística e Uso do Solo:
+Lei nº 6.766/1979 e suas alterações (Parcelamento do Solo Urbano  - desmembramento); Terminologia e
+conceitos de legislação urbanística: taxa de ocupação, coeficiente de aproveitamento e índices urbanísticos;
+Noções de Geoprocessamento e Sistemas de Informação Geográfica (SIG); Acessibilidade: ABNT NBR 9050:2020
+– Acessibilidade a edificações, mobiliário, espaços e equipamentos urbanos; Normas Gerais da ABNT: Aplicação
+geral das Normas Técnicas  Brasileiras à Engenharia  Civil. Segurança do Trabalho, Meio Ambiente e
+Sustentabilidade: Saúde e Segurança Ocupacional: Segurança e higiene do trabalho no canteiro de obras; Norma
+Regulamentadora 18 (NR 18) e suas alterações – Segurança e Saúde no Trabalho na Indústria da Construção;
+Gestão Ambiental e Sustentabilidade: Noções de legislação ambiental e inspeção de empreendimentos e obras;
+Tratamento e gestão de Resíduos da Construção Civil (RCC) e legislações correlatas; Práticas de sustentabilidade
+aplicadas à construção civil.
+
+                                  Conhecimentos Específicos
+07 – Analista Judiciário – Área Apoio Especializado – Especialidade Engenharia (Elétrica)
+Circuitos elétricos: Teoria de circuitos CC e CA; Técnicas de análise de circuitos com resistores, capacitores e
+indutores (RL, RC e RLC); Leis de Kirchhoff e teoremas Norton e Thevenin; Análise de circuitos senoidais CC e CA
+(monofásicos e trifásicos); Potência em circuitos senoidais; Circuitos trifásicos equilibrados; Fator de potência e
+correção de fator de potência em circuitos trifásicos equilibrados; Variáveis elétricas; Representação por
+fasores; Indutância, capacitância e indutância mútua; Diagramas fasoriais; Potência e energia; Resposta às
+funções singulares; Resposta livre, ao impulso e ao degrau. ELETRÔNICA DE POTÊNCIA: Características elétricas,
+perdas por condução e comutação, e limites de operação de diodos, Tiristores, SCRs, MOSFETs, IGBTs;
+Conversores CC-CC, choppers e fontes chaveadas; Topologias básicas (Buck, Boost, Buck-Boost); Conversores
+CC-CA, inversores monofásicos e trifásicos (configuração em ponte). Análise harmônica, efeito de comutação,
+regulação de tensão. Modelagem e Características do Módulo FV: Curvas características I-V e P-V, dependência
+da irradiância e temperatura, e efeito do sombreamento (pontos de máxima potência). MEDIDAS ELÉTRICAS:
+Medidas  elétricas,  utilização de  instrumentos:  voltímetro,  amperímetro,  frequencímetro, ohmímetro,
+terrômetro, analisador de energia e osciloscópio; Unidades de medidas e Sistema Internacional de Unidades;
+Medição de potência e energia em circuitos monofásicos e trifásicos: métodos de medição de potência ativa e
+reativa; Correção de fator de potência; Transformadores para instrumentos: Transformador de Corrente (TC) e
+de Potencial (TP); Medição de tensão, corrente e potência em cargas não lineares: principais fontes de
+harmônicos, efeitos dos harmônicos no sistema elétrico, identificação e cálculo dos indicadores de distorção
+harmônica; Instalações elétricas em baixa tensão: NBR 5410; Estudo de cargas: tipos e características das
+cargas; Curvas de carga; Fatores de carga, de utilização, de simultaneidade, de demanda e de diversidade;
+Cálculo de demandas média e máxima. Linhas  elétricas e condutores: Tipos de  linhas, isolamentos,
+dimensionamento por capacidade de condução de corrente, por queda de tensão e por proteção contra curtos-
+circuitos e solicitações térmicas; Dimensionamento de eletrodutos e calhas. Sistemas de proteção em Baixa
+Tensão: Dimensionamento e especificação de disjuntores termomagnéticos, fusíveis, dispositivos a corrente
+diferencial-residual (DR) e Dispositivos de Proteção contra Surtos (DPS). Proteção contra sobrecargas e curtos-
+circuitos; Dimensionamento de circuitos e previsão de carga para estações de recarga de veículos elétricos.
+Instalações  de  força  e  iluminação:  Sistemas  de  Força:  Circuitos  de  motores  elétricos  trifásicos;
+Dimensionamento de componentes para partida, controle e proteção; Leitura de diagramas de força e comando;
+Quadros de Comando de Motores (CCM). Luminotécnica: Projetos de iluminação predial (interiores) e de áreas
+externas;  Grandezas  luminotécnicas,  método  dos  lúmens,  ponto  a  ponto  e  especificação  de
+luminárias/tecnologia LED. Instalações de média e alta tensão e subestações: NBR 14039. Subestações
+rebaixadoras e elevadoras (abrigadas e ao tempo): Projeto, arranjos físicos típicos, diagramas unifilares básicos,
+distâncias de segurança e tipos de barramento. Equipamentos de potência e manobra: Especificação de
+transformadores de potência, transformadores de instrumentos (TC e TP), disjuntores, chaves seccionadoras e
+para-raios de linha. Proteção e coordenação: Filosofia de proteção, esquemas unifilares de proteção, relés e
+seletividade em sistemas elétricos e cabines primárias/secundárias. ATERRAMENTO ELÉTRICO E SPDA:
+Aterramento:  Esquemas  de  aterramento  (TN,  TT  e   IT);  Aterramento  funcional  e  de  proteção;
+
+                                                                                 76

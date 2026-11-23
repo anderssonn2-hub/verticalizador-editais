@@ -1,12 +1,33 @@
 import re
 from identificador import chave
 from conteudo import canon
+from dados_compartilhados import extrair_grupos, aplicar_grupos
 
 MONEY=r'R\$\s*[\d.]+,\d{2}'
 def norm(s): return ' '.join(re.sub(r'[^a-z0-9]+',' ',chave(s)).split())
 def especial(s):
     n=norm(s); return n.split('especialidade ')[-1] if 'especialidade ' in n else n
+def localizar_valor_rotulado(pgs, rotulos, limite=180):
+    """Localiza um valor monetário próximo de um rótulo e informa a página."""
+    padrao = re.compile(
+        r'(?:' + '|'.join(rotulos) + r')'
+        r'[\s\S]{0,' + str(limite) + r'}?'
+        r'(' + MONEY + r')',
+        re.I
+    )
 
+    for pagina, texto in enumerate(pgs, 1):
+        for match in padrao.finditer(texto):
+            trecho = texto[match.start():match.end()]
+            if len(re.findall(r'\n', trecho)) > 4:
+                continue
+            return {
+                'valor': match.group(1),
+                'pagina': pagina,
+                'trecho': trecho
+            }
+
+    return None
 def extrair_dados(pgs, nomes):
     result={n:dict(salario=None,taxa=None,vagas=None,paginas=set(),codigo=None) for n in nomes}
     def match_name(text):
@@ -42,6 +63,8 @@ def extrair_dados(pgs, nomes):
             d=result[n]; v=m[3]; d['codigo']=m[1]; d['paginas'].add(page)
             if d['vagas'] is None: d['vagas']=v
             elif d['vagas']!=v: d['vagas']='Conferir por unidade'
+    grupos = extrair_grupos(pgs)
+    result = aplicar_grupos(result, grupos)
     return result
 
 def prova_por_cargo(pgs, codigo):
@@ -58,3 +81,65 @@ def prova_por_cargo(pgs, codigo):
             if len(rows)!=2 or sum(r['Questões'] for r in rows)!=int(total[1]):rows=[]
             return dict(total=int(total[1]),rows=rows,pagina=page,texto=text)
     return None
+
+def complementar_dados_cargo_unico(pgs, dados):
+    """
+    Complementa campos ausentes quando existe apenas um cargo.
+    Mantem os valores previamente extraidos.
+    """
+    import re
+
+    if len(dados) != 1:
+        return dados
+
+    cargo = next(iter(dados))
+    info = dados[cargo]
+
+    if "jornada" not in info:
+        info["jornada"] = None
+
+    dinheiro = r"R\$\s*[\d.]+,\d{2}"
+
+    padroes = {
+        "salario": (
+            r"\b(?:vencimento(?:\s+inicial)?|remunera[cç][aã]o"
+            r"(?:\s+inicial)?|subs[ií]dio|sal[aá]rio)\b"
+            r"[\s\S]{0,250}?(" + dinheiro + r")"
+        ),
+        "taxa": (
+            r"\b(?:valor\s+(?:da|de)\s+inscri[cç][aã]o"
+            r"|taxa\s+de\s+inscri[cç][aã]o)\b"
+            r"[^\n]{0,120}?(" + dinheiro + r")"
+        ),
+        "vagas": (
+            r"\bVagas\s*:\s*"
+            r"[^\n]{0,150}?\b(\d[\d.]*)\s*"
+            r"(?:\([^)]*\)\s*)?vagas\b"
+        ),
+        "jornada": (
+            r"\bJornada\s+de\s+trabalho\s*:\s*"
+            r"(\d{1,3})\s*(?:\([^)]*\)\s*)?horas"
+            r"(?:\s+semanais)?"
+        )
+    }
+
+    for campo, padrao in padroes.items():
+        if info.get(campo) is not None:
+            continue
+
+        for pagina, texto in enumerate(pgs[:15], 1):
+            resultado = re.search(padrao, texto, re.I)
+
+            if not resultado:
+                continue
+
+            valor = resultado.group(1).strip()
+
+            if campo == "jornada":
+                valor += " horas semanais"
+
+            info[campo] = valor
+            info["paginas"].add(pagina)
+            break
+
+    return dados

@@ -1,0 +1,55 @@
+Poder Judiciário – PDPJ-Br: Linguagem de Programação Java; Arquitetura distribuída de microsserviços; API
+RESTful; JSON; Jakarta EE 8 em contexto legado e Jakarta EE 11; Framework Spring; Spring Cloud; Spring Boot;
+Spring Eureka; Zuul; Map Struct; OpenAPI/Swagger; Service Discovery; API Gateway; Persistência; JPA 2.0;
+Hibernate 5 ou superior; Hibernate Envers; Biblioteca Flyway; noções da evolução tecnológica para Jakarta
+Persistence 3.2 e Hibernate ORM 7.x, preservadas as versões expressamente previstas nos normativos da PDPJ-
+Br; Banco de dados; PostgreSQL; H2 Database; Serviços de autenticação; SSO - Single Sign On; Keycloak;
+Protocolo OAuth2 (RFC 6749); boas práticas de segurança para OAuth 2.0 conforme RFC 9700; Mensageria e
+Webhooks; Message  Broker;  RabbitMQ;  Evento  negocial; Webhook;  APIs  reversas;  Ferramenta de
+versionamento Git; Ambiente de clusters; Docker; Kubernetes; Ferramenta de orquestração de contêineres,
+Rancher; Deploy de aplicações, Continuous Delivery e Continuous Integration (CI/CD). Fundamentos de web
+services: APIs REST, OpenAPI/Swagger e JSON Web Tokens (JWT). Serviços e Aplicações: JBoss e WildFly.
+Ferramentas de busca, indexação e análise de dados: Elasticsearch, Logstash e Kibana. Engenharia de software:
+Processo de desenvolvimento de software. Ciclos de vida do software. Engenharia de requisitos. Low-code e no-
+code software development. Uso de assistentes de IA no desenvolvimento de software. Qualidade do software:
+Conhecimento dos modelos Capability Maturity Model Integration (CMMI v3.0 – domínio Development). Noções
+da norma ABNT NBR ISO/IEC/IEEE 12207:2021 e do guia MR-MPS-SW versão 2024. Testes de Software:
+cobertura de código, testes unitários, testes de integração, testes funcionais, JUnit 6, incluindo conceitos de
+JUnit Jupiter e noções de migração a partir do JUnit 5, Mockito. Metodologia de Desenvolvimento de Software:
+Fundamentos. Processo de desenvolvimento de software. Requisitos. Metodologias de desenvolvimento de
+software. Ciclo de vida e fases do desenvolvimento de sistemas. Metodologias ágeis (SCRUM, XP etc.).
+Metodologias tradicionais. Análise e projeto. Implementação. Modelagem de processos de negócios com BPMN.
+Orientação a objetos: classes, métodos, interfaces, herança, encapsulamento, pacotes, sobrescrita e sobrecarga
+de métodos. Unified Modeling Language (UML 2.5.1). Arquiteturas de software: Multicamadas. Cliente-
+servidor. Objetos distribuídos. Padrões de projeto. Noções de Serverless computing, Cloud Computing.
+Fundamentos de programação: Sintaxe básica. Palavras-chave. Estrutura e construções básicas de um
+programa. Compilação e execução de programas. Tipos primitivos de dados e tipos de referência. Declaração e
+inicialização de variáveis. Categorias de operadores e precedência. Controle de fluxo de programas e repetição.
+Estruturas de seleção. Variáveis e estruturas de dados.  Utilização e implementação de bibliotecas e
+componentes. Administração de exceções. Acesso a banco de dados. Manutenção de Sistemas: Questões
+práticas de compreensão, abordagem e solução de implementações de rotinas. Geração de relatórios.
+Diagnósticos de problemas. Depuração de erros. Metodologias de teste de software. Versionamento de código
+com Git e GitHub. Ambientes e linguagens de programação: Java, Python, Javascript, TypeScript, Angular.
+Arcabouços de desenvolvimento (Hibernate, Spring Boot). Eclipse IDE. Visual Studio Code. Linguagens de
+marcação (XML, XML Schema). Desenvolvimento de aplicações HTML5, CSS3, JSF, jQuery, Node.js, React, Vue.js,
+Angular. Progressive Web Apps. Bibliotecas de componentes de interface: Bootstrap, Angular Material, jQuery.
+Desenvolvimento de Software Seguro: SDL, CLASP, Codificação Segura e Programação Defensiva, OWASP Top
+10:2025. Infraestrutura de TI: Modelo de referência OSI. Arquitetura TCP/IP. IPv4 e IPv6. Endereçamento IPv4
+e IPv6. CIDR. Elementos de interconexão de redes de computadores (gateways, switches, roteadores etc.).
+Cabeamento Estruturado. Redes sem fio: Padrão IEEE 802.11 Wireless LAN. IEEE 802.11ax (Wi-Fi 6 e Wi-Fi 6E).
+WPA, WPA2 e WPA3. Equipamentos ativos de rede: repetidores, hubs, bridges, switches, roteadores, gateways
+etc. VLAN (IEEE 802.1Q). Tipos e Topologias de redes de computadores. Técnicas de codificação de sinal. Fibras
+ópticas multimodo e monomodo. Noções de gerenciamento, monitoramento e diagnóstico de redes. AAA
+Authentication, authorization, and accounting. NAT (Network Address Translation). Fundamentos Framework
+IPSEC. Nuvem Computacional: Arquitetura em nuvem. Computação na nuvem. Nuvem pública e nuvem privada.
+Modelos de serviço IaaS, PaaS e SaaS; implantação e operação de aplicações em ambientes de nuvem e
+contêineres. Kubernetes, Docker, Serverless Framework. Segurança da Informação: Segurança da Informação e
+Cibernética: Princípios fundamentais (confidencialidade, integridade, disponibilidade). Normas, Padrões e
+Legislação: ABNT NBR ISO/IEC 27001:2024, 27002:2022, 27701:2019 e 27005:2023; CIS Controls v8; OWASP Top
+10; Lei Geral de Proteção de Dados Pessoais (LGPD). Gestão de Riscos e Incidentes: Análise e gestão de riscos
+aplicadas ao suporte e operação; Continuidade de negócios; Tratamento e resposta a incidentes. Criptografia e
+Identidade: Algoritmos criptográficos simétricos e assimétricos (AES, RSA) e pós-quânticos, funções de hash e
+assinatura digital; Estrutura de chaves públicas (ICP/PKI) e certificados digitais; TLS 1.2; Controle de acesso
+(autenticação forte/MFA, autorização/RBAC e auditoria). Segurança de Redes e Sistemas de Proteção:
+
+                                                                                 91

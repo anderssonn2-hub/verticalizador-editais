@@ -1,0 +1,55 @@
+                                      ANEXO III
+
+
+
+                       Modelo de Atestado Médico Tradicional
+
+                            Timbre/Carimbo - OBRIGATÓRIO
+
+              Atestado Médico para a Prova Prática – Teste de Aptidão Física (TAF)
+
+Atesto,       sob        as       penas      da           lei,      que        o(a)         Sr(a).
+
+_______________________________________________________________, portador(a) da Carteira
+
+de    Identidade   nº   ____________________________,   UF    _____,    nascido(a)   em
+
+_______/_______/_______, foi avaliado(a) e goza de perfeita saúde física para se submeter a esforços
+
+físicos intensos, estando APTO(A) para realizar a Prova Prática – Teste de Aptidão Física (TAF), descrita
+
+no Capítulo 15 do Edital nº 01/2026 de Abertura de Inscrições, do Concurso Público para provimento
+
+no Cargo 23 - Técnico Judiciário – Área Administrativa – Especialidade Agente de Polícia Judicial.
+
+                               ____________________________________________________
+                                                           Local e data
+                              (Máximo de 30 dias de antecedência à data da prova, inclusive)
+
+                            _______________________________________________________
+                                            Assinatura do Médico e Carimbo/CRM
+
+
+
+                         Atestado Médico Eletrônico (com QR Code)
+
+ O Atestado Médico digital com QR code deve conter as seguintes informações:
+
+ Dados do médico: Nome completo, número do CRM e estado de inscrição (UF).
+ Dados do paciente: Nome completo do paciente (e de preferência CPF ou RG para identificação
+  correta).
+  Informações do atendimento: Data e hora da emissão ou do atendimento.
+ A informação de que o candidato foi avaliado e goza de perfeita saúde física para se submeter a
+  esforços físicos intensos, estando APTO(A) para realizar a Prova Prática – Teste de Aptidão Física
+  (TAF), descrita no Capítulo 15 do Edital nº 01/2026 de Abertura de Inscrições para provimento no
+ Cargo de Técnico Judiciário – Área Administrativa – Especialidade Agente de Polícia Judicial do
+ Concurso Público do Tribunal Regional do Trabalho da 4ª Região.
+  Assinatura eletrônica: Assinatura digital compatível com o padrão ICP-Brasil (como e-CPF) ou via
+  plataformas oficiais.
+ QR Code ou Código de Validação: Deve permitir o acesso rápido ao sistema emissor ou validador
+  oficial (como os validadores do ITI ou do próprio Conselho Federal de Medicina).
+ Além da emissão no prazo máximo de 30 dias de antecedência à data da prova, inclusive.
+
+
+
+                                                                                 94

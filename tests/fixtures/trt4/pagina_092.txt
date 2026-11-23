@@ -1,0 +1,55 @@
+Arquiteturas e ferramentas de proteção (Firewall, WAF, UTM, IDS, IPS, SIEM, Proxy, NAC, Antivírus e AntiSpam);
+DMZ; Monitoramento de tráfego e análise de pacotes (sniffer); Segurança em redes sem fio (mecanismos
+legados WEP/WPA e padrões WPA2/WPA3, EAP); VPN (incluindo SSL) e ZTNA (Zero Trust Network Access).
+Segurança em Aplicações e Sistemas: Princípios de desenvolvimento seguro e programação defensiva; Avaliação
+de segurança de aplicações; Hardening de sistemas operacionais e redes; Ameaças, Vulnerabilidades e Proteção
+de Dados: Teste de intrusão e análise de vulnerabilidades; Ataques e ameaças em redes e internet (spoofing,
+DoS, DDoS, flood, etc.); Malwares (vírus, trojans, spyware, ransomware, phishing, botnets, rootkits, backdoors,
+keyloggers); Conceitos e implementação de backup e recuperação de dados. Normativos da Plataforma Digital
+do Poder Judiciário – PDPJ-Br: Modelo de Requisitos para Sistemas Informatizados de Gestão de Processos e
+Documentos do Poder Judiciário (MoReq-Jus) 2ª edição. Resolução CNJ nº 574/2024 - Dispõe sobre o acesso a
+dados judiciais públicos consolidados pelo Conselho Nacional de Justiça, prevê a possibilidade de depósito de
+serviços privados na PDPJ-Br e institui o portal unificado para usuários internos. Resolução CNJ nº 522/2023 -
+Institui o Modelo de Requisitos para Sistemas Informatizados de Gestão de Processos e Documentos do Poder
+Judiciário e disciplina a obrigatoriedade da sua utilização no desenvolvimento e na manutenção de sistemas
+informatizados para as atividades judiciárias e administrativas no âmbito do Poder Judiciário. Resolução CNJ nº
+443/2022 - Dispõe sobre a aplicação e disseminação dos conhecimentos sobre a Plataforma Digital do Poder
+Judiciário nos editais de concursos públicos, seleções e capacitações para cargos de tecnologia da informação e
+comunicação dos órgãos do Poder Judiciário. Resolução CNJ nº 396/2021 - Institui a Estratégia Nacional de
+Segurança Cibernética do Poder Judiciário (ENSEC-PJ). Portaria CNJ nº 284/2021 - Altera a Portaria nº 252/2020,
+que dispõe sobre o Modelo de Governança e Gestão da Plataforma Digital do Poder Judiciário – PDPJ-Br. Portaria
+CNJ nº 162/2021 - Aprova Protocolos e Manuais criados pela Resolução CNJ nº 396/2021, que instituiu a
+Estratégia Nacional de Segurança Cibernética do Poder Judiciário (ENSEC-PJ). Portaria CNJ nº 131/2021 - Institui
+o Grupo Revisor de Código-Fonte das soluções da Plataforma Digital do Poder Judiciário (PDPJ-Br) e do Processo
+Judicial Eletrônico (PJe). Portaria CNJ nº 253/2020 - Institui os critérios e diretrizes técnicas para o processo de
+desenvolvimento de módulos e serviços na Plataforma Digital do Poder Judiciário Brasileiro – PDPJBr. Modelo
+de Governança de TIC do Tribunal Regional do Trabalho da 4ª Região: Governança de TI. Plano Diretor de TIC
+(PDTIC 2024-2026) do Tribunal Regional do Trabalho da 4ª Região. Inglês técnico.
+
+
+                                  Conhecimentos Específicos
+23 – Técnico Judiciário – Área Administrativa – Especialidade Agente de Polícia Judicial
+Segurança de Dignitários: Técnicas, táticas, planejamento, operacionalização; comportamento e atuação do
+agente de segurança, objeto e modus operandi. Análise de Riscos: riscos, ameaças, danos e perdas; diagnóstico;
+aplicação de métodos de aplicação e planejamento e aplicação de segurança dos ativos. Planejamento de
+contingências:  necessidade;  planejamento;  componentes  do  planejamento;  manejo  de  emergência;
+procedimentos emergenciais. Noções de Planejamento de Segurança: Conceito, princípios, níveis, metodologia,
+modularidade e faseamento, fases do planejamento; segurança corporativa estratégica: segurança física,
+segurança da gestão das áreas e instalações. Identificação, emprego e utilização de equipamentos eletrônicos
+de segurança: sensores, sistemas de alarme, biometria, CFTV (Circuito Fechado de Televisão) e monitoramento
+e emprego de inteligência artificial em incremento aos sistemas de proteção. Decreto-Lei nº 2.848/1940 e suas
+alterações. Crimes contra o patrimônio. Crimes contra a pessoa. Crimes contra a Administração Pública.
+Primeiros-socorros: Noções de primeiros-socorros no trânsito (APH - Atendimento Pré-Hospitalar, DENATRAN
+2005). Direção Evasiva. Direção Ofensiva. Direção Defensiva: Trânsito Seguro é um Direito de Todos (Ministério
+das Cidades, DENATRAN, 2005). Código de Trânsito Brasileiro (CTB): Lei nº 9.503/1997 e alterações: Capítulos I
+a XX. Anexo  I do CTB. Resoluções do Conselho Nacional de Trânsito (CONTRAN). Prevenção e controle de
+incêndios: Norma Regulamentadora 23 atualizada pela Portaria MTP nº 2.769/2022 (Proteção contra incêndios).
+Defesa Pessoal: Portaria MJSP nº 855, de 17 de janeiro de 2025 que institui o Comitê Nacional de Monitoramento
+do Uso da Força (CNMUDF) e alterações. Decreto nº 12.341/2024, que regulamenta a Lei nº 13.060, de 22 de
+dezembro de 2014, para disciplinar o uso da força e dos instrumentos de menor potencial ofensivo pelos
+profissionais de segurança pública. Manual sobre o Uso da Força e armas de fogo por Agentes da Segurança
+Pública, Nações Unidas, 2021 – UNODC (Escritório das Nações Unidas sobre Drogas e Crimes). Princípios Básicos
+sobre o Uso da Força e de Armas de Fogo pelos Funcionários Responsáveis pela Aplicação da Lei (PBUFAF),
+Havana, Cuba, 1990 (adotado pelo Oitavo Congresso das Nações Unidas para a Prevenção do Crime e o
+Tratamento dos Delinquentes). Código de Conduta para os Funcionários responsáveis pela aplicação da lei
+                                                                                 92

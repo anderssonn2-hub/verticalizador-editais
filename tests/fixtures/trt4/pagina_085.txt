@@ -1,0 +1,54 @@
+órgãos do Poder Judiciário. Resolução CNJ nº 396/2021 - institui a Estratégia Nacional de Segurança Cibernética
+do Poder Judiciário (ENSEC-PJ). Portaria CNJ nº 284/2021 - Altera a Portaria nº 252/2020, que dispõe sobre o
+Modelo de Governança e Gestão da Plataforma Digital do Poder Judiciário – PDPJ-Br. Portaria CNJ nº 162/2021
+- Aprova Protocolos e Manuais criados pela Resolução CNJ nº 396/2021, que instituiu a Estratégia Nacional de
+Segurança Cibernética do Poder Judiciário (ENSEC-PJ). Portaria CNJ nº 131/2021 - Institui o Grupo Revisor de
+Código-Fonte das soluções da Plataforma Digital do Poder Judiciário (PDPJ-Br) e do Processo Judicial Eletrônico
+(PJe). Portaria CNJ nº 253/2020 - Institui os critérios e diretrizes técnicas para o processo de desenvolvimento
+de módulos e serviços na Plataforma Digital do Poder Judiciário Brasileiro – PDPJBr. Modelo de Governança de
+TIC do Tribunal Regional do Trabalho da 4ª Região: Governança de TI. Plano Diretor de TIC (PDTIC 2024-2026)
+do Tribunal Regional do Trabalho da 4ª Região. Inglês técnico.
+
+                                  Conhecimentos Específicos
+15 – Analista Judiciário – Área Apoio Especializado – Especialidade Biblioteconomia
+Biblioteconomia, documentação e ciência da informação: teoria e finalidades. Documentação jurídica. Noções
+gerais. Diário Oficial da União (DOU). Diário da Justiça Eletrônico (DJe).  Gestão da informação e do
+conhecimento: conceitos básicos. Bibliotecas, redes e sistemas de informação especializados: gestão e
+tratamento da informação. Redes cooperativas de bibliotecas brasileiras. Rede virtual de bibliotecas —
+Congresso Nacional (RVBI). Consórcio BDJur. Rede de bibliotecas do Poder Judiciário. LEXML Brasil — Rede de
+Informação  Legislativa-Jurídica.  Portal  normas.leg.br.   Recursos  informacionais:  tipologia  de  fontes
+bibliográficas e de dados. Fontes impressas e eletrônicas, bases de dados. Fontes de informação jurídica. Bases
+de dados jurídicas. Bibliografias e catálogos brasileiros e internacionais. Depósito legal e controle bibliográfico.
+Redes bibliográficas e de informação brasileiras e estrangeiras. Catálogos coletivos. Catálogos online (OPACs).
+Sistemas de recuperação de informação: novas tecnologias na recuperação da informação, estratégias de
+busca, avaliação, instrumentos e tendências. Indexação, resumos e índices: função, metodologias, tipos e
+processos de indexação; política; função e metodologias para elaboração de resumos; avaliação de resumos,
+índices. Linguagens documentárias: tipologia, conceitos, metodologias e gestão. Linguagens pré e pós-
+coordenadas: cabeçalhos de assunto, tesauros; controle de vocabulário; conceito e descritor. Critérios de
+compatibilização: precisão, universalidade, univocidade, pertinência e funcionalidade; critérios de avaliação de
+eficácia, descritores, processos de indexação, tipos de indexação. Terminologia, sintaxe e semântica na
+construção de linguagens documentárias. Representação descritiva: conceitos básicos; catálogos. Descrição
+bibliográfica: conceitos, metodologias e instrumentos. Códigos de catalogação: AACR2: princípios e aplicações;
+catalogação de diferentes documentos, audiovisuais, arquivos e imagens. Catalogação cooperativa; catalogação
+retrospectiva; formatos de intercâmbio. Avanços recentes na área de representação bibliográfica. Notação de
+autor. Descrição de Recursos e Acesso (Resource Descripton and Access - RDA): noções básicas. Requisitos
+Funcionais para Registros Bibliográficos (FRBR): noções básicas. Representação temática: conceitos e gêneros
+de representação documentária. Sistemas de classificação bibliográfica, classificações facetadas: teoria,
+desenvolvimento e aplicações. Sistemas de classificação: novos desenvolvimentos e aplicações em serviços
+automatizados e na internet. Classificação Decimal de Dewey (CDD): princípios e estrutura; Classificação
+decimal de direito (CDDIR) (Doris de Queiroz Carvalho). Classificação Decimal Universal (CDU): princípios e
+estrutura. Estrutura, princípios e índices principais e emprego das tabelas auxiliares. Normalização: teoria,
+conceitos, normas técnicas de informação e documentação brasileiras e internacionais. NBR nº 6023, NBR nº
+6024, NBR nº 6027, NBR nº 6028, NBR nº 6029, NBR nº 6034, NBR nº 10518 e NBR nº 10520. Resumos,
+abreviação de títulos de periódicos e publicações seriadas, sumário, preparação de índices de publicações,
+preparação de guias de bibliotecas, centros de informação e de documentação. Formação e Desenvolvimento
+de Coleções: conceitos; processos e políticas; seleção de documentos e temas correlatos; censura; direito
+autoral; cooperação Inter bibliotecária; organização do serviço de aquisição: compra, doação e permuta;
+desbastamento; avaliação de coleções. Administração de bibliotecas: princípios e funções administrativas em
+bibliotecas; organização e implementação de serviços de biblioteca e documentação; estrutura organizacional,
+as grandes áreas funcionais da biblioteca; Marketing da informação, divulgação e promoção. Gestão da
+qualidade do atendimento. Pesquisa de satisfação. Teorias de administração; Gestão de pessoas e administração
+de recursos humanos, físicos, financeiros e materiais; avaliação de serviços. Inventário e patrimonialização de
+acervos. Indicadores de desempenho para bibliotecas. ISO 11620. Planejamento bibliotecário: conceituação,
+objetivos; tipos de planos; projetos; administração por projetos; diagnóstico; estudo de viabilidade; meios e
+                                                                                 85

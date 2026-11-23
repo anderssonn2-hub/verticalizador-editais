@@ -1,0 +1,9 @@
+{
+  "pdf": "pcmg.pdf",
+  "sha256_pdf": "260d30176866c59987e5cb6b44fb7345913879265ec7cbdb585eba5285f5ab31",
+  "n_paginas": 61,
+  "paginas_ocr": [
+    42
+  ],
+  "leitor": "leitura_pdf.ler"
+}

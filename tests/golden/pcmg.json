@@ -1,0 +1,309 @@
+{
+  "blocos": [
+    {
+      "Disciplina": "LÍNGUA PORTUGUESA",
+      "Grupo": "Conhecimentos gerais",
+      "n_partes": 12,
+      "paginas": [
+        43
+      ],
+      "scope": [
+        "INVESTIGADOR DE POLÍCIA I"
+      ],
+      "scope_codes": null,
+      "sha1_texto": "9a425efbcb3e1c27c5b611c567e8f2090e83b246"
+    },
+    {
+      "Disciplina": "RACIOCÍNIO LÓGICO-MATEMÁTICO",
+      "Grupo": "Conhecimentos gerais",
+      "n_partes": 14,
+      "paginas": [
+        43
+      ],
+      "scope": [
+        "INVESTIGADOR DE POLÍCIA I"
+      ],
+      "scope_codes": null,
+      "sha1_texto": "9284fcae62f3e6b5d19137378abbb54f571b9147"
+    },
+    {
+      "Disciplina": "INFORMÁTICA BÁSICA",
+      "Grupo": "Conhecimentos gerais",
+      "n_partes": 44,
+      "paginas": [
+        43,
+        44
+      ],
+      "scope": [
+        "INVESTIGADOR DE POLÍCIA I"
+      ],
+      "scope_codes": null,
+      "sha1_texto": "3b8c07d5fa2a56c3b16f1ed257ec8fe2a2289081"
+    },
+    {
+      "Disciplina": "LEI ORGÂNICA DA POLÍCIA CIVIL DO ESTADO DE MINAS GERAIS",
+      "Grupo": "Conhecimentos gerais",
+      "n_partes": 35,
+      "paginas": [
+        44,
+        45
+      ],
+      "scope": [
+        "INVESTIGADOR DE POLÍCIA I"
+      ],
+      "scope_codes": null,
+      "sha1_texto": "74c6879ba1437f854ecd4517d7e740860d9be55a"
+    },
+    {
+      "Disciplina": "NOÇÕES DE DIREITO ADMINISTRATIVO",
+      "Grupo": "Conhecimentos específicos",
+      "n_partes": 9,
+      "paginas": [
+        45
+      ],
+      "scope": [
+        "INVESTIGADOR DE POLÍCIA I"
+      ],
+      "scope_codes": null,
+      "sha1_texto": "609146d5edaeb381e81735f25e9d58997a0766e5"
+    },
+    {
+      "Disciplina": "NOÇÕES DE DIREITO CONSTITUCIONAL",
+      "Grupo": "Conhecimentos específicos",
+      "n_partes": 4,
+      "paginas": [
+        45
+      ],
+      "scope": [
+        "INVESTIGADOR DE POLÍCIA I"
+      ],
+      "scope_codes": null,
+      "sha1_texto": "21aadecd06a8233d5f7be54cede97b15fbfbc189"
+    },
+    {
+      "Disciplina": "NOÇÕES DE DIREITO PENAL",
+      "Grupo": "Conhecimentos específicos",
+      "n_partes": 5,
+      "paginas": [
+        45
+      ],
+      "scope": [
+        "INVESTIGADOR DE POLÍCIA I"
+      ],
+      "scope_codes": null,
+      "sha1_texto": "8a456fe2d71181263f66d9cc25b1cc347bbb6236"
+    },
+    {
+      "Disciplina": "NOÇÕES DE DIREITO PROCESSUAL PENAL",
+      "Grupo": "Conhecimentos específicos",
+      "n_partes": 4,
+      "paginas": [
+        45
+      ],
+      "scope": [
+        "INVESTIGADOR DE POLÍCIA I"
+      ],
+      "scope_codes": null,
+      "sha1_texto": "4fca82529b784bd496916f9fd82efbfa2412faa0"
+    },
+    {
+      "Disciplina": "LEGISLAÇÃO PENAL E PROCESSUAL EXTRAVAGANTE",
+      "Grupo": "Conhecimentos específicos",
+      "n_partes": 28,
+      "paginas": [
+        45,
+        46
+      ],
+      "scope": [
+        "INVESTIGADOR DE POLÍCIA I"
+      ],
+      "scope_codes": null,
+      "sha1_texto": "bbb9c77ab061116133566887ea727f94343f1494"
+    },
+    {
+      "Disciplina": "NOÇÕES DE DIREITOS HUMANOS",
+      "Grupo": "Conhecimentos específicos",
+      "n_partes": 9,
+      "paginas": [
+        46
+      ],
+      "scope": [
+        "INVESTIGADOR DE POLÍCIA I"
+      ],
+      "scope_codes": null,
+      "sha1_texto": "b686cd75111725542994f290d29427bbbab0957a"
+    },
+    {
+      "Disciplina": "NOÇÕES DE MEDICINA LEGAL",
+      "Grupo": "Conhecimentos específicos",
+      "n_partes": 19,
+      "paginas": [
+        46,
+        47
+      ],
+      "scope": [
+        "INVESTIGADOR DE POLÍCIA I"
+      ],
+      "scope_codes": null,
+      "sha1_texto": "5cb1303efe79d96eb6f02f8968492ca8272409ea"
+    },
+    {
+      "Disciplina": "NOÇÕES DE CRIMONOLOGIA",
+      "Grupo": "Conhecimentos específicos",
+      "n_partes": 13,
+      "paginas": [
+        47
+      ],
+      "scope": [
+        "INVESTIGADOR DE POLÍCIA I"
+      ],
+      "scope_codes": null,
+      "sha1_texto": "cc7815928a587eb3c6d3a9ebdd719a2a9f8d4b39"
+    }
+  ],
+  "cargos": [
+    "INVESTIGADOR DE POLÍCIA I"
+  ],
+  "cobertura_linhas": {
+    "linhas_em_blocos": 196,
+    "linhas_limpas_secao": 213
+  },
+  "conteudo": {
+    "INVESTIGADOR DE POLÍCIA I": [
+      {
+        "Disciplina": "LÍNGUA PORTUGUESA",
+        "Grupo": "Conhecimentos gerais",
+        "n_assuntos": 14,
+        "paginas": "43",
+        "sha1_assuntos": "bcb43ce39a12142bf9012e68e5785a7254f4e461"
+      },
+      {
+        "Disciplina": "RACIOCÍNIO LÓGICO-MATEMÁTICO",
+        "Grupo": "Conhecimentos gerais",
+        "n_assuntos": 14,
+        "paginas": "43",
+        "sha1_assuntos": "caf21c31cdadeaecaa09d1ef49961fa359063886"
+      },
+      {
+        "Disciplina": "INFORMÁTICA BÁSICA",
+        "Grupo": "Conhecimentos gerais",
+        "n_assuntos": 56,
+        "paginas": "43, 44",
+        "sha1_assuntos": "c1448b19bfe3b6c74d4754d2f22e25c596d222df"
+      },
+      {
+        "Disciplina": "LEI ORGÂNICA DA POLÍCIA CIVIL DO ESTADO DE MINAS GERAIS",
+        "Grupo": "Conhecimentos gerais",
+        "n_assuntos": 61,
+        "paginas": "44, 45",
+        "sha1_assuntos": "698243a89a0f08d22bdecb6da9fe31c13efd2e5e"
+      },
+      {
+        "Disciplina": "NOÇÕES DE DIREITO ADMINISTRATIVO",
+        "Grupo": "Conhecimentos específicos",
+        "n_assuntos": 26,
+        "paginas": "45",
+        "sha1_assuntos": "be20134e2ca38c7914de4e95f56cfd2557792011"
+      },
+      {
+        "Disciplina": "NOÇÕES DE DIREITO CONSTITUCIONAL",
+        "Grupo": "Conhecimentos específicos",
+        "n_assuntos": 13,
+        "paginas": "45",
+        "sha1_assuntos": "d6258b17e78f3d88763e5f888fea664e101637d5"
+      },
+      {
+        "Disciplina": "NOÇÕES DE DIREITO PENAL",
+        "Grupo": "Conhecimentos específicos",
+        "n_assuntos": 15,
+        "paginas": "45",
+        "sha1_assuntos": "2797f9042de19f4ce5d6e355e022492ac07f83d9"
+      },
+      {
+        "Disciplina": "NOÇÕES DE DIREITO PROCESSUAL PENAL",
+        "Grupo": "Conhecimentos específicos",
+        "n_assuntos": 7,
+        "paginas": "45",
+        "sha1_assuntos": "d7c810e046b58a7cbfb612d03d484cbf1c299e24"
+      },
+      {
+        "Disciplina": "LEGISLAÇÃO PENAL E PROCESSUAL EXTRAVAGANTE",
+        "Grupo": "Conhecimentos específicos",
+        "n_assuntos": 71,
+        "paginas": "45, 46",
+        "sha1_assuntos": "ee9ca3155f74d6cbdffd85d58a64d2b1e6877cc0"
+      },
+      {
+        "Disciplina": "NOÇÕES DE DIREITOS HUMANOS",
+        "Grupo": "Conhecimentos específicos",
+        "n_assuntos": 10,
+        "paginas": "46",
+        "sha1_assuntos": "f89e4f9b24e13ce35185b043cf354830c4e6de58"
+      },
+      {
+        "Disciplina": "NOÇÕES DE MEDICINA LEGAL",
+        "Grupo": "Conhecimentos específicos",
+        "n_assuntos": 37,
+        "paginas": "46, 47",
+        "sha1_assuntos": "84b06dc33c9dcc42a33e535d4b2e915112d16ff3"
+      },
+      {
+        "Disciplina": "NOÇÕES DE CRIMONOLOGIA",
+        "Grupo": "Conhecimentos específicos",
+        "n_assuntos": 14,
+        "paginas": "47",
+        "sha1_assuntos": "352a38265275bfcf5363e8e03ec10d4545b4d20a"
+      }
+    ]
+  },
+  "cronograma": [
+    {
+      "Data": "21/10/2024",
+      "Evento": "Início das inscrições",
+      "Página": 5,
+      "Trecho": "Período de inscrição: a partir das 16h (horário de Brasília) do dia 21 (vinte e um) de outubro de 2024 até as 16h (horário de Brasília) do dia 19 (dezenove) de novembro de 2024, obedecidas as normas c"
+    },
+    {
+      "Data": "19/11/2024",
+      "Evento": "Encerramento das inscrições",
+      "Página": 5,
+      "Trecho": "Período de inscrição: a partir das 16h (horário de Brasília) do dia 21 (vinte e um) de outubro de 2024 até as 16h (horário de Brasília) do dia 19 (dezenove) de novembro de 2024, obedecidas as normas c"
+    },
+    {
+      "Data": "26/01/2025",
+      "Evento": "Data prevista da prova",
+      "Página": 16,
+      "Trecho": "OS OBJETIVA 4.1 A Prova Objetiva, de caráter eliminatório e classificatório, será realizada em Belo Horizonte, e terá duração mínima de 2h e máxima de 4h, sendo aplicada na data provável de 26 de janeiro de 2025, no turno da tarde. 4.1.1 A Prova Objetiva será realizada das 15h às "
+    }
+  ],
+  "dados": {
+    "INVESTIGADOR DE POLÍCIA I": {
+      "codigo": null,
+      "jornada": "40 horas semanais",
+      "paginas": [
+        4,
+        6
+      ],
+      "salario": "R$ 5.332,62",
+      "taxa": "R$ 85,00",
+      "vagas": "165"
+    }
+  },
+  "identificacao": {
+    "Banca": [
+      "Fundação Getulio Vargas"
+    ],
+    "Órgão": [
+      "Polícia Civil do Estado de Minas Gerais"
+    ]
+  },
+  "intervalo_conteudo": [
+    43,
+    47
+  ],
+  "n_paginas": 61,
+  "prova": {
+    "INVESTIGADOR DE POLÍCIA I": null
+  },
+  "vagas_tabelas": {}
+}

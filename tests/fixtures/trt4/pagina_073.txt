@@ -1,0 +1,55 @@
+Fiscal (Lei Complementar nº 101/2000 e suas alterações). Lei nº 4.320/1964 e suas alterações. Constituição
+Federal de 1988 (artigos 163 a 169). Jurisprudência do STF.
+Contabilidade Geral: Normas Brasileiras de Contabilidade – Gerais (NBC TG’s) (aprovadas pelo Conselho Federal
+de Contabilidade – CFC). Lei nº 6.404/1976 e suas alterações. Elaboração de demonstrações contábeis pela
+legislação societária e pelas Normas Brasileiras de Contabilidade – Gerais (NBC TG’s). Estrutura Conceitual:
+conceito e objetivos, usuários e suas necessidades de informação, os ramos aplicados da Contabilidade e as
+características qualitativas da informação financeira útil. Patrimônio e Variações patrimoniais: conceituação de
+patrimônio, ativos, passivos e patrimônio líquido, aspecto qualitativo e quantitativo, representação gráfica,
+equação básica da contabilidade, registros de mutações patrimoniais e apuração do resultado. Plano de Contas
+e Procedimentos de Escrituração: conceito, classificação (patrimoniais e de resultado) e natureza das contas
+(devedoras e credoras), método das partidas dobradas, mecanismos de débito e crédito, origens e aplicações
+de recursos, elementos essenciais do lançamento contábil, regime de competência, balancete de verificação,
+livros utilizados na escrituração. Avaliação de Ativos e Passivos. Mensuração Inicial e Subsequente de Ativos e
+Passivos. Contabilização de vendas, compras, devoluções, abatimentos, despesas e receitas operacionais e
+outras receitas e despesas. Apuração da Receita Líquida e do Lucro Bruto (através do método de custeio por
+absorção  parcial).  Critérios de  avaliação de estoques e reconhecimento  inicial. Balanço  Patrimonial.
+Demonstração do Resultado do Exercício e Demonstração do Resultado Abrangente. Demonstração dos Lucros
+ou Prejuízos Acumulados. Demonstração das Mutações do Patrimônio Líquido. Demonstração dos Fluxos de
+Caixa. Demonstração do Valor Adicionado. Notas explicativas.
+
+                                  Conhecimentos Específicos
+05 – Analista Judiciário – Área Apoio Especializado – Especialidade Arquitetura
+História, Teoria e Patrimônio.  Teoria e História da Arquitetura e da Arte: Conhecimento básico sobre a
+evolução das formas, técnicas e movimentos culturais ao longo do tempo. Conceitos fundamentais de
+arquitetura, urbanismo e paisagismo e sua relação com a sociedade e a cultura. Ciências Humanas e Sociais:
+Noções de sociologia urbana. Conceitos básicos do processo de estruturação do espaço urbano e de
+planejamento físico-territorial. Antropologia e psicologia ambiental (compreensão sobre o uso e a percepção
+dos espaços pelas pessoas). Projeto de Edificação: Conhecimento geral sobre correntes internacionais da
+arquitetura contemporânea e moderna e seus respectivos expoentes brasileiros. Patrimônio Histórico e
+Restauro: Conhecimento geral sobre patrimônio histórico, cultural e arquitetônico. Noções de metodologias de
+conservação, restauração, reabilitação e preservação do patrimônio edificado e cultural. Concepção e Projeto
+(Teoria e Prática). Condições de Território: Capacidade de reconhecimento das características físicas do terreno
+e seu entorno, topografia, drenagem, aspectos geotécnicos, vegetação e cobertura vegetal, áreas de
+preservação, noções de aerofotogrametria e fotointerpretação e cartas gráficas (analógicas e digitais). Etapas
+de Projeto: Conhecimento geral sobre levantamento de necessidades e definição de programa de necessidades,
+estudo de viabilidade técnica, estudo preliminar, anteprojeto, projeto legal, projeto básico, projeto executivo e
+compatibilização do projeto arquitetônico com os complementares. Projeto Arquitetônico: Capacidade de
+compreensão de projeto de arquitetura, domínio de técnicas de estudo da forma, volumetria, distribuição
+espacial, função, circulação, estética das edificações, materiais e técnicas construtivas. Conhecimentos gerais
+sobre lançamento de projetos complementares (estrutura, hidrossanitário, elétrico, impermeabilização e
+drenagem externa). Arquitetura de Interiores: Ergonomia, especificação de materiais, projeto de mobiliário e
+marcenaria, iluminação e organização funcional de espaços internos. Composição e Representação gráfica:
+Desenho técnico (NBR 6492/2021), geometria descritiva, As-Built (como construído), croquis, modelagem
+digital/3D, computação gráfica e uso de softwares CAD (Autodesk AutoCAD). Tecnologia BIM (Building
+Information Modeling): BIM manager, BIM mandate, templates, famílias, LOD (Level Of Development), LOI (Level
+Of Information), CDE – Common Data Environment (ambiente comum de dados), BIM Execution Plan – BEP
+(plano de execução BIM), interoperabilidade e padrões abertos (OpenBIM), formato IFC – Industry Foundation
+Classes e uso de softwares BIM (Autodesk Revit e Navisworks). Modelagem paramétrica, documentação,
+padronização de famílias, extração de quantitativos e tabelas, detecção de conflitos e compatibilização (clash
+detection). Documentação e Orçamentação: Conhecimentos gerais sobre elaboração de cadernos de encargos,
+especificações técnicas, levantamento de quantitativos de materiais, planilhas de custos e orçamentos de obras,
+formação de BDI e encargos sociais, uso de sistemas públicos de custos (SINAPI, Sicro), ferramentas de
+orçamentação  (como  Orçafascio  e  OrçaBIM),  cronogramas   físico-financeiro  e  diagrama  PERT.
+
+                                                                                 73

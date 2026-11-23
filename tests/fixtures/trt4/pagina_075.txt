@@ -1,0 +1,55 @@
+Planejamento, Orçamento e Gestão de Obras: Planejamento e Viabilidade de Projetos e Obras: Programação,
+procedimentos gerenciais, operação e acompanhamento de obras; Cronograma físico-financeiro; Técnicas de
+planejamento: PERT (Program Evaluation and Review Technique) e CPM (Critical Path Method); Histograma de
+mão de obra; Orçamento e Avaliação de Custos: Levantamento de quantidades; Avaliação de custos unitários
+e composição de custos unitários, parciais e totais; BDI (Benefícios e Despesas Indiretas) e Encargos Sociais;
+Gestão e Controle de Obras: Fiscalização e controle de execução de obras e serviços; Acompanhamento da
+aplicação de recursos (medições, emissão de faturas, etc.); Documentação da obra: diários de obra, Anotação
+de Responsabilidade Técnica (ART) e documentos de legalização; Controle de qualidade e ensaios de
+recebimento da obra. Materiais de Construção Civil e Tecnologia do Concreto: Materiais de Construção:
+Aglomerantes: gesso, cal, cimento Portland; Agregados; Aço, madeira, materiais cerâmicos, vidros, tintas e
+vernizes; Materiais não convencionais; Tecnologia do Concreto e Argamassas: Argamassas e dosagem de
+concreto; Tecnologia do concreto; Controle tecnológico e controle de materiais (cimento, agregados, aditivos,
+concreto usinado, aço, madeira, cerâmicos, vidro, etc.). Projetos, Representação Gráfica e Compatibilização:
+Desenho Técnico e Software de Projeto: Desenho técnico e escalas; Uso de softwares CAD (desenho auxiliado
+por computador - AutoCAD) e Autodesk Revit; Modelagem e Compatibilização: Building Information Modeling
+(BIM / Modelagem da Informação da Construção); Compatibilização de projetos; Documentos Descritivos de
+Projeto: Especificação de materiais e serviços; Termos de referência, projetos básicos, discriminações técnicas,
+cadernos de encargos e especificações técnicas. Execução de Edificações e Processos Construtivos: Serviços
+Preliminares e Canteiro de Obras: Organização do canteiro de obras, instalações provisórias, depósitos,
+armazenamento de materiais, equipamentos e ferramentas; Locação de obras, sondagens, escavações e
+escoramentos; Sistemas Estruturais e Construtivos: Execução de fundações (sapatas, estacas e tubulões);
+Formas e armações; Estruturas de concreto (armado e protendido), aço e madeira; Alvenaria estrutural,
+estruturas pré-fabricadas e pré-moldadas; Light Steel Framing; Revestimentos e Acabamentos: Alvenarias,
+revestimentos, argamassas,  esquadrias,  pisos,  coberturas e  pinturas;  Sistemas de  impermeabilização.
+Instalações Prediais e Complementares: Instalações Hidrossanitárias e de Gás: Instalações hidráulicas, esgoto,
+água quente, ar comprimido, vácuo e gás; Instalações Elétricas e de Comunicação: Instalações elétricas e
+telefonia; Instalações  especiais (proteção,  vigilância e  sinalização); Sistemas  Prediais Complementares:
+Elevadores, sistemas de ventilação, exaustão e ar-condicionado; Prevenção e combate contra incêndio.
+Topografia e Terraplenagem: Planimetria, altimetria e planialtimetria; Serviços de topografia e terraplenagem.
+Mecânica dos Solos: Permeabilidade, percolação e compactação; Compressibilidade, adensamento e estimativa
+de recalques; Resistência ao cisalhamento e empuxos de terra. Fundações e Obras em Terra:  Fundações
+Superficiais: Conceitos de transmissão de carga diretas ao solo de superfície; Análise de estabilidade e
+dimensionamento. Ex.: sapatas (isoladas, associadas, corridas), blocos de fundação e radier; Fundações
+Profundas: Transmissão de cargas em camadas profundas por ponta ou atrito lateral; Análise de estabilidade e
+dimensionamento. Ex.: estacas (pré-moldadas, escavadas, tipo Strauss, Franki, hélice contínua) e tubulões (a
+céu aberto e a ar comprimido); Obras de Contenção e Terra: Estabilidade de taludes, estruturas de arrimo e
+obras de contenção. Resistência dos Materiais, Análise Estrutural e Concreto Armado: Resistência dos
+Materiais: Tensões e deformações; Solicitações simples e compostas: flexão simples, flexão composta, torção,
+cisalhamento e flambagem; Análise Estrutural: Estruturas isostáticas e hiperestáticas; Linhas de influência;
+Dimensionamento de Estruturas: Dimensionamento de elementos em concreto armado. Hidráulica, Hidrologia,
+Drenagem e Infraestrutura Urbana: Hidráulica e Hidrologia: Conceitos fundamentais de hidráulica e hidrologia
+aplicadas; Saneamento Básico e Drenagem: Redes de distribuição de água e de coleta de esgoto; Obras de
+drenagem e noções de irrigação; Infraestrutura Viária: Projeto, execução e pavimentação de vias. Patologia,
+Manutenção e Desempenho das Construções: Patologia das Edificações: Causas, prevenção e recuperação de
+manifestações patológicas em obras civis; Patologia das fundações e do concreto; Gestão da Manutenção
+Predial e Reformas: Tipos de manutenção: preditiva, preventiva e corretiva; Sistemas de gestão da manutenção
+e vistorias; ABNT NBR 16280:2024 – Reforma em edificações – Sistemas de gestão de reformas – Requisitos;
+ABNT NBR 5674:2024 – Manutenção de edificações – Requisitos para o sistema de gestão e manutenção; ABNT
+NBR 14037:2024 – Diretrizes para elaboração de manuais de uso, operação e manutenção das edificações –
+Requisitos para elaboração e apresentação dos conteúdos. Engenharia Legal, Avaliações e Perícias: Perícias de
+Engenharia: ABNT NBR 13752:2024 – Perícias de engenharia na construção civil; Vistorias, laudos periciais e
+elaboração de pareceres técnicos; Engenharia de Avaliações: Métodos de avaliação, níveis de rigor e fatores de
+homogeneização; Avaliação de depreciação, laudos de avaliação e processos de desapropriação; ABNT NBR
+
+                                                                                 75

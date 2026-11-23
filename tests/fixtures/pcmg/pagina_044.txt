@@ -1,0 +1,56 @@
+mensagem. 3.5.3. Organização de mensagens em pastas. 3.5.4. Backup e compactação dos e-
+mails. 3.5.5. Envio, resposta, encaminhamento, recebimento de e-mails e anexos. 3.5.6.
+Endereços e formas de endereçamento de correio eletrônico, webmail, Microsoft Outlook 2016.
+3.5.7. Garantindo o sigilo e a autenticidade de um e-mail através de criptografia PGP, chaves
+públicas e privadas. 3.6. Conceitos e principais recursos de editores de textos, planilhas
+eletrônicas e editores de apresentações Microsoft Office 2016 e LibreOffice 7.1.6. 3.6.1.
+Powerpoint e Impress: estrutura básica de apresentações, edição e formatação, criação de
+apresentações, configuração da aparência da apresentação, impressão de apresentações,
+multimídia, desenho e clipart, uso da barra de ferramentas, atalhos e menus. 3.6.2. Word e
+Writer: estrutura básica dos documentos; operações com arquivos, criação e uso de modelos;
+edição e formatação de textos; cabeçalhos e rodapé; parágrafos; fontes; colunas; marcadores
+simbólicos e numéricos; tabelas e texto multicolunados; configuração de páginas e impressão;
+ortografia e gramática; controle de quebras; numeração de páginas; legendas; índices; inserção
+de objetos; campos predefinidos, caixas de texto e caracteres especiais; desenhos e cliparts; uso
+da barra de ferramentas, régua, janelas, atalhos e menus; mala direta e proteção de
+documentos. 3.6.3. Excell e Calc: estrutura básica das planilhas, conceitos de células, linhas,
+colunas, pastas e gráficos, elaboração de tabelas e gráficos, uso de fórmulas, funções e macros,
+impressão, inserção de objetos, campos predefinidos, controle de quebras, numeração de
+páginas, obtenção de dados externos, classificação, uso da barra de ferramentas, atalhos e
+menus. 3.7. Segurança 3.7.1. Tipos de vírus, Cavalos de Tróia, Malwares, Worms, Spyware,
+Phishing, Pharming, Ransomwares, Spam. 3.7.2. Riscos de segurança no uso de correio
+eletrônico e internet. 3.7.3. Backup de arquivos digitais em mídias de armazenamento, drives
+virtuais e pastas compartilhadas na rede. 3.7.4. Segurança digital, ataques e crimes cibernéticos,
+LGPD, vazamento de informações 3.8. Certificação digital 3.8.1. Conceitos e legislação. 3.8.2.
+Tipos de certificados digitais. 3.8.3. Aplicativos de segurança. 3.8.4. Criptografia PGP. 3.8.4.1.
+Chaves públicas e privadas. 3.8.4.2. Consulta e envio de chaves públicas a um servidor de chaves
+utilizando interface web ou aplicativos próprios. 3.8.5. Infraestrutura de Chaves Públicas
+Brasileira – ICP-Brasil 3.9. Software livre 3.9.1. Conceito, distribuição e modificação. 3.9.2.
+Licenças BSD, GPLv2 e GPLv3. 3.9.3. Diretrizes para Distribuições de Sistemas Livres (GNU FSDG).
+
+4. LEI ORGÂNICA DA POLÍCIA CIVIL DO ESTADO DE MINAS GERAIS
+4.1 Lei Estadual n.º 5.406, de 16 de dezembro de 1969: 4.1.1 Livro V - Estatuto do servidor
+policial 4.1.1.1 Título XVII - Regime Disciplinar 4.1.1.1.1 Capítulo I - Transgressões Disciplinares
+4.1.1.1.1.1 Seção I – Classificação 4.1.1.1.1.2 Seção II - Causas e Circunstâncias que Influem no
+Julgamento 4.1.1.1.2 Capítulo  II – Penalidades 4.1.1.1.3 Capítulo  III  - Competência para
+Imposição de Penalidades 4.1.1.1.4 Capítulo IV - Prisão Administrativa e Suspensão Preventiva
+4.1.1.1.5 Capítulo V - Procedimento Administrativo 4.1.1.1.5.1 Seção I - Instauração do Processo
+4.1.1.1.5.2 Seção II - Sindicância 4.1.1.1.5.3 Seção III - Comissões Processantes Permanentes
+4.1.1.1.6 Capítulo VI - Atos e Termos Processuais 4.1.1.1.7 Capítulo VII - Processo por Abandono
+de Cargo ou Função 4.1.1.1.8 Capítulo  VIII  - Revisão de Processo Administrativo 4.2 Lei
+Complementar Estadual n.º 129, de 08 de novembro de 2013 4.2.1 Título I - Disposições Gerais
+4.2.1.1 Capítulo I - Disposições Preliminares 4.2.1.2 Capítulo II - Da Competência 4.2.2 Título II –
+Da Organização 4.2.2.1 Capítulo I - Da Estrutura Orgânica 4.2.2.2 Capítulo II - Da Administração
+Superior 4.2.2.2.1 Seção I - Da Chefia da PCMG 4.2.2.2.2 Seção II - Da Chefia Adjunta da PCMG
+4.2.2.2.3 Seção III - Do Conselho Superior da PCMG 4.2.2.2.3.1 Subseção I - Do Órgão Especial
+4.2.2.2.3.2 Subseção  II  - Da Câmara Disciplinar 4.2.2.2.3.3 Subseção  III  - Da Câmara de
+Planejamento e Orçamento 4.2.2.2.4 Seção IV - Da Corregedoria-Geral de Polícia Civil 4.2.2.3
+Capítulo III - Da Administração 4.2.2.3.1 Seção I - Do Gabinete da Chefia da PCMG 4.2.2.3.2 Seção
+II - Da Academia de Polícia Civil 4.2.2.3.3 Seção IV - Da Superintendência de Investigação e Polícia
+Judiciária 4.2.2.3.4 Seção V - Da Superintendência de Informações e Inteligência Policial 4.2.2.3.5
+Seção  VI  - Da Superintendência de  Polícia  Técnico-Científica  4.2.2.3.6 Seção  VII  - da
+Superintendência de Planejamento, Gestão e Finanças 4.2.3 Título III - Do Estatuto dos Policiais
+
+
+
+                                                                           4444

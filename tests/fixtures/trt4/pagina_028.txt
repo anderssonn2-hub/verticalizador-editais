@@ -1,0 +1,69 @@
+  10.1  O concurso público constará das seguintes provas por Cargo/Área/Especialidade, número de questões,
+        peso e duração das provas, conforme tabela a seguir:
+Código
+                                                                 Nº de
+  de        Cargo/Área/Especialidade                   Provas                        Peso  Duração
+                                                                       Questões
+opção
+                                        Prova Objetiva
+         Analista Judiciário –               Conhecimentos Gerais               30       1
+  01                                                                                  4h
+        Área Judiciária                   Conhecimentos Específicos            30       2
+                                        Prova Discursiva-Estudo de Caso        1
+                                        Prova Objetiva
+         Analista Judiciário –
+                                        Conhecimentos Gerais               30       1
+  02    Área Judiciária – Especialidade                                                      4h
+                                        Conhecimentos Específicos            30       2
+          Oficial de Justiça Avaliador Federal
+                                        Prova Discursiva-Estudo de Caso        1
+                                        Prova Objetiva
+         Analista Judiciário –               Conhecimentos Gerais               30       1
+  03                                                                                  4h
+        Área Administrativa               Conhecimentos Específicos            30       2
+                                        Prova Discursiva-Redação             1
+                                        Prova Objetiva
+         Analista Judiciário –
+                                        Conhecimentos Gerais               30       1
+  04    Área Administrativa –                                                             4h
+                                        Conhecimentos Específicos            30       2
+         Especialidade Contabilidade
+                                        Prova Discursiva-Redação             1
+                                        Prova Objetiva
+         Analista Judiciário –
+                                        Conhecimentos Gerais               30       1
+  05    Área Apoio Especializado –                                                         4h
+                                        Conhecimentos Específicos            30       2
+         Especialidade Arquitetura
+                                        Prova Discursiva-Redação             1
+                                        Prova Objetiva
+         Analista Judiciário –
+                                        Conhecimentos Gerais               30       1
+  06    Área Apoio Especializado –                                                         4h
+                                        Conhecimentos Específicos            30       2
+         Especialidade Engenharia (Civil)
+                                        Prova Discursiva-Redação             1
+         Analista Judiciário –               Prova Objetiva
+        Área Apoio Especializado –         Conhecimentos Gerais               30       1
+  07                                                                                  4h
+         Especialidade Engenharia          Conhecimentos Específicos            30       2
+          (Elétrica)                        Prova Discursiva-Redação             1
+         Analista Judiciário –               Prova Objetiva
+        Área Apoio Especializado –         Conhecimentos Gerais               30       1
+  08                                                                                  4h
+         Especialidade Engenharia          Conhecimentos Específicos            30       2
+        (Segurança do Trabalho)           Prova Discursiva-Redação             1
+                                        Prova Objetiva
+         Analista Judiciário –
+                                        Conhecimentos Gerais               30       1
+  09    Área Apoio Especializado –                                                         4h
+                                        Conhecimentos Específicos            30       2
+         Especialidade Estatística
+                                        Prova Discursiva-Redação             1
+         Analista Judiciário –               Prova Objetiva
+        Área Apoio Especializado –         Conhecimentos Gerais               30       1
+  10                                                                                  4h
+         Especialidade Medicina (Clínico     Conhecimentos Específicos            30       2
+         Geral)                           Prova Discursiva-Redação             1
+  11     Analista Judiciário –               Prova Objetiva                                    4h
+                                                                                  28

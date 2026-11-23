@@ -1,0 +1,55 @@
+Georreferenciamento e Coordenadas Compartilhadas: Noções básicas de Sistema de Informação Geográfica
+(SIG) e verificação do alinhamento do ponto base do projeto (Project Base Point e Survey Point) com o sistema
+de coordenadas de topografia (SIRGAS 2000, UTM). Tecnologia e Sistemas construtivos. Sistemas Estruturais:
+Compreensão do comportamento mecânico e dimensionamento básico de estruturas em concreto armado, aço,
+madeira e alvenaria estrutural. Materiais de Construção e Processos: Propriedades dos materiais, patologias da
+construção e técnicas executivas do canteiro de obras. Instalações Prediais: Integração de projetos hidráulicos,
+sanitários, elétricos, lógicos, de prevenção contra incêndio, climatização e automação. Conforto Ambiental e
+Bioclimatismo. Desempenho Térmico e Ventilação: Conhecimento sobre soluções passivas para aquecimento,
+resfriamento e circulação natural de ar, envoltória da edificação, dimensionamento mínimo de compartimentos,
+adequação de implantação e orientação solar. Iluminação e Acústica: Aproveitamento da luz natural, conforto
+visual, brise-soleil e demais sistemas de controle dinâmico de entrada de luz natural, dimensionamento de
+iluminação artificial e isolamento/tratamento acústico de ambientes. Sustentabilidade e Eficiência energética:
+Noções de preservação ambiental, instrumentos de gestão ambiental (EIA – Estudo de Impacto Ambiental, RIMA
+– Relatório de Impacto Ambiental, RIV – Relatório de Impacto de Vizinhança), conhecimentos gerais do uso de
+materiais ecológicos, gestão de resíduos, captação, aproveitamento e reuso de água da chuva e arquitetura
+sustentável. Noções gerais de certificações nacionais e internacionais de desempenho energético (Procel Edifica,
+Etiquetagem PBE Edifica) e ambiental (LEED e AQUA-HQE). Urbanismo e Planejamento territorial. Desenho e
+Projeto Urbano: Noções básicas sobre planejamento de espaços públicos (praças, parques), sistema viário,
+mobilidade e acessibilidade urbana. Planejamento Urbano e Regional: Conhecimentos de legislação urbanística
+(Plano Diretor, zoneamento, uso e ocupação do solo), parcelamento do solo (gleba, quadra, lote, logradouro
+público, desmembramento, desdobro, remembramento de  lote), circulação, transporte, sistema  viário,
+infraestrutura urbana, equipamentos e mobiliários urbanos. Arquitetura Paisagística: Conhecimentos gerais
+sobre paisagismo, concepção de espaços abertos, uso do paisagismo no conforto térmico, na proteção
+contraventos intensos, na acessibilidade e integração ecológica. Escolha e manejo de vegetação, planejamento
+da paisagem urbana e análise da paisagem natural e modificada. Gestão, Legislação e Prática profissional.
+Gerenciamento de Obras: Conhecimento de orçamentação, planejamento físico-financeiro, cronogramas e
+controle de execução. Acompanhamento, Controle e Fiscalização de Obras e Serviços: Conhecimentos gerais
+sobre licitações, contratos, editais e orçamentos, normas de segurança do trabalho (NR-18), verificação e
+aferição da execução de obras e serviços, aditivo e aditivo supressivo, atualização de orçamento de obras, uso
+do SINAPI, medição de pagamentos, noções básicas de gerenciamento de obras, organização de canteiros de
+obra, patologias das construções, métodos construtivos, especificação de materiais e sistemas de qualidade,
+gestão e recebimento de obras. Legislação e Normas técnicas: Conhecimento geral sobre a Lei de Licitações e
+Contratos Administrativos (Lei nº 14.133/2021 e suas alterações), Código de Ética e Disciplina do CAU/BR
+(Resolução CAU/BR nº 52/2013), noções de direito administrativo e constitucional voltadas ao serviço público.
+Instrumentos de Códigos de Obras e Planos Diretores municipais (recuos, taxa de ocupação, índice de
+aproveitamento, taxa de permeabilidade, subsolo, categorias de uso, densidade construtiva, gabaritos de altura
+das edificações, outorga onerosa, transferência do direito de construir, zoneamento urbano, macroáreas,
+sistemas de áreas verdes, áreas não edificáveis, áreas de preservação e proteção, zona urbana e rural). Normas
+técnicas aplicadas a projetos de arquitetura (NBR 16636 e NBR 6492), a sanitários coletivos (NR-24), espaços e
+vagas de estacionamento, reserva de vagas para idosos e PCD (Resoluções CONTRAN nº 965/2022 e
+1.012/2024), saídas de emergência (NBR 9077), espaços de circulação horizontal (circulações e corredores) e
+vertical (rampas e escadas), uso de vidros em edificações (NBR 7199), equipamentos mecânicos (elevadores,
+esteiras e escadas rolantes), acessibilidade a pessoas com deficiência e com mobilidade reduzida (NBR 9050 e
+correlatas), acessibilidade aplicada ao setor público (Lei Federal nº 10.098/2000 e Decreto nº 5.296/2004),
+sinalização tátil (NBR 16537). Noções básicas de sistemas elétricos, hidráulicos e de condicionamento térmico
+mecânico de ar, sinalização e sistemas de segurança de uso. Instrumentos urbanísticos vinculados ao Estatuto
+da Cidade (Lei Federal nº 10.257/2001) e trâmites de aprovação documental junto a órgãos competentes (como
+prefeituras, corpos de bombeiros, órgãos ambientais e autarquias/concessionárias de água e esgoto), obtenção
+de alvará de construção e Habite-se. Avaliações e Perícias: Noções de avaliação de imóveis urbanos, emissão
+de laudos técnicos, perícias judiciais e vistorias em edificações.
+
+                                  Conhecimentos Específicos
+06 – Analista Judiciário – Área Apoio Especializado – Especialidade Engenharia (Civil)
+
+                                                                                 74

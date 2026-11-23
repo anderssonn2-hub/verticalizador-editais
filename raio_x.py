@@ -11,7 +11,7 @@ import hashlib
 
 def mostrar_raio_x():
     st.subheader('Raio-X do edital')
-    st.caption('V3.0.10 DEV · Resumo automático do edital. Consulte as fontes se precisar.')
+    st.caption('V3.0.11 DEV · Resumo automático do edital. Consulte as fontes se precisar.')
     pdf=st.file_uploader('Edital do concurso',type=['pdf'],key='raiox_pdf')
     if pdf is None: return
     doc=hashlib.sha256(pdf.getvalue()).hexdigest()[:16]
@@ -37,15 +37,76 @@ def mostrar_raio_x():
         source_pages=[p for b in blocks for p,_ in b['parts']]
         if source_pages: start,end=min(source_pages),max(source_pages)
     if opts: nomes=[dict(Cargo=x,Página=start,Trecho="Cabeçalho do conteúdo programático") for x in opts]
+
+    # V3.0.11 - Eliminar cargos duplicados por grafia
+    cargos_unicos = {}
+    for item in nomes:
+        nome = item['Cargo'].strip()
+        identificador = chave(nome)
+        if identificador not in cargos_unicos:
+            cargos_unicos[identificador] = item
+
+    nomes = list(cargos_unicos.values())
+
     campos+=campos_extra(pgs)
     candidatos,datas,questoes,pesos=analisar(pgs)
     a,b,c=st.columns(3); a.metric('Páginas',len(pgs)); b.metric('Possíveis cargos',len(nomes)); c.metric('Conteúdo sugerido',f'{start}–{end}')
     st.subheader('Identificação do concurso')
     doc=hashlib.sha256(pdf.getvalue()).hexdigest()[:16]
-    lista=[x['Cargo'] for x in nomes]
+        # V3.0.11 - Garantir cargos únicos antes dos cartões
+    nomes_filtrados = []
+    chaves_vistas = set()
+
+    for item in nomes:
+        nome = item['Cargo'].strip()
+        codigo_nome = chave(nome)
+
+        if codigo_nome in chaves_vistas:
+            continue
+
+        chaves_vistas.add(codigo_nome)
+        nomes_filtrados.append(item)
+
+    nomes = nomes_filtrados
+    lista = [item['Cargo'] for item in nomes]
+    st.write("DIAGNÓSTICO V3.0.11 — ARQUIVO ATUALIZADO")
+    st.write("Cargos recebidos:", repr(lista))
+    st.write("Total de cargos:", len(lista))
+    st.write("Chaves normalizadas:", [chave(n) for n in lista])
     escolha=None
-    from cargo_dados import extrair_dados, prova_por_cargo
+    from cargo_dados import extrair_dados, prova_por_cargo, complementar_dados_cargo_unico
     dados=extrair_dados(pgs,lista)
+    dados=complementar_dados_cargo_unico(pgs,dados)
+
+    # V3.0.11 - Vagas extraidas de tabelas do PDF
+    import re
+    from vagas_tabelas import extrair_vagas_tabelas
+
+    # V3.0.11 - Cache das vagas por documento
+    chave_vagas = "vagas_tabelas_" + doc
+
+    if chave_vagas not in st.session_state:
+        st.session_state[chave_vagas] = extrair_vagas_tabelas(
+            pdf.getvalue()
+        )
+
+    vagas_por_codigo = st.session_state[chave_vagas]
+
+    for nome_cargo in lista:
+        codigo_encontrado = re.match(
+            r"^\s*(\d{1,4})\s*[-–—.:)]",
+            nome_cargo
+        )
+
+        if not codigo_encontrado:
+            continue
+
+        codigo_cargo = codigo_encontrado.group(1)
+        registro = vagas_por_codigo.get(codigo_cargo)
+
+        if registro and dados[nome_cargo].get("vagas") is None:
+            dados[nome_cargo]["vagas"] = registro["vagas"]
+            dados[nome_cargo]["paginas"].add(registro["pagina"])
     for campo in ['Órgão','Banca']:
         valores=list(dict.fromkeys(x['Valor'] for x in campos if x['Campo']==campo))
         st.text(f'{campo}: '+ (' · '.join(valores) if valores else 'Não localizado'))
@@ -63,6 +124,7 @@ def mostrar_raio_x():
                     st.markdown('### '+(d['salario'] or 'Não localizada'))
                     st.write('Vagas: '+('Cadastro de reserva' if d['vagas']=='CR' else d['vagas'] or 'Não localizadas'))
                     if d['taxa']: st.caption('Taxa de inscrição: '+d['taxa'])
+                    if d.get('jornada'): st.caption('Jornada de trabalho: '+d['jornada'])
                     if d['paginas']: st.caption('PDF · p. '+', '.join(map(str,sorted(d['paginas']))))
                     if st.button('Selecionado' if st.session_state[key]==nome else 'Selecionar cargo',key=f'{key}_{inicio+j}',type='primary' if st.session_state[key]==nome else 'secondary',use_container_width=True):
                         st.session_state[key]=nome; st.rerun()
@@ -71,6 +133,7 @@ def mostrar_raio_x():
         else: st.caption('Selecione um cargo para visualizar seu conteúdo.')
     with st.expander('Fontes da identificação'): st.dataframe(campos,hide_index=True); st.dataframe(nomes,hide_index=True)
     st.subheader('Cronograma do concurso')
+    prova = None
     relevantes=tabela_datas(pgs)
     fallback=calendario(pgs)
     existentes={r['Evento'] for r in relevantes}
@@ -122,7 +185,7 @@ def mostrar_raio_x():
             for r in subset:
                 fontes.update(int(x) for x in r['Páginas'].split(', '))
                 with st.expander(f"{r['Disciplina']} · PDF p. {r['Páginas']}"):
-                    for i,t in enumerate(r['Assuntos'],1): st.write(f'{i}. {t}')
+                    for t in r['Assuntos']: st.write(t)
         st.caption('Segmentação por padrões; confira a íntegra e possíveis erros de OCR. Não representa uma hierarquia oficial de subtópicos.')
     elif opts and escolha in opts:
         rows=itens(pgs,escolha,detalhes=True)
