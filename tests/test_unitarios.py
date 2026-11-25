@@ -80,23 +80,36 @@ class TestInterpretarVagas(unittest.TestCase):
 
     def test_numeros_e_cadastro_de_reserva(self):
         from vagas_tabelas import interpretar_vagas
-        self.assertEqual(interpretar_vagas('165'), '165')
-        self.assertEqual(interpretar_vagas('1.024'), '1.024')
-        self.assertEqual(interpretar_vagas('CR'), 'CR')
-        self.assertEqual(interpretar_vagas('c.r.'), 'CR')
-        self.assertEqual(interpretar_vagas('Cadastro de Reserva'), 'CR')
+        for valor, esperado in (
+            ('0', '0'),
+            ('10', '10'),
+            ('165', '165'),
+            ('1.024', '1.024'),
+            ('12.345', '12.345'),
+            ('CR', 'CR'),
+            ('c.r.', 'CR'),
+            ('Cadastro de Reserva', 'CR'),
+        ):
+            with self.subTest(valor=valor):
+                self.assertEqual(interpretar_vagas(valor), esperado)
 
-    @unittest.expectedFailure
+    def test_notas_de_rodape_sobrescritas_nao_alteram_vagas(self):
+        from vagas_tabelas import interpretar_vagas
+        for valor, esperado in (
+            ('10¹', '10'),
+            ('10²', '10'),
+            ('10³', '10'),
+            ('10⁰', '10'),
+            ('10¹²', '10'),
+            ('1.024¹', '1.024'),
+            ('CR¹', 'CR'),
+            ('Cadastro de Reserva²', 'CR'),
+            ('10*', '10'),
+        ):
+            with self.subTest(valor=valor):
+                self.assertEqual(interpretar_vagas(valor), esperado)
+
     def test_sobrescrito_de_nota_de_rodape_nao_vira_digito(self):
-        """FALHA CONHECIDA (V3.0.11): em vagas_tabelas.interpretar_vagas a
-        normalização NFKD converte sobrescritos (¹²³…) em dígitos comuns
-        ANTES da regex que deveria removê-los. Resultado: '10¹' (10 vagas
-        com nota de rodapé) é interpretado como '101' vagas — corrupção
-        silenciosa do total de vagas em tabelas com notas.
-
-        Quando o defeito for corrigido, este teste dará "unexpected
-        success" e deverá virar obrigatório.
-        """
         from vagas_tabelas import interpretar_vagas
         self.assertEqual(interpretar_vagas('10¹'), '10')
 
@@ -143,24 +156,22 @@ class TestParserConteudo(unittest.TestCase):
         assuntos = _assuntos_numerados(partes)
         self.assertEqual(len(assuntos), 2)
 
-    @unittest.expectedFailure
     def test_assuntos_numerados_topico_iniciado_por_acento(self):
-        """FALHA CONHECIDA (V3.0.11): a classe de caracteres do lookahead em
-        _assuntos_numerados foi corrompida por encoding (conteudo.py:185,
-        '[A-Za-z?-?(?"\']'). Tópicos iniciados por letra acentuada
-        (Ética, Órgãos, Índice, Água…) não são reconhecidos como marcadores
-        e são fundidos ao tópico anterior.
-
-        Quando o defeito for corrigido, este teste dará "unexpected success"
-        e deverá virar um teste obrigatório.
+        """Regression test for numbered topics beginning with accented letters.
+        The regression includes Ética, Órgãos, Índices, and Água as topic starts.
+        Numbered descendants must remain separate, with their original labels.
         """
-        from conteudo import _assuntos_numerados
-        partes = [(1, '1.1 Conceito de moral. 1.2 Ética no serviço público. '
-                      '1.3 Deveres do servidor.')]
+        from conteudo import _assuntos_numerados, _TITULO_NUMERADO
+        partes = [(1, '1.1 Ética no serviço público. '
+                      '1.2 Órgãos públicos. '
+                      '1.2.1 Índices e indicadores. '
+                      '1.3 Água e saneamento.')]
         assuntos = _assuntos_numerados(partes)
-        self.assertEqual(
-            len(assuntos), 3,
-            f'tópico acentuado foi fundido: {assuntos}')
+        self.assertEqual(len(assuntos), 4, assuntos)
+        self.assertEqual([assunto.split()[0] for assunto in assuntos],
+                         ['1.1', '1.2', '1.2.1', '1.3'])
+        self.assertIsNotNone(
+            _TITULO_NUMERADO.fullmatch('1. ÉTICA, ÍNDICES E ÁGUA'))
 
 
 class TestDeduplicacaoCargos(unittest.TestCase):

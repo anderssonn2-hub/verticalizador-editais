@@ -94,13 +94,13 @@ def selected(blocks,cargo):
 
 _TITULO_NUMERADO = re.compile(
     r"^\s*(\d{1,2})\.\s+"
-    r"([A-Z?????????????][A-Z?????????????0-9\s,/()\-????]+)"
+    r"([^\W\d_][\w\s,/()\-]*)"
     r"\s*$"
 )
 
 _TOPICO_NUMERADO = re.compile(
     r"(?<![\w.])(\d{1,2}(?:\.\d{1,3}){1,8})\.?"
-    r"(?=\s+[A-Za-z?-?(?\"'])"
+    r"""(?=\s+(?:[^\W\d_]|["'(]))"""
 )
 
 def _parse_numerado(pgs):
@@ -178,12 +178,9 @@ def _assuntos_numerados(partes):
     if not texto:
         return []
 
-    # Reconhece t?picos que come?am com numera??o hier?rquica,
+    # Reconhece tópicos que começam com numeração hierárquica,
     # mas evita vers?es precedidas por nomes de aplicativos.
-    padrao = re.compile(
-        r"(?<![\w.])(\d{1,2}(?:\.\d{1,3}){1,8})\.?"
-        r"(?=\s+[A-Za-z?-?(?\"'])"
-    )
+    padrao = _TOPICO_NUMERADO
 
     marcadores = []
 

@@ -11,8 +11,9 @@ def normalizar(texto):
     return re.sub(r"\s+", " ", texto).strip().casefold()
 
 def interpretar_vagas(valor):
-    texto = normalizar(valor)
+    texto = str(valor or "").strip()
     texto = re.sub(r"[¹²³⁴⁵⁶⁷⁸⁹⁰*]+$", "", texto).strip()
+    texto = normalizar(texto)
 
     if re.search(r"cadastro\s*de\s*reserva", texto):
         return "CR"
